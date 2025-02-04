@@ -22,11 +22,11 @@ SERVICE_KEYWORDS = {
 # Mappatura categorie tematiche
 CATEGORY_KEYWORDS = {
     "Sport": ["sport", "dazn", "eurosport", "sky sport", "rai sport"],
-    "Film & Serie TV": ["cinema", "movie", "film", "serie", "hbo", "fox"],
+    "Film & Serie TV": ["primafila", "cinema", "movie", "film", "serie", "hbo", "fox"],
     "News": ["news", "tg", "rai news", "sky tg", "tgcom"],
     "Intrattenimento": ["rai", "mediaset", "italia", "focus", "real time"],
     "Bambini": ["cartoon", "boing", "nick", "disney", "baby"],
-    "Documentari": ["discovery", "geo", "history", "nat geo"],
+    "Documentari": ["discovery", "geo", "history", "nat geo", "nature", "arte", "documentary"],
     "Musica": ["mtv", "vh1", "radio", "music"]
 }
 
