@@ -15,9 +15,13 @@ OUTPUT_FILE = "channels_italy.m3u8"
 # Mappatura categorie
 CATEGORIES = {
     "Cinema": ["film", "movie", "cinema", "serie"],
-    "Sport": ["sport", "calcio", "football", "basket", "tennis", "dazn"],
-    "Intrattenimento": ["show", "reality", "music", "game", "y uno", "dmax", "italia1"],
-    "Informazione": ["news", "tg", "report", "documentary", "natur", "history"]
+    "Intrattenimento": ["show", "reality", "music", "game", "y uno", "dmax", "italia1", "rai", "mediaset", "italia", "focus", "real time"],
+    "Sport": ["sport", "dazn", "calcio", "tennis", "football", "eurosport", "sky sport", "rai sport"],
+    "Film & Serie TV": ["cinema", "movie", "film", "serie", "hbo", "fox"],
+    "News": ["news", "tg", "rai news", "sky tg", "tgcom"],
+    "Bambini": ["cartoon", "boing", "nick", "baby"],
+    "Documentari": ["discovery", "geo", "history", "nat geo", "nature"],
+    "Musica": ["mtv", "vh1", "radio", "music"]
 }
 
 def fetch_channels(base_url):

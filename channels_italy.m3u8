@@ -39,22 +39,22 @@ https://huhu.to/play/631792369/index.m3u8
 #EXTVLCOPT:http-referrer=https://oha.to
 #EXTHTTP:{"User-Agent":"OHA/1.0","Referer":"https://oha.to"}
 https://oha.to/play/631792369/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="20 MEDIASET (6)" tvg-logo="" group-title="Varie", 20 MEDIASET (6)
+#EXTINF:-1 tvg-id="" tvg-name="20 MEDIASET (6)" tvg-logo="" group-title="Intrattenimento", 20 MEDIASET (6)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to"}
 https://vavoo.to/play/1230338185/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="20 MEDIASET .c" tvg-logo="" group-title="Varie", 20 MEDIASET .c
+#EXTINF:-1 tvg-id="" tvg-name="20 MEDIASET .c" tvg-logo="" group-title="Intrattenimento", 20 MEDIASET .c
 #EXTVLCOPT:http-user-agent=KOOL/1.0
 #EXTVLCOPT:http-referrer=https://kool.to
 #EXTHTTP:{"User-Agent":"KOOL/1.0","Referer":"https://kool.to"}
 https://kool.to/play/1230338185/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="20 MEDIASET |E" tvg-logo="" group-title="Varie", 20 MEDIASET |E
+#EXTINF:-1 tvg-id="" tvg-name="20 MEDIASET |E" tvg-logo="" group-title="Intrattenimento", 20 MEDIASET |E
 #EXTVLCOPT:http-user-agent=HUHU/1.0
 #EXTVLCOPT:http-referrer=https://huhu.to
 #EXTHTTP:{"User-Agent":"HUHU/1.0","Referer":"https://huhu.to"}
 https://huhu.to/play/1230338185/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="20 MEDIASET |E" tvg-logo="" group-title="Varie", 20 MEDIASET |E
+#EXTINF:-1 tvg-id="" tvg-name="20 MEDIASET |E" tvg-logo="" group-title="Intrattenimento", 20 MEDIASET |E
 #EXTVLCOPT:http-user-agent=OHA/1.0
 #EXTVLCOPT:http-referrer=https://oha.to
 #EXTHTTP:{"User-Agent":"OHA/1.0","Referer":"https://oha.to"}
@@ -99,22 +99,22 @@ https://huhu.to/play/80896559/index.m3u8
 #EXTVLCOPT:http-referrer=https://oha.to
 #EXTHTTP:{"User-Agent":"OHA/1.0","Referer":"https://oha.to"}
 https://oha.to/play/80896559/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="51 RADIO TV (6)" tvg-logo="" group-title="Varie", 51 RADIO TV (6)
+#EXTINF:-1 tvg-id="" tvg-name="51 RADIO TV (6)" tvg-logo="" group-title="Musica", 51 RADIO TV (6)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to"}
 https://vavoo.to/play/4216245552/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="51 RADIO TV .c" tvg-logo="" group-title="Varie", 51 RADIO TV .c
+#EXTINF:-1 tvg-id="" tvg-name="51 RADIO TV .c" tvg-logo="" group-title="Musica", 51 RADIO TV .c
 #EXTVLCOPT:http-user-agent=KOOL/1.0
 #EXTVLCOPT:http-referrer=https://kool.to
 #EXTHTTP:{"User-Agent":"KOOL/1.0","Referer":"https://kool.to"}
 https://kool.to/play/4216245552/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="51 RADIO TV |E" tvg-logo="" group-title="Varie", 51 RADIO TV |E
+#EXTINF:-1 tvg-id="" tvg-name="51 RADIO TV |E" tvg-logo="" group-title="Musica", 51 RADIO TV |E
 #EXTVLCOPT:http-user-agent=HUHU/1.0
 #EXTVLCOPT:http-referrer=https://huhu.to
 #EXTHTTP:{"User-Agent":"HUHU/1.0","Referer":"https://huhu.to"}
 https://huhu.to/play/4216245552/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="51 RADIO TV |E" tvg-logo="" group-title="Varie", 51 RADIO TV |E
+#EXTINF:-1 tvg-id="" tvg-name="51 RADIO TV |E" tvg-logo="" group-title="Musica", 51 RADIO TV |E
 #EXTVLCOPT:http-user-agent=OHA/1.0
 #EXTVLCOPT:http-referrer=https://oha.to
 #EXTHTTP:{"User-Agent":"OHA/1.0","Referer":"https://oha.to"}
@@ -339,62 +339,62 @@ https://huhu.to/play/1506307932/index.m3u8
 #EXTVLCOPT:http-referrer=https://oha.to
 #EXTHTTP:{"User-Agent":"OHA/1.0","Referer":"https://oha.to"}
 https://oha.to/play/1506307932/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BABY TV (6)" tvg-logo="" group-title="Varie", BABY TV (6)
+#EXTINF:-1 tvg-id="" tvg-name="BABY TV (6)" tvg-logo="" group-title="Bambini", BABY TV (6)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to"}
 https://vavoo.to/play/3938501125/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BABY TV (7)" tvg-logo="" group-title="Varie", BABY TV (7)
+#EXTINF:-1 tvg-id="" tvg-name="BABY TV (7)" tvg-logo="" group-title="Bambini", BABY TV (7)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to"}
 https://vavoo.to/play/2265727942/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BABY TV .c" tvg-logo="" group-title="Varie", BABY TV .c
+#EXTINF:-1 tvg-id="" tvg-name="BABY TV .c" tvg-logo="" group-title="Bambini", BABY TV .c
 #EXTVLCOPT:http-user-agent=KOOL/1.0
 #EXTVLCOPT:http-referrer=https://kool.to
 #EXTHTTP:{"User-Agent":"KOOL/1.0","Referer":"https://kool.to"}
 https://kool.to/play/3938501125/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BABY TV .s" tvg-logo="" group-title="Varie", BABY TV .s
+#EXTINF:-1 tvg-id="" tvg-name="BABY TV .s" tvg-logo="" group-title="Bambini", BABY TV .s
 #EXTVLCOPT:http-user-agent=KOOL/1.0
 #EXTVLCOPT:http-referrer=https://kool.to
 #EXTHTTP:{"User-Agent":"KOOL/1.0","Referer":"https://kool.to"}
 https://kool.to/play/2265727942/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BABY TV |E" tvg-logo="" group-title="Varie", BABY TV |E
+#EXTINF:-1 tvg-id="" tvg-name="BABY TV |E" tvg-logo="" group-title="Bambini", BABY TV |E
 #EXTVLCOPT:http-user-agent=HUHU/1.0
 #EXTVLCOPT:http-referrer=https://huhu.to
 #EXTHTTP:{"User-Agent":"HUHU/1.0","Referer":"https://huhu.to"}
 https://huhu.to/play/3938501125/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BABY TV |E" tvg-logo="" group-title="Varie", BABY TV |E
+#EXTINF:-1 tvg-id="" tvg-name="BABY TV |E" tvg-logo="" group-title="Bambini", BABY TV |E
 #EXTVLCOPT:http-user-agent=OHA/1.0
 #EXTVLCOPT:http-referrer=https://oha.to
 #EXTHTTP:{"User-Agent":"OHA/1.0","Referer":"https://oha.to"}
 https://oha.to/play/3938501125/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BABY TV |H" tvg-logo="" group-title="Varie", BABY TV |H
+#EXTINF:-1 tvg-id="" tvg-name="BABY TV |H" tvg-logo="" group-title="Bambini", BABY TV |H
 #EXTVLCOPT:http-user-agent=HUHU/1.0
 #EXTVLCOPT:http-referrer=https://huhu.to
 #EXTHTTP:{"User-Agent":"HUHU/1.0","Referer":"https://huhu.to"}
 https://huhu.to/play/2265727942/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BABY TV |H" tvg-logo="" group-title="Varie", BABY TV |H
+#EXTINF:-1 tvg-id="" tvg-name="BABY TV |H" tvg-logo="" group-title="Bambini", BABY TV |H
 #EXTVLCOPT:http-user-agent=OHA/1.0
 #EXTVLCOPT:http-referrer=https://oha.to
 #EXTHTTP:{"User-Agent":"OHA/1.0","Referer":"https://oha.to"}
 https://oha.to/play/2265727942/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BELLA RADIO TV (6)" tvg-logo="" group-title="Varie", BELLA RADIO TV (6)
+#EXTINF:-1 tvg-id="" tvg-name="BELLA RADIO TV (6)" tvg-logo="" group-title="Musica", BELLA RADIO TV (6)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to"}
 https://vavoo.to/play/1585005860/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BELLA RADIO TV .c" tvg-logo="" group-title="Varie", BELLA RADIO TV .c
+#EXTINF:-1 tvg-id="" tvg-name="BELLA RADIO TV .c" tvg-logo="" group-title="Musica", BELLA RADIO TV .c
 #EXTVLCOPT:http-user-agent=KOOL/1.0
 #EXTVLCOPT:http-referrer=https://kool.to
 #EXTHTTP:{"User-Agent":"KOOL/1.0","Referer":"https://kool.to"}
 https://kool.to/play/1585005860/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BELLA RADIO TV |E" tvg-logo="" group-title="Varie", BELLA RADIO TV |E
+#EXTINF:-1 tvg-id="" tvg-name="BELLA RADIO TV |E" tvg-logo="" group-title="Musica", BELLA RADIO TV |E
 #EXTVLCOPT:http-user-agent=HUHU/1.0
 #EXTVLCOPT:http-referrer=https://huhu.to
 #EXTHTTP:{"User-Agent":"HUHU/1.0","Referer":"https://huhu.to"}
 https://huhu.to/play/1585005860/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BELLA RADIO TV |E" tvg-logo="" group-title="Varie", BELLA RADIO TV |E
+#EXTINF:-1 tvg-id="" tvg-name="BELLA RADIO TV |E" tvg-logo="" group-title="Musica", BELLA RADIO TV |E
 #EXTVLCOPT:http-user-agent=OHA/1.0
 #EXTVLCOPT:http-referrer=https://oha.to
 #EXTHTTP:{"User-Agent":"OHA/1.0","Referer":"https://oha.to"}
@@ -479,62 +479,62 @@ https://huhu.to/play/116299718/index.m3u8
 #EXTVLCOPT:http-referrer=https://oha.to
 #EXTHTTP:{"User-Agent":"OHA/1.0","Referer":"https://oha.to"}
 https://oha.to/play/116299718/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BOING (6)" tvg-logo="" group-title="Varie", BOING (6)
+#EXTINF:-1 tvg-id="" tvg-name="BOING (6)" tvg-logo="" group-title="Bambini", BOING (6)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to"}
 https://vavoo.to/play/3373510242/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BOING (7)" tvg-logo="" group-title="Varie", BOING (7)
+#EXTINF:-1 tvg-id="" tvg-name="BOING (7)" tvg-logo="" group-title="Bambini", BOING (7)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to"}
 https://vavoo.to/play/3022771961/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BOING .c" tvg-logo="" group-title="Varie", BOING .c
+#EXTINF:-1 tvg-id="" tvg-name="BOING .c" tvg-logo="" group-title="Bambini", BOING .c
 #EXTVLCOPT:http-user-agent=KOOL/1.0
 #EXTVLCOPT:http-referrer=https://kool.to
 #EXTHTTP:{"User-Agent":"KOOL/1.0","Referer":"https://kool.to"}
 https://kool.to/play/3373510242/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BOING .s" tvg-logo="" group-title="Varie", BOING .s
+#EXTINF:-1 tvg-id="" tvg-name="BOING .s" tvg-logo="" group-title="Bambini", BOING .s
 #EXTVLCOPT:http-user-agent=KOOL/1.0
 #EXTVLCOPT:http-referrer=https://kool.to
 #EXTHTTP:{"User-Agent":"KOOL/1.0","Referer":"https://kool.to"}
 https://kool.to/play/3022771961/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BOING PLUS (6)" tvg-logo="" group-title="Varie", BOING PLUS (6)
+#EXTINF:-1 tvg-id="" tvg-name="BOING PLUS (6)" tvg-logo="" group-title="Bambini", BOING PLUS (6)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to"}
 https://vavoo.to/play/3841982646/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BOING PLUS .c" tvg-logo="" group-title="Varie", BOING PLUS .c
+#EXTINF:-1 tvg-id="" tvg-name="BOING PLUS .c" tvg-logo="" group-title="Bambini", BOING PLUS .c
 #EXTVLCOPT:http-user-agent=KOOL/1.0
 #EXTVLCOPT:http-referrer=https://kool.to
 #EXTHTTP:{"User-Agent":"KOOL/1.0","Referer":"https://kool.to"}
 https://kool.to/play/3841982646/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BOING PLUS |E" tvg-logo="" group-title="Varie", BOING PLUS |E
+#EXTINF:-1 tvg-id="" tvg-name="BOING PLUS |E" tvg-logo="" group-title="Bambini", BOING PLUS |E
 #EXTVLCOPT:http-user-agent=HUHU/1.0
 #EXTVLCOPT:http-referrer=https://huhu.to
 #EXTHTTP:{"User-Agent":"HUHU/1.0","Referer":"https://huhu.to"}
 https://huhu.to/play/3841982646/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BOING PLUS |E" tvg-logo="" group-title="Varie", BOING PLUS |E
+#EXTINF:-1 tvg-id="" tvg-name="BOING PLUS |E" tvg-logo="" group-title="Bambini", BOING PLUS |E
 #EXTVLCOPT:http-user-agent=OHA/1.0
 #EXTVLCOPT:http-referrer=https://oha.to
 #EXTHTTP:{"User-Agent":"OHA/1.0","Referer":"https://oha.to"}
 https://oha.to/play/3841982646/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BOING |E" tvg-logo="" group-title="Varie", BOING |E
+#EXTINF:-1 tvg-id="" tvg-name="BOING |E" tvg-logo="" group-title="Bambini", BOING |E
 #EXTVLCOPT:http-user-agent=HUHU/1.0
 #EXTVLCOPT:http-referrer=https://huhu.to
 #EXTHTTP:{"User-Agent":"HUHU/1.0","Referer":"https://huhu.to"}
 https://huhu.to/play/3373510242/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BOING |E" tvg-logo="" group-title="Varie", BOING |E
+#EXTINF:-1 tvg-id="" tvg-name="BOING |E" tvg-logo="" group-title="Bambini", BOING |E
 #EXTVLCOPT:http-user-agent=OHA/1.0
 #EXTVLCOPT:http-referrer=https://oha.to
 #EXTHTTP:{"User-Agent":"OHA/1.0","Referer":"https://oha.to"}
 https://oha.to/play/3373510242/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BOING |H" tvg-logo="" group-title="Varie", BOING |H
+#EXTINF:-1 tvg-id="" tvg-name="BOING |H" tvg-logo="" group-title="Bambini", BOING |H
 #EXTVLCOPT:http-user-agent=HUHU/1.0
 #EXTVLCOPT:http-referrer=https://huhu.to
 #EXTHTTP:{"User-Agent":"HUHU/1.0","Referer":"https://huhu.to"}
 https://huhu.to/play/3022771961/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BOING |H" tvg-logo="" group-title="Varie", BOING |H
+#EXTINF:-1 tvg-id="" tvg-name="BOING |H" tvg-logo="" group-title="Bambini", BOING |H
 #EXTVLCOPT:http-user-agent=OHA/1.0
 #EXTVLCOPT:http-referrer=https://oha.to
 #EXTHTTP:{"User-Agent":"OHA/1.0","Referer":"https://oha.to"}
@@ -819,102 +819,102 @@ https://huhu.to/play/1527236924/index.m3u8
 #EXTVLCOPT:http-referrer=https://oha.to
 #EXTHTTP:{"User-Agent":"OHA/1.0","Referer":"https://oha.to"}
 https://oha.to/play/1527236924/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CARTOON NETWORK (6)" tvg-logo="" group-title="Varie", CARTOON NETWORK (6)
+#EXTINF:-1 tvg-id="" tvg-name="CARTOON NETWORK (6)" tvg-logo="" group-title="Bambini", CARTOON NETWORK (6)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to"}
 https://vavoo.to/play/1744435623/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CARTOON NETWORK (7)" tvg-logo="" group-title="Varie", CARTOON NETWORK (7)
+#EXTINF:-1 tvg-id="" tvg-name="CARTOON NETWORK (7)" tvg-logo="" group-title="Bambini", CARTOON NETWORK (7)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to"}
 https://vavoo.to/play/1289777017/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CARTOON NETWORK .c" tvg-logo="" group-title="Varie", CARTOON NETWORK .c
+#EXTINF:-1 tvg-id="" tvg-name="CARTOON NETWORK .c" tvg-logo="" group-title="Bambini", CARTOON NETWORK .c
 #EXTVLCOPT:http-user-agent=KOOL/1.0
 #EXTVLCOPT:http-referrer=https://kool.to
 #EXTHTTP:{"User-Agent":"KOOL/1.0","Referer":"https://kool.to"}
 https://kool.to/play/1744435623/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CARTOON NETWORK .s" tvg-logo="" group-title="Varie", CARTOON NETWORK .s
+#EXTINF:-1 tvg-id="" tvg-name="CARTOON NETWORK .s" tvg-logo="" group-title="Bambini", CARTOON NETWORK .s
 #EXTVLCOPT:http-user-agent=KOOL/1.0
 #EXTVLCOPT:http-referrer=https://kool.to
 #EXTHTTP:{"User-Agent":"KOOL/1.0","Referer":"https://kool.to"}
 https://kool.to/play/1289777017/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CARTOON NETWORK |E" tvg-logo="" group-title="Varie", CARTOON NETWORK |E
+#EXTINF:-1 tvg-id="" tvg-name="CARTOON NETWORK |E" tvg-logo="" group-title="Bambini", CARTOON NETWORK |E
 #EXTVLCOPT:http-user-agent=HUHU/1.0
 #EXTVLCOPT:http-referrer=https://huhu.to
 #EXTHTTP:{"User-Agent":"HUHU/1.0","Referer":"https://huhu.to"}
 https://huhu.to/play/1744435623/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CARTOON NETWORK |E" tvg-logo="" group-title="Varie", CARTOON NETWORK |E
+#EXTINF:-1 tvg-id="" tvg-name="CARTOON NETWORK |E" tvg-logo="" group-title="Bambini", CARTOON NETWORK |E
 #EXTVLCOPT:http-user-agent=OHA/1.0
 #EXTVLCOPT:http-referrer=https://oha.to
 #EXTHTTP:{"User-Agent":"OHA/1.0","Referer":"https://oha.to"}
 https://oha.to/play/1744435623/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CARTOON NETWORK |H" tvg-logo="" group-title="Varie", CARTOON NETWORK |H
+#EXTINF:-1 tvg-id="" tvg-name="CARTOON NETWORK |H" tvg-logo="" group-title="Bambini", CARTOON NETWORK |H
 #EXTVLCOPT:http-user-agent=HUHU/1.0
 #EXTVLCOPT:http-referrer=https://huhu.to
 #EXTHTTP:{"User-Agent":"HUHU/1.0","Referer":"https://huhu.to"}
 https://huhu.to/play/1289777017/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CARTOON NETWORK |H" tvg-logo="" group-title="Varie", CARTOON NETWORK |H
+#EXTINF:-1 tvg-id="" tvg-name="CARTOON NETWORK |H" tvg-logo="" group-title="Bambini", CARTOON NETWORK |H
 #EXTVLCOPT:http-user-agent=OHA/1.0
 #EXTVLCOPT:http-referrer=https://oha.to
 #EXTHTTP:{"User-Agent":"OHA/1.0","Referer":"https://oha.to"}
 https://oha.to/play/1289777017/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CARTOONITO (6)" tvg-logo="" group-title="Varie", CARTOONITO (6)
+#EXTINF:-1 tvg-id="" tvg-name="CARTOONITO (6)" tvg-logo="" group-title="Bambini", CARTOONITO (6)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to"}
 https://vavoo.to/play/1987220436/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CARTOONITO (7)" tvg-logo="" group-title="Varie", CARTOONITO (7)
+#EXTINF:-1 tvg-id="" tvg-name="CARTOONITO (7)" tvg-logo="" group-title="Bambini", CARTOONITO (7)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to"}
 https://vavoo.to/play/1907000512/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CARTOONITO (BACKUP) (7)" tvg-logo="" group-title="Varie", CARTOONITO (BACKUP) (7)
+#EXTINF:-1 tvg-id="" tvg-name="CARTOONITO (BACKUP) (7)" tvg-logo="" group-title="Bambini", CARTOONITO (BACKUP) (7)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to"}
 https://vavoo.to/play/2178717282/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CARTOONITO (BACKUP) .s" tvg-logo="" group-title="Varie", CARTOONITO (BACKUP) .s
+#EXTINF:-1 tvg-id="" tvg-name="CARTOONITO (BACKUP) .s" tvg-logo="" group-title="Bambini", CARTOONITO (BACKUP) .s
 #EXTVLCOPT:http-user-agent=KOOL/1.0
 #EXTVLCOPT:http-referrer=https://kool.to
 #EXTHTTP:{"User-Agent":"KOOL/1.0","Referer":"https://kool.to"}
 https://kool.to/play/2178717282/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CARTOONITO (BACKUP) |H" tvg-logo="" group-title="Varie", CARTOONITO (BACKUP) |H
+#EXTINF:-1 tvg-id="" tvg-name="CARTOONITO (BACKUP) |H" tvg-logo="" group-title="Bambini", CARTOONITO (BACKUP) |H
 #EXTVLCOPT:http-user-agent=HUHU/1.0
 #EXTVLCOPT:http-referrer=https://huhu.to
 #EXTHTTP:{"User-Agent":"HUHU/1.0","Referer":"https://huhu.to"}
 https://huhu.to/play/2178717282/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CARTOONITO (BACKUP) |H" tvg-logo="" group-title="Varie", CARTOONITO (BACKUP) |H
+#EXTINF:-1 tvg-id="" tvg-name="CARTOONITO (BACKUP) |H" tvg-logo="" group-title="Bambini", CARTOONITO (BACKUP) |H
 #EXTVLCOPT:http-user-agent=OHA/1.0
 #EXTVLCOPT:http-referrer=https://oha.to
 #EXTHTTP:{"User-Agent":"OHA/1.0","Referer":"https://oha.to"}
 https://oha.to/play/2178717282/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CARTOONITO .c" tvg-logo="" group-title="Varie", CARTOONITO .c
+#EXTINF:-1 tvg-id="" tvg-name="CARTOONITO .c" tvg-logo="" group-title="Bambini", CARTOONITO .c
 #EXTVLCOPT:http-user-agent=KOOL/1.0
 #EXTVLCOPT:http-referrer=https://kool.to
 #EXTHTTP:{"User-Agent":"KOOL/1.0","Referer":"https://kool.to"}
 https://kool.to/play/1987220436/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CARTOONITO .s" tvg-logo="" group-title="Varie", CARTOONITO .s
+#EXTINF:-1 tvg-id="" tvg-name="CARTOONITO .s" tvg-logo="" group-title="Bambini", CARTOONITO .s
 #EXTVLCOPT:http-user-agent=KOOL/1.0
 #EXTVLCOPT:http-referrer=https://kool.to
 #EXTHTTP:{"User-Agent":"KOOL/1.0","Referer":"https://kool.to"}
 https://kool.to/play/1907000512/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CARTOONITO |E" tvg-logo="" group-title="Varie", CARTOONITO |E
+#EXTINF:-1 tvg-id="" tvg-name="CARTOONITO |E" tvg-logo="" group-title="Bambini", CARTOONITO |E
 #EXTVLCOPT:http-user-agent=HUHU/1.0
 #EXTVLCOPT:http-referrer=https://huhu.to
 #EXTHTTP:{"User-Agent":"HUHU/1.0","Referer":"https://huhu.to"}
 https://huhu.to/play/1987220436/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CARTOONITO |E" tvg-logo="" group-title="Varie", CARTOONITO |E
+#EXTINF:-1 tvg-id="" tvg-name="CARTOONITO |E" tvg-logo="" group-title="Bambini", CARTOONITO |E
 #EXTVLCOPT:http-user-agent=OHA/1.0
 #EXTVLCOPT:http-referrer=https://oha.to
 #EXTHTTP:{"User-Agent":"OHA/1.0","Referer":"https://oha.to"}
 https://oha.to/play/1987220436/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CARTOONITO |H" tvg-logo="" group-title="Varie", CARTOONITO |H
+#EXTINF:-1 tvg-id="" tvg-name="CARTOONITO |H" tvg-logo="" group-title="Bambini", CARTOONITO |H
 #EXTVLCOPT:http-user-agent=HUHU/1.0
 #EXTVLCOPT:http-referrer=https://huhu.to
 #EXTHTTP:{"User-Agent":"HUHU/1.0","Referer":"https://huhu.to"}
 https://huhu.to/play/1907000512/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CARTOONITO |H" tvg-logo="" group-title="Varie", CARTOONITO |H
+#EXTINF:-1 tvg-id="" tvg-name="CARTOONITO |H" tvg-logo="" group-title="Bambini", CARTOONITO |H
 #EXTVLCOPT:http-user-agent=OHA/1.0
 #EXTVLCOPT:http-referrer=https://oha.to
 #EXTHTTP:{"User-Agent":"OHA/1.0","Referer":"https://oha.to"}
@@ -989,22 +989,22 @@ https://vavoo.to/play/62558606/index.m3u8
 #EXTVLCOPT:http-referrer=https://kool.to
 #EXTHTTP:{"User-Agent":"KOOL/1.0","Referer":"https://kool.to"}
 https://kool.to/play/62558606/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CINE 34 MEDIASET (7)" tvg-logo="" group-title="Varie", CINE 34 MEDIASET (7)
+#EXTINF:-1 tvg-id="" tvg-name="CINE 34 MEDIASET (7)" tvg-logo="" group-title="Intrattenimento", CINE 34 MEDIASET (7)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to"}
 https://vavoo.to/play/1768670187/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CINE 34 MEDIASET .s" tvg-logo="" group-title="Varie", CINE 34 MEDIASET .s
+#EXTINF:-1 tvg-id="" tvg-name="CINE 34 MEDIASET .s" tvg-logo="" group-title="Intrattenimento", CINE 34 MEDIASET .s
 #EXTVLCOPT:http-user-agent=KOOL/1.0
 #EXTVLCOPT:http-referrer=https://kool.to
 #EXTHTTP:{"User-Agent":"KOOL/1.0","Referer":"https://kool.to"}
 https://kool.to/play/1768670187/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CINE 34 MEDIASET |H" tvg-logo="" group-title="Varie", CINE 34 MEDIASET |H
+#EXTINF:-1 tvg-id="" tvg-name="CINE 34 MEDIASET |H" tvg-logo="" group-title="Intrattenimento", CINE 34 MEDIASET |H
 #EXTVLCOPT:http-user-agent=HUHU/1.0
 #EXTVLCOPT:http-referrer=https://huhu.to
 #EXTHTTP:{"User-Agent":"HUHU/1.0","Referer":"https://huhu.to"}
 https://huhu.to/play/1768670187/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CINE 34 MEDIASET |H" tvg-logo="" group-title="Varie", CINE 34 MEDIASET |H
+#EXTINF:-1 tvg-id="" tvg-name="CINE 34 MEDIASET |H" tvg-logo="" group-title="Intrattenimento", CINE 34 MEDIASET |H
 #EXTVLCOPT:http-user-agent=OHA/1.0
 #EXTVLCOPT:http-referrer=https://oha.to
 #EXTHTTP:{"User-Agent":"OHA/1.0","Referer":"https://oha.to"}
@@ -1179,22 +1179,22 @@ https://huhu.to/play/3005227700/index.m3u8
 #EXTVLCOPT:http-referrer=https://oha.to
 #EXTHTTP:{"User-Agent":"OHA/1.0","Referer":"https://oha.to"}
 https://oha.to/play/3005227700/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CUSANO ITALIA TV (6)" tvg-logo="" group-title="Varie", CUSANO ITALIA TV (6)
+#EXTINF:-1 tvg-id="" tvg-name="CUSANO ITALIA TV (6)" tvg-logo="" group-title="Intrattenimento", CUSANO ITALIA TV (6)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to"}
 https://vavoo.to/play/3156092639/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CUSANO ITALIA TV .c" tvg-logo="" group-title="Varie", CUSANO ITALIA TV .c
+#EXTINF:-1 tvg-id="" tvg-name="CUSANO ITALIA TV .c" tvg-logo="" group-title="Intrattenimento", CUSANO ITALIA TV .c
 #EXTVLCOPT:http-user-agent=KOOL/1.0
 #EXTVLCOPT:http-referrer=https://kool.to
 #EXTHTTP:{"User-Agent":"KOOL/1.0","Referer":"https://kool.to"}
 https://kool.to/play/3156092639/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CUSANO ITALIA TV |E" tvg-logo="" group-title="Varie", CUSANO ITALIA TV |E
+#EXTINF:-1 tvg-id="" tvg-name="CUSANO ITALIA TV |E" tvg-logo="" group-title="Intrattenimento", CUSANO ITALIA TV |E
 #EXTVLCOPT:http-user-agent=HUHU/1.0
 #EXTVLCOPT:http-referrer=https://huhu.to
 #EXTHTTP:{"User-Agent":"HUHU/1.0","Referer":"https://huhu.to"}
 https://huhu.to/play/3156092639/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CUSANO ITALIA TV |E" tvg-logo="" group-title="Varie", CUSANO ITALIA TV |E
+#EXTINF:-1 tvg-id="" tvg-name="CUSANO ITALIA TV |E" tvg-logo="" group-title="Intrattenimento", CUSANO ITALIA TV |E
 #EXTVLCOPT:http-user-agent=OHA/1.0
 #EXTVLCOPT:http-referrer=https://oha.to
 #EXTHTTP:{"User-Agent":"OHA/1.0","Referer":"https://oha.to"}
@@ -1299,122 +1299,122 @@ https://huhu.to/play/3802167244/index.m3u8
 #EXTVLCOPT:http-referrer=https://oha.to
 #EXTHTTP:{"User-Agent":"OHA/1.0","Referer":"https://oha.to"}
 https://oha.to/play/3802167244/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CHANNEL (6)" tvg-logo="" group-title="Varie", DISCOVERY CHANNEL (6)
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CHANNEL (6)" tvg-logo="" group-title="Documentari", DISCOVERY CHANNEL (6)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to"}
 https://vavoo.to/play/1955739367/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CHANNEL (7)" tvg-logo="" group-title="Varie", DISCOVERY CHANNEL (7)
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CHANNEL (7)" tvg-logo="" group-title="Documentari", DISCOVERY CHANNEL (7)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to"}
 https://vavoo.to/play/3554841914/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CHANNEL .c" tvg-logo="" group-title="Varie", DISCOVERY CHANNEL .c
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CHANNEL .c" tvg-logo="" group-title="Documentari", DISCOVERY CHANNEL .c
 #EXTVLCOPT:http-user-agent=KOOL/1.0
 #EXTVLCOPT:http-referrer=https://kool.to
 #EXTHTTP:{"User-Agent":"KOOL/1.0","Referer":"https://kool.to"}
 https://kool.to/play/1955739367/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CHANNEL .s" tvg-logo="" group-title="Varie", DISCOVERY CHANNEL .s
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CHANNEL .s" tvg-logo="" group-title="Documentari", DISCOVERY CHANNEL .s
 #EXTVLCOPT:http-user-agent=KOOL/1.0
 #EXTVLCOPT:http-referrer=https://kool.to
 #EXTHTTP:{"User-Agent":"KOOL/1.0","Referer":"https://kool.to"}
 https://kool.to/play/3554841914/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CHANNEL |E" tvg-logo="" group-title="Varie", DISCOVERY CHANNEL |E
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CHANNEL |E" tvg-logo="" group-title="Documentari", DISCOVERY CHANNEL |E
 #EXTVLCOPT:http-user-agent=HUHU/1.0
 #EXTVLCOPT:http-referrer=https://huhu.to
 #EXTHTTP:{"User-Agent":"HUHU/1.0","Referer":"https://huhu.to"}
 https://huhu.to/play/1955739367/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CHANNEL |E" tvg-logo="" group-title="Varie", DISCOVERY CHANNEL |E
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CHANNEL |E" tvg-logo="" group-title="Documentari", DISCOVERY CHANNEL |E
 #EXTVLCOPT:http-user-agent=OHA/1.0
 #EXTVLCOPT:http-referrer=https://oha.to
 #EXTHTTP:{"User-Agent":"OHA/1.0","Referer":"https://oha.to"}
 https://oha.to/play/1955739367/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CHANNEL |H" tvg-logo="" group-title="Varie", DISCOVERY CHANNEL |H
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CHANNEL |H" tvg-logo="" group-title="Documentari", DISCOVERY CHANNEL |H
 #EXTVLCOPT:http-user-agent=HUHU/1.0
 #EXTVLCOPT:http-referrer=https://huhu.to
 #EXTHTTP:{"User-Agent":"HUHU/1.0","Referer":"https://huhu.to"}
 https://huhu.to/play/3554841914/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CHANNEL |H" tvg-logo="" group-title="Varie", DISCOVERY CHANNEL |H
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CHANNEL |H" tvg-logo="" group-title="Documentari", DISCOVERY CHANNEL |H
 #EXTVLCOPT:http-user-agent=OHA/1.0
 #EXTVLCOPT:http-referrer=https://oha.to
 #EXTHTTP:{"User-Agent":"OHA/1.0","Referer":"https://oha.to"}
 https://oha.to/play/3554841914/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY FOCUS (7)" tvg-logo="" group-title="Varie", DISCOVERY FOCUS (7)
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY FOCUS (7)" tvg-logo="" group-title="Intrattenimento", DISCOVERY FOCUS (7)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to"}
 https://vavoo.to/play/2113273064/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY FOCUS .s" tvg-logo="" group-title="Varie", DISCOVERY FOCUS .s
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY FOCUS .s" tvg-logo="" group-title="Intrattenimento", DISCOVERY FOCUS .s
 #EXTVLCOPT:http-user-agent=KOOL/1.0
 #EXTVLCOPT:http-referrer=https://kool.to
 #EXTHTTP:{"User-Agent":"KOOL/1.0","Referer":"https://kool.to"}
 https://kool.to/play/2113273064/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY FOCUS |H" tvg-logo="" group-title="Varie", DISCOVERY FOCUS |H
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY FOCUS |H" tvg-logo="" group-title="Intrattenimento", DISCOVERY FOCUS |H
 #EXTVLCOPT:http-user-agent=HUHU/1.0
 #EXTVLCOPT:http-referrer=https://huhu.to
 #EXTHTTP:{"User-Agent":"HUHU/1.0","Referer":"https://huhu.to"}
 https://huhu.to/play/2113273064/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY FOCUS |H" tvg-logo="" group-title="Varie", DISCOVERY FOCUS |H
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY FOCUS |H" tvg-logo="" group-title="Intrattenimento", DISCOVERY FOCUS |H
 #EXTVLCOPT:http-user-agent=OHA/1.0
 #EXTVLCOPT:http-referrer=https://oha.to
 #EXTHTTP:{"User-Agent":"OHA/1.0","Referer":"https://oha.to"}
 https://oha.to/play/2113273064/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY K2 (7)" tvg-logo="" group-title="Varie", DISCOVERY K2 (7)
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY K2 (7)" tvg-logo="" group-title="Documentari", DISCOVERY K2 (7)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to"}
 https://vavoo.to/play/3037871903/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY K2 .s" tvg-logo="" group-title="Varie", DISCOVERY K2 .s
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY K2 .s" tvg-logo="" group-title="Documentari", DISCOVERY K2 .s
 #EXTVLCOPT:http-user-agent=KOOL/1.0
 #EXTVLCOPT:http-referrer=https://kool.to
 #EXTHTTP:{"User-Agent":"KOOL/1.0","Referer":"https://kool.to"}
 https://kool.to/play/3037871903/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY K2 |H" tvg-logo="" group-title="Varie", DISCOVERY K2 |H
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY K2 |H" tvg-logo="" group-title="Documentari", DISCOVERY K2 |H
 #EXTVLCOPT:http-user-agent=HUHU/1.0
 #EXTVLCOPT:http-referrer=https://huhu.to
 #EXTHTTP:{"User-Agent":"HUHU/1.0","Referer":"https://huhu.to"}
 https://huhu.to/play/3037871903/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY K2 |H" tvg-logo="" group-title="Varie", DISCOVERY K2 |H
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY K2 |H" tvg-logo="" group-title="Documentari", DISCOVERY K2 |H
 #EXTVLCOPT:http-user-agent=OHA/1.0
 #EXTVLCOPT:http-referrer=https://oha.to
 #EXTHTTP:{"User-Agent":"OHA/1.0","Referer":"https://oha.to"}
 https://oha.to/play/3037871903/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY NOVE (6)" tvg-logo="" group-title="Varie", DISCOVERY NOVE (6)
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY NOVE (6)" tvg-logo="" group-title="Documentari", DISCOVERY NOVE (6)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to"}
 https://vavoo.to/play/2651461317/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY NOVE (7)" tvg-logo="" group-title="Varie", DISCOVERY NOVE (7)
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY NOVE (7)" tvg-logo="" group-title="Documentari", DISCOVERY NOVE (7)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to"}
 https://vavoo.to/play/1574591400/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY NOVE .c" tvg-logo="" group-title="Varie", DISCOVERY NOVE .c
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY NOVE .c" tvg-logo="" group-title="Documentari", DISCOVERY NOVE .c
 #EXTVLCOPT:http-user-agent=KOOL/1.0
 #EXTVLCOPT:http-referrer=https://kool.to
 #EXTHTTP:{"User-Agent":"KOOL/1.0","Referer":"https://kool.to"}
 https://kool.to/play/2651461317/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY NOVE .s" tvg-logo="" group-title="Varie", DISCOVERY NOVE .s
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY NOVE .s" tvg-logo="" group-title="Documentari", DISCOVERY NOVE .s
 #EXTVLCOPT:http-user-agent=KOOL/1.0
 #EXTVLCOPT:http-referrer=https://kool.to
 #EXTHTTP:{"User-Agent":"KOOL/1.0","Referer":"https://kool.to"}
 https://kool.to/play/1574591400/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY NOVE |E" tvg-logo="" group-title="Varie", DISCOVERY NOVE |E
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY NOVE |E" tvg-logo="" group-title="Documentari", DISCOVERY NOVE |E
 #EXTVLCOPT:http-user-agent=HUHU/1.0
 #EXTVLCOPT:http-referrer=https://huhu.to
 #EXTHTTP:{"User-Agent":"HUHU/1.0","Referer":"https://huhu.to"}
 https://huhu.to/play/2651461317/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY NOVE |E" tvg-logo="" group-title="Varie", DISCOVERY NOVE |E
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY NOVE |E" tvg-logo="" group-title="Documentari", DISCOVERY NOVE |E
 #EXTVLCOPT:http-user-agent=OHA/1.0
 #EXTVLCOPT:http-referrer=https://oha.to
 #EXTHTTP:{"User-Agent":"OHA/1.0","Referer":"https://oha.to"}
 https://oha.to/play/2651461317/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY NOVE |H" tvg-logo="" group-title="Varie", DISCOVERY NOVE |H
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY NOVE |H" tvg-logo="" group-title="Documentari", DISCOVERY NOVE |H
 #EXTVLCOPT:http-user-agent=HUHU/1.0
 #EXTVLCOPT:http-referrer=https://huhu.to
 #EXTHTTP:{"User-Agent":"HUHU/1.0","Referer":"https://huhu.to"}
 https://huhu.to/play/1574591400/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY NOVE |H" tvg-logo="" group-title="Varie", DISCOVERY NOVE |H
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY NOVE |H" tvg-logo="" group-title="Documentari", DISCOVERY NOVE |H
 #EXTVLCOPT:http-user-agent=OHA/1.0
 #EXTVLCOPT:http-referrer=https://oha.to
 #EXTHTTP:{"User-Agent":"OHA/1.0","Referer":"https://oha.to"}
@@ -1659,22 +1659,22 @@ https://huhu.to/play/4222258377/index.m3u8
 #EXTVLCOPT:http-referrer=https://oha.to
 #EXTHTTP:{"User-Agent":"OHA/1.0","Referer":"https://oha.to"}
 https://oha.to/play/4222258377/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="EURONEWS (6)" tvg-logo="" group-title="Informazione", EURONEWS (6)
+#EXTINF:-1 tvg-id="" tvg-name="EURONEWS (6)" tvg-logo="" group-title="News", EURONEWS (6)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to"}
 https://vavoo.to/play/490955579/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="EURONEWS .c" tvg-logo="" group-title="Informazione", EURONEWS .c
+#EXTINF:-1 tvg-id="" tvg-name="EURONEWS .c" tvg-logo="" group-title="News", EURONEWS .c
 #EXTVLCOPT:http-user-agent=KOOL/1.0
 #EXTVLCOPT:http-referrer=https://kool.to
 #EXTHTTP:{"User-Agent":"KOOL/1.0","Referer":"https://kool.to"}
 https://kool.to/play/490955579/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="EURONEWS |E" tvg-logo="" group-title="Informazione", EURONEWS |E
+#EXTINF:-1 tvg-id="" tvg-name="EURONEWS |E" tvg-logo="" group-title="News", EURONEWS |E
 #EXTVLCOPT:http-user-agent=HUHU/1.0
 #EXTVLCOPT:http-referrer=https://huhu.to
 #EXTHTTP:{"User-Agent":"HUHU/1.0","Referer":"https://huhu.to"}
 https://huhu.to/play/490955579/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="EURONEWS |E" tvg-logo="" group-title="Informazione", EURONEWS |E
+#EXTINF:-1 tvg-id="" tvg-name="EURONEWS |E" tvg-logo="" group-title="News", EURONEWS |E
 #EXTVLCOPT:http-user-agent=OHA/1.0
 #EXTVLCOPT:http-referrer=https://oha.to
 #EXTHTTP:{"User-Agent":"OHA/1.0","Referer":"https://oha.to"}
@@ -1819,82 +1819,82 @@ https://huhu.to/play/3255207570/index.m3u8
 #EXTVLCOPT:http-referrer=https://oha.to
 #EXTHTTP:{"User-Agent":"OHA/1.0","Referer":"https://oha.to"}
 https://oha.to/play/3255207570/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FM ITALIA (7)" tvg-logo="" group-title="Varie", FM ITALIA (7)
+#EXTINF:-1 tvg-id="" tvg-name="FM ITALIA (7)" tvg-logo="" group-title="Intrattenimento", FM ITALIA (7)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to"}
 https://vavoo.to/play/651388134/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FM ITALIA .s" tvg-logo="" group-title="Varie", FM ITALIA .s
+#EXTINF:-1 tvg-id="" tvg-name="FM ITALIA .s" tvg-logo="" group-title="Intrattenimento", FM ITALIA .s
 #EXTVLCOPT:http-user-agent=KOOL/1.0
 #EXTVLCOPT:http-referrer=https://kool.to
 #EXTHTTP:{"User-Agent":"KOOL/1.0","Referer":"https://kool.to"}
 https://kool.to/play/651388134/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FM ITALIA TV (6)" tvg-logo="" group-title="Varie", FM ITALIA TV (6)
+#EXTINF:-1 tvg-id="" tvg-name="FM ITALIA TV (6)" tvg-logo="" group-title="Intrattenimento", FM ITALIA TV (6)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to"}
 https://vavoo.to/play/32417864/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FM ITALIA TV .c" tvg-logo="" group-title="Varie", FM ITALIA TV .c
+#EXTINF:-1 tvg-id="" tvg-name="FM ITALIA TV .c" tvg-logo="" group-title="Intrattenimento", FM ITALIA TV .c
 #EXTVLCOPT:http-user-agent=KOOL/1.0
 #EXTVLCOPT:http-referrer=https://kool.to
 #EXTHTTP:{"User-Agent":"KOOL/1.0","Referer":"https://kool.to"}
 https://kool.to/play/32417864/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FM ITALIA TV |E" tvg-logo="" group-title="Varie", FM ITALIA TV |E
+#EXTINF:-1 tvg-id="" tvg-name="FM ITALIA TV |E" tvg-logo="" group-title="Intrattenimento", FM ITALIA TV |E
 #EXTVLCOPT:http-user-agent=HUHU/1.0
 #EXTVLCOPT:http-referrer=https://huhu.to
 #EXTHTTP:{"User-Agent":"HUHU/1.0","Referer":"https://huhu.to"}
 https://huhu.to/play/32417864/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FM ITALIA TV |E" tvg-logo="" group-title="Varie", FM ITALIA TV |E
+#EXTINF:-1 tvg-id="" tvg-name="FM ITALIA TV |E" tvg-logo="" group-title="Intrattenimento", FM ITALIA TV |E
 #EXTVLCOPT:http-user-agent=OHA/1.0
 #EXTVLCOPT:http-referrer=https://oha.to
 #EXTHTTP:{"User-Agent":"OHA/1.0","Referer":"https://oha.to"}
 https://oha.to/play/32417864/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FM ITALIA |H" tvg-logo="" group-title="Varie", FM ITALIA |H
+#EXTINF:-1 tvg-id="" tvg-name="FM ITALIA |H" tvg-logo="" group-title="Intrattenimento", FM ITALIA |H
 #EXTVLCOPT:http-user-agent=HUHU/1.0
 #EXTVLCOPT:http-referrer=https://huhu.to
 #EXTHTTP:{"User-Agent":"HUHU/1.0","Referer":"https://huhu.to"}
 https://huhu.to/play/651388134/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FM ITALIA |H" tvg-logo="" group-title="Varie", FM ITALIA |H
+#EXTINF:-1 tvg-id="" tvg-name="FM ITALIA |H" tvg-logo="" group-title="Intrattenimento", FM ITALIA |H
 #EXTVLCOPT:http-user-agent=OHA/1.0
 #EXTVLCOPT:http-referrer=https://oha.to
 #EXTHTTP:{"User-Agent":"OHA/1.0","Referer":"https://oha.to"}
 https://oha.to/play/651388134/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FOCUS (6)" tvg-logo="" group-title="Varie", FOCUS (6)
+#EXTINF:-1 tvg-id="" tvg-name="FOCUS (6)" tvg-logo="" group-title="Intrattenimento", FOCUS (6)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to"}
 https://vavoo.to/play/3439223610/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FOCUS (7)" tvg-logo="" group-title="Varie", FOCUS (7)
+#EXTINF:-1 tvg-id="" tvg-name="FOCUS (7)" tvg-logo="" group-title="Intrattenimento", FOCUS (7)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to"}
 https://vavoo.to/play/2982550433/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FOCUS .c" tvg-logo="" group-title="Varie", FOCUS .c
+#EXTINF:-1 tvg-id="" tvg-name="FOCUS .c" tvg-logo="" group-title="Intrattenimento", FOCUS .c
 #EXTVLCOPT:http-user-agent=KOOL/1.0
 #EXTVLCOPT:http-referrer=https://kool.to
 #EXTHTTP:{"User-Agent":"KOOL/1.0","Referer":"https://kool.to"}
 https://kool.to/play/3439223610/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FOCUS .s" tvg-logo="" group-title="Varie", FOCUS .s
+#EXTINF:-1 tvg-id="" tvg-name="FOCUS .s" tvg-logo="" group-title="Intrattenimento", FOCUS .s
 #EXTVLCOPT:http-user-agent=KOOL/1.0
 #EXTVLCOPT:http-referrer=https://kool.to
 #EXTHTTP:{"User-Agent":"KOOL/1.0","Referer":"https://kool.to"}
 https://kool.to/play/2982550433/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FOCUS |E" tvg-logo="" group-title="Varie", FOCUS |E
+#EXTINF:-1 tvg-id="" tvg-name="FOCUS |E" tvg-logo="" group-title="Intrattenimento", FOCUS |E
 #EXTVLCOPT:http-user-agent=HUHU/1.0
 #EXTVLCOPT:http-referrer=https://huhu.to
 #EXTHTTP:{"User-Agent":"HUHU/1.0","Referer":"https://huhu.to"}
 https://huhu.to/play/3439223610/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FOCUS |E" tvg-logo="" group-title="Varie", FOCUS |E
+#EXTINF:-1 tvg-id="" tvg-name="FOCUS |E" tvg-logo="" group-title="Intrattenimento", FOCUS |E
 #EXTVLCOPT:http-user-agent=OHA/1.0
 #EXTVLCOPT:http-referrer=https://oha.to
 #EXTHTTP:{"User-Agent":"OHA/1.0","Referer":"https://oha.to"}
 https://oha.to/play/3439223610/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FOCUS |H" tvg-logo="" group-title="Varie", FOCUS |H
+#EXTINF:-1 tvg-id="" tvg-name="FOCUS |H" tvg-logo="" group-title="Intrattenimento", FOCUS |H
 #EXTVLCOPT:http-user-agent=HUHU/1.0
 #EXTVLCOPT:http-referrer=https://huhu.to
 #EXTHTTP:{"User-Agent":"HUHU/1.0","Referer":"https://huhu.to"}
 https://huhu.to/play/2982550433/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FOCUS |H" tvg-logo="" group-title="Varie", FOCUS |H
+#EXTINF:-1 tvg-id="" tvg-name="FOCUS |H" tvg-logo="" group-title="Intrattenimento", FOCUS |H
 #EXTVLCOPT:http-user-agent=OHA/1.0
 #EXTVLCOPT:http-referrer=https://oha.to
 #EXTHTTP:{"User-Agent":"OHA/1.0","Referer":"https://oha.to"}
@@ -1939,22 +1939,22 @@ https://huhu.to/play/2767861049/index.m3u8
 #EXTVLCOPT:http-referrer=https://oha.to
 #EXTHTTP:{"User-Agent":"OHA/1.0","Referer":"https://oha.to"}
 https://oha.to/play/2767861049/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FOX (7)" tvg-logo="" group-title="Varie", FOX (7)
+#EXTINF:-1 tvg-id="" tvg-name="FOX (7)" tvg-logo="" group-title="Film & Serie TV", FOX (7)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to"}
 https://vavoo.to/play/563160609/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FOX .s" tvg-logo="" group-title="Varie", FOX .s
+#EXTINF:-1 tvg-id="" tvg-name="FOX .s" tvg-logo="" group-title="Film & Serie TV", FOX .s
 #EXTVLCOPT:http-user-agent=KOOL/1.0
 #EXTVLCOPT:http-referrer=https://kool.to
 #EXTHTTP:{"User-Agent":"KOOL/1.0","Referer":"https://kool.to"}
 https://kool.to/play/563160609/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FOX |H" tvg-logo="" group-title="Varie", FOX |H
+#EXTINF:-1 tvg-id="" tvg-name="FOX |H" tvg-logo="" group-title="Film & Serie TV", FOX |H
 #EXTVLCOPT:http-user-agent=HUHU/1.0
 #EXTVLCOPT:http-referrer=https://huhu.to
 #EXTHTTP:{"User-Agent":"HUHU/1.0","Referer":"https://huhu.to"}
 https://huhu.to/play/563160609/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FOX |H" tvg-logo="" group-title="Varie", FOX |H
+#EXTINF:-1 tvg-id="" tvg-name="FOX |H" tvg-logo="" group-title="Film & Serie TV", FOX |H
 #EXTVLCOPT:http-user-agent=OHA/1.0
 #EXTVLCOPT:http-referrer=https://oha.to
 #EXTHTTP:{"User-Agent":"OHA/1.0","Referer":"https://oha.to"}
@@ -2139,42 +2139,42 @@ https://huhu.to/play/4248997029/index.m3u8
 #EXTVLCOPT:http-referrer=https://oha.to
 #EXTHTTP:{"User-Agent":"OHA/1.0","Referer":"https://oha.to"}
 https://oha.to/play/4248997029/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="HISTORY (6)" tvg-logo="" group-title="Informazione", HISTORY (6)
+#EXTINF:-1 tvg-id="" tvg-name="HISTORY (6)" tvg-logo="" group-title="Documentari", HISTORY (6)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to"}
 https://vavoo.to/play/317837654/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="HISTORY (7)" tvg-logo="" group-title="Informazione", HISTORY (7)
+#EXTINF:-1 tvg-id="" tvg-name="HISTORY (7)" tvg-logo="" group-title="Documentari", HISTORY (7)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to"}
 https://vavoo.to/play/2134724757/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="HISTORY .c" tvg-logo="" group-title="Informazione", HISTORY .c
+#EXTINF:-1 tvg-id="" tvg-name="HISTORY .c" tvg-logo="" group-title="Documentari", HISTORY .c
 #EXTVLCOPT:http-user-agent=KOOL/1.0
 #EXTVLCOPT:http-referrer=https://kool.to
 #EXTHTTP:{"User-Agent":"KOOL/1.0","Referer":"https://kool.to"}
 https://kool.to/play/317837654/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="HISTORY .s" tvg-logo="" group-title="Informazione", HISTORY .s
+#EXTINF:-1 tvg-id="" tvg-name="HISTORY .s" tvg-logo="" group-title="Documentari", HISTORY .s
 #EXTVLCOPT:http-user-agent=KOOL/1.0
 #EXTVLCOPT:http-referrer=https://kool.to
 #EXTHTTP:{"User-Agent":"KOOL/1.0","Referer":"https://kool.to"}
 https://kool.to/play/2134724757/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="HISTORY |E" tvg-logo="" group-title="Informazione", HISTORY |E
+#EXTINF:-1 tvg-id="" tvg-name="HISTORY |E" tvg-logo="" group-title="Documentari", HISTORY |E
 #EXTVLCOPT:http-user-agent=HUHU/1.0
 #EXTVLCOPT:http-referrer=https://huhu.to
 #EXTHTTP:{"User-Agent":"HUHU/1.0","Referer":"https://huhu.to"}
 https://huhu.to/play/317837654/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="HISTORY |E" tvg-logo="" group-title="Informazione", HISTORY |E
+#EXTINF:-1 tvg-id="" tvg-name="HISTORY |E" tvg-logo="" group-title="Documentari", HISTORY |E
 #EXTVLCOPT:http-user-agent=OHA/1.0
 #EXTVLCOPT:http-referrer=https://oha.to
 #EXTHTTP:{"User-Agent":"OHA/1.0","Referer":"https://oha.to"}
 https://oha.to/play/317837654/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="HISTORY |H" tvg-logo="" group-title="Informazione", HISTORY |H
+#EXTINF:-1 tvg-id="" tvg-name="HISTORY |H" tvg-logo="" group-title="Documentari", HISTORY |H
 #EXTVLCOPT:http-user-agent=HUHU/1.0
 #EXTVLCOPT:http-referrer=https://huhu.to
 #EXTHTTP:{"User-Agent":"HUHU/1.0","Referer":"https://huhu.to"}
 https://huhu.to/play/2134724757/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="HISTORY |H" tvg-logo="" group-title="Informazione", HISTORY |H
+#EXTINF:-1 tvg-id="" tvg-name="HISTORY |H" tvg-logo="" group-title="Documentari", HISTORY |H
 #EXTVLCOPT:http-user-agent=OHA/1.0
 #EXTVLCOPT:http-referrer=https://oha.to
 #EXTHTTP:{"User-Agent":"OHA/1.0","Referer":"https://oha.to"}
@@ -2259,102 +2259,102 @@ https://huhu.to/play/576490047/index.m3u8
 #EXTVLCOPT:http-referrer=https://oha.to
 #EXTHTTP:{"User-Agent":"OHA/1.0","Referer":"https://oha.to"}
 https://oha.to/play/576490047/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ITALIA 1 (6)" tvg-logo="" group-title="Varie", ITALIA 1 (6)
+#EXTINF:-1 tvg-id="" tvg-name="ITALIA 1 (6)" tvg-logo="" group-title="Intrattenimento", ITALIA 1 (6)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to"}
 https://vavoo.to/play/663536394/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ITALIA 1 .c" tvg-logo="" group-title="Varie", ITALIA 1 .c
+#EXTINF:-1 tvg-id="" tvg-name="ITALIA 1 .c" tvg-logo="" group-title="Intrattenimento", ITALIA 1 .c
 #EXTVLCOPT:http-user-agent=KOOL/1.0
 #EXTVLCOPT:http-referrer=https://kool.to
 #EXTHTTP:{"User-Agent":"KOOL/1.0","Referer":"https://kool.to"}
 https://kool.to/play/663536394/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ITALIA 1 |E" tvg-logo="" group-title="Varie", ITALIA 1 |E
+#EXTINF:-1 tvg-id="" tvg-name="ITALIA 1 |E" tvg-logo="" group-title="Intrattenimento", ITALIA 1 |E
 #EXTVLCOPT:http-user-agent=HUHU/1.0
 #EXTVLCOPT:http-referrer=https://huhu.to
 #EXTHTTP:{"User-Agent":"HUHU/1.0","Referer":"https://huhu.to"}
 https://huhu.to/play/663536394/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ITALIA 1 |E" tvg-logo="" group-title="Varie", ITALIA 1 |E
+#EXTINF:-1 tvg-id="" tvg-name="ITALIA 1 |E" tvg-logo="" group-title="Intrattenimento", ITALIA 1 |E
 #EXTVLCOPT:http-user-agent=OHA/1.0
 #EXTVLCOPT:http-referrer=https://oha.to
 #EXTHTTP:{"User-Agent":"OHA/1.0","Referer":"https://oha.to"}
 https://oha.to/play/663536394/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ITALIA 2 (6)" tvg-logo="" group-title="Varie", ITALIA 2 (6)
+#EXTINF:-1 tvg-id="" tvg-name="ITALIA 2 (6)" tvg-logo="" group-title="Intrattenimento", ITALIA 2 (6)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to"}
 https://vavoo.to/play/1613543898/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ITALIA 2 .c" tvg-logo="" group-title="Varie", ITALIA 2 .c
+#EXTINF:-1 tvg-id="" tvg-name="ITALIA 2 .c" tvg-logo="" group-title="Intrattenimento", ITALIA 2 .c
 #EXTVLCOPT:http-user-agent=KOOL/1.0
 #EXTVLCOPT:http-referrer=https://kool.to
 #EXTHTTP:{"User-Agent":"KOOL/1.0","Referer":"https://kool.to"}
 https://kool.to/play/1613543898/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ITALIA 2 |E" tvg-logo="" group-title="Varie", ITALIA 2 |E
+#EXTINF:-1 tvg-id="" tvg-name="ITALIA 2 |E" tvg-logo="" group-title="Intrattenimento", ITALIA 2 |E
 #EXTVLCOPT:http-user-agent=HUHU/1.0
 #EXTVLCOPT:http-referrer=https://huhu.to
 #EXTHTTP:{"User-Agent":"HUHU/1.0","Referer":"https://huhu.to"}
 https://huhu.to/play/1613543898/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ITALIA 2 |E" tvg-logo="" group-title="Varie", ITALIA 2 |E
+#EXTINF:-1 tvg-id="" tvg-name="ITALIA 2 |E" tvg-logo="" group-title="Intrattenimento", ITALIA 2 |E
 #EXTVLCOPT:http-user-agent=OHA/1.0
 #EXTVLCOPT:http-referrer=https://oha.to
 #EXTHTTP:{"User-Agent":"OHA/1.0","Referer":"https://oha.to"}
 https://oha.to/play/1613543898/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ITALIA 3 (6)" tvg-logo="" group-title="Varie", ITALIA 3 (6)
+#EXTINF:-1 tvg-id="" tvg-name="ITALIA 3 (6)" tvg-logo="" group-title="Intrattenimento", ITALIA 3 (6)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to"}
 https://vavoo.to/play/1565298794/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ITALIA 3 (7)" tvg-logo="" group-title="Varie", ITALIA 3 (7)
+#EXTINF:-1 tvg-id="" tvg-name="ITALIA 3 (7)" tvg-logo="" group-title="Intrattenimento", ITALIA 3 (7)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to"}
 https://vavoo.to/play/1200985239/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ITALIA 3 .c" tvg-logo="" group-title="Varie", ITALIA 3 .c
+#EXTINF:-1 tvg-id="" tvg-name="ITALIA 3 .c" tvg-logo="" group-title="Intrattenimento", ITALIA 3 .c
 #EXTVLCOPT:http-user-agent=KOOL/1.0
 #EXTVLCOPT:http-referrer=https://kool.to
 #EXTHTTP:{"User-Agent":"KOOL/1.0","Referer":"https://kool.to"}
 https://kool.to/play/1565298794/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ITALIA 3 .s" tvg-logo="" group-title="Varie", ITALIA 3 .s
+#EXTINF:-1 tvg-id="" tvg-name="ITALIA 3 .s" tvg-logo="" group-title="Intrattenimento", ITALIA 3 .s
 #EXTVLCOPT:http-user-agent=KOOL/1.0
 #EXTVLCOPT:http-referrer=https://kool.to
 #EXTHTTP:{"User-Agent":"KOOL/1.0","Referer":"https://kool.to"}
 https://kool.to/play/1200985239/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ITALIA 3 |E" tvg-logo="" group-title="Varie", ITALIA 3 |E
+#EXTINF:-1 tvg-id="" tvg-name="ITALIA 3 |E" tvg-logo="" group-title="Intrattenimento", ITALIA 3 |E
 #EXTVLCOPT:http-user-agent=HUHU/1.0
 #EXTVLCOPT:http-referrer=https://huhu.to
 #EXTHTTP:{"User-Agent":"HUHU/1.0","Referer":"https://huhu.to"}
 https://huhu.to/play/1565298794/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ITALIA 3 |E" tvg-logo="" group-title="Varie", ITALIA 3 |E
+#EXTINF:-1 tvg-id="" tvg-name="ITALIA 3 |E" tvg-logo="" group-title="Intrattenimento", ITALIA 3 |E
 #EXTVLCOPT:http-user-agent=OHA/1.0
 #EXTVLCOPT:http-referrer=https://oha.to
 #EXTHTTP:{"User-Agent":"OHA/1.0","Referer":"https://oha.to"}
 https://oha.to/play/1565298794/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ITALIA 3 |H" tvg-logo="" group-title="Varie", ITALIA 3 |H
+#EXTINF:-1 tvg-id="" tvg-name="ITALIA 3 |H" tvg-logo="" group-title="Intrattenimento", ITALIA 3 |H
 #EXTVLCOPT:http-user-agent=HUHU/1.0
 #EXTVLCOPT:http-referrer=https://huhu.to
 #EXTHTTP:{"User-Agent":"HUHU/1.0","Referer":"https://huhu.to"}
 https://huhu.to/play/1200985239/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ITALIA 3 |H" tvg-logo="" group-title="Varie", ITALIA 3 |H
+#EXTINF:-1 tvg-id="" tvg-name="ITALIA 3 |H" tvg-logo="" group-title="Intrattenimento", ITALIA 3 |H
 #EXTVLCOPT:http-user-agent=OHA/1.0
 #EXTVLCOPT:http-referrer=https://oha.to
 #EXTHTTP:{"User-Agent":"OHA/1.0","Referer":"https://oha.to"}
 https://oha.to/play/1200985239/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ITALIAN FISHING TV (7)" tvg-logo="" group-title="Varie", ITALIAN FISHING TV (7)
+#EXTINF:-1 tvg-id="" tvg-name="ITALIAN FISHING TV (7)" tvg-logo="" group-title="Intrattenimento", ITALIAN FISHING TV (7)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to"}
 https://vavoo.to/play/477083716/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ITALIAN FISHING TV .s" tvg-logo="" group-title="Varie", ITALIAN FISHING TV .s
+#EXTINF:-1 tvg-id="" tvg-name="ITALIAN FISHING TV .s" tvg-logo="" group-title="Intrattenimento", ITALIAN FISHING TV .s
 #EXTVLCOPT:http-user-agent=KOOL/1.0
 #EXTVLCOPT:http-referrer=https://kool.to
 #EXTHTTP:{"User-Agent":"KOOL/1.0","Referer":"https://kool.to"}
 https://kool.to/play/477083716/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ITALIAN FISHING TV |H" tvg-logo="" group-title="Varie", ITALIAN FISHING TV |H
+#EXTINF:-1 tvg-id="" tvg-name="ITALIAN FISHING TV |H" tvg-logo="" group-title="Intrattenimento", ITALIAN FISHING TV |H
 #EXTVLCOPT:http-user-agent=HUHU/1.0
 #EXTVLCOPT:http-referrer=https://huhu.to
 #EXTHTTP:{"User-Agent":"HUHU/1.0","Referer":"https://huhu.to"}
 https://huhu.to/play/477083716/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ITALIAN FISHING TV |H" tvg-logo="" group-title="Varie", ITALIAN FISHING TV |H
+#EXTINF:-1 tvg-id="" tvg-name="ITALIAN FISHING TV |H" tvg-logo="" group-title="Intrattenimento", ITALIAN FISHING TV |H
 #EXTVLCOPT:http-user-agent=OHA/1.0
 #EXTVLCOPT:http-referrer=https://oha.to
 #EXTHTTP:{"User-Agent":"OHA/1.0","Referer":"https://oha.to"}
@@ -2379,22 +2379,22 @@ https://huhu.to/play/803540254/index.m3u8
 #EXTVLCOPT:http-referrer=https://oha.to
 #EXTHTTP:{"User-Agent":"OHA/1.0","Referer":"https://oha.to"}
 https://oha.to/play/803540254/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="JUWELO ITALIA (6)" tvg-logo="" group-title="Varie", JUWELO ITALIA (6)
+#EXTINF:-1 tvg-id="" tvg-name="JUWELO ITALIA (6)" tvg-logo="" group-title="Intrattenimento", JUWELO ITALIA (6)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to"}
 https://vavoo.to/play/3832171692/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="JUWELO ITALIA .c" tvg-logo="" group-title="Varie", JUWELO ITALIA .c
+#EXTINF:-1 tvg-id="" tvg-name="JUWELO ITALIA .c" tvg-logo="" group-title="Intrattenimento", JUWELO ITALIA .c
 #EXTVLCOPT:http-user-agent=KOOL/1.0
 #EXTVLCOPT:http-referrer=https://kool.to
 #EXTHTTP:{"User-Agent":"KOOL/1.0","Referer":"https://kool.to"}
 https://kool.to/play/3832171692/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="JUWELO ITALIA |E" tvg-logo="" group-title="Varie", JUWELO ITALIA |E
+#EXTINF:-1 tvg-id="" tvg-name="JUWELO ITALIA |E" tvg-logo="" group-title="Intrattenimento", JUWELO ITALIA |E
 #EXTVLCOPT:http-user-agent=HUHU/1.0
 #EXTVLCOPT:http-referrer=https://huhu.to
 #EXTHTTP:{"User-Agent":"HUHU/1.0","Referer":"https://huhu.to"}
 https://huhu.to/play/3832171692/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="JUWELO ITALIA |E" tvg-logo="" group-title="Varie", JUWELO ITALIA |E
+#EXTINF:-1 tvg-id="" tvg-name="JUWELO ITALIA |E" tvg-logo="" group-title="Intrattenimento", JUWELO ITALIA |E
 #EXTVLCOPT:http-user-agent=OHA/1.0
 #EXTVLCOPT:http-referrer=https://oha.to
 #EXTHTTP:{"User-Agent":"OHA/1.0","Referer":"https://oha.to"}
@@ -2459,22 +2459,22 @@ https://kool.to/play/950030926/index.m3u8
 #EXTVLCOPT:http-referrer=https://kool.to
 #EXTHTTP:{"User-Agent":"KOOL/1.0","Referer":"https://kool.to"}
 https://kool.to/play/3815726749/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="KISS KISS ITALIA (6)" tvg-logo="" group-title="Varie", KISS KISS ITALIA (6)
+#EXTINF:-1 tvg-id="" tvg-name="KISS KISS ITALIA (6)" tvg-logo="" group-title="Intrattenimento", KISS KISS ITALIA (6)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to"}
 https://vavoo.to/play/1370869299/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="KISS KISS ITALIA .c" tvg-logo="" group-title="Varie", KISS KISS ITALIA .c
+#EXTINF:-1 tvg-id="" tvg-name="KISS KISS ITALIA .c" tvg-logo="" group-title="Intrattenimento", KISS KISS ITALIA .c
 #EXTVLCOPT:http-user-agent=KOOL/1.0
 #EXTVLCOPT:http-referrer=https://kool.to
 #EXTHTTP:{"User-Agent":"KOOL/1.0","Referer":"https://kool.to"}
 https://kool.to/play/1370869299/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="KISS KISS ITALIA |E" tvg-logo="" group-title="Varie", KISS KISS ITALIA |E
+#EXTINF:-1 tvg-id="" tvg-name="KISS KISS ITALIA |E" tvg-logo="" group-title="Intrattenimento", KISS KISS ITALIA |E
 #EXTVLCOPT:http-user-agent=HUHU/1.0
 #EXTVLCOPT:http-referrer=https://huhu.to
 #EXTHTTP:{"User-Agent":"HUHU/1.0","Referer":"https://huhu.to"}
 https://huhu.to/play/1370869299/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="KISS KISS ITALIA |E" tvg-logo="" group-title="Varie", KISS KISS ITALIA |E
+#EXTINF:-1 tvg-id="" tvg-name="KISS KISS ITALIA |E" tvg-logo="" group-title="Intrattenimento", KISS KISS ITALIA |E
 #EXTVLCOPT:http-user-agent=OHA/1.0
 #EXTVLCOPT:http-referrer=https://oha.to
 #EXTHTTP:{"User-Agent":"OHA/1.0","Referer":"https://oha.to"}
@@ -2759,202 +2759,202 @@ https://huhu.to/play/215827632/index.m3u8
 #EXTVLCOPT:http-referrer=https://oha.to
 #EXTHTTP:{"User-Agent":"OHA/1.0","Referer":"https://oha.to"}
 https://oha.to/play/215827632/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MARIA+VISION ITALIA (6)" tvg-logo="" group-title="Varie", MARIA+VISION ITALIA (6)
+#EXTINF:-1 tvg-id="" tvg-name="MARIA+VISION ITALIA (6)" tvg-logo="" group-title="Intrattenimento", MARIA+VISION ITALIA (6)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to"}
 https://vavoo.to/play/3648324945/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MARIA+VISION ITALIA .c" tvg-logo="" group-title="Varie", MARIA+VISION ITALIA .c
+#EXTINF:-1 tvg-id="" tvg-name="MARIA+VISION ITALIA .c" tvg-logo="" group-title="Intrattenimento", MARIA+VISION ITALIA .c
 #EXTVLCOPT:http-user-agent=KOOL/1.0
 #EXTVLCOPT:http-referrer=https://kool.to
 #EXTHTTP:{"User-Agent":"KOOL/1.0","Referer":"https://kool.to"}
 https://kool.to/play/3648324945/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MARIA+VISION ITALIA |E" tvg-logo="" group-title="Varie", MARIA+VISION ITALIA |E
+#EXTINF:-1 tvg-id="" tvg-name="MARIA+VISION ITALIA |E" tvg-logo="" group-title="Intrattenimento", MARIA+VISION ITALIA |E
 #EXTVLCOPT:http-user-agent=HUHU/1.0
 #EXTVLCOPT:http-referrer=https://huhu.to
 #EXTHTTP:{"User-Agent":"HUHU/1.0","Referer":"https://huhu.to"}
 https://huhu.to/play/3648324945/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MARIA+VISION ITALIA |E" tvg-logo="" group-title="Varie", MARIA+VISION ITALIA |E
+#EXTINF:-1 tvg-id="" tvg-name="MARIA+VISION ITALIA |E" tvg-logo="" group-title="Intrattenimento", MARIA+VISION ITALIA |E
 #EXTVLCOPT:http-user-agent=OHA/1.0
 #EXTVLCOPT:http-referrer=https://oha.to
 #EXTHTTP:{"User-Agent":"OHA/1.0","Referer":"https://oha.to"}
 https://oha.to/play/3648324945/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MEDIASET 1 (7)" tvg-logo="" group-title="Varie", MEDIASET 1 (7)
+#EXTINF:-1 tvg-id="" tvg-name="MEDIASET 1 (7)" tvg-logo="" group-title="Intrattenimento", MEDIASET 1 (7)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to"}
 https://vavoo.to/play/633342961/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MEDIASET 1 .s" tvg-logo="" group-title="Varie", MEDIASET 1 .s
+#EXTINF:-1 tvg-id="" tvg-name="MEDIASET 1 .s" tvg-logo="" group-title="Intrattenimento", MEDIASET 1 .s
 #EXTVLCOPT:http-user-agent=KOOL/1.0
 #EXTVLCOPT:http-referrer=https://kool.to
 #EXTHTTP:{"User-Agent":"KOOL/1.0","Referer":"https://kool.to"}
 https://kool.to/play/633342961/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MEDIASET 1 |H" tvg-logo="" group-title="Varie", MEDIASET 1 |H
+#EXTINF:-1 tvg-id="" tvg-name="MEDIASET 1 |H" tvg-logo="" group-title="Intrattenimento", MEDIASET 1 |H
 #EXTVLCOPT:http-user-agent=HUHU/1.0
 #EXTVLCOPT:http-referrer=https://huhu.to
 #EXTHTTP:{"User-Agent":"HUHU/1.0","Referer":"https://huhu.to"}
 https://huhu.to/play/633342961/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MEDIASET 1 |H" tvg-logo="" group-title="Varie", MEDIASET 1 |H
+#EXTINF:-1 tvg-id="" tvg-name="MEDIASET 1 |H" tvg-logo="" group-title="Intrattenimento", MEDIASET 1 |H
 #EXTVLCOPT:http-user-agent=OHA/1.0
 #EXTVLCOPT:http-referrer=https://oha.to
 #EXTHTTP:{"User-Agent":"OHA/1.0","Referer":"https://oha.to"}
 https://oha.to/play/633342961/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MEDIASET 20 (7)" tvg-logo="" group-title="Varie", MEDIASET 20 (7)
+#EXTINF:-1 tvg-id="" tvg-name="MEDIASET 20 (7)" tvg-logo="" group-title="Intrattenimento", MEDIASET 20 (7)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to"}
 https://vavoo.to/play/3134481201/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MEDIASET 20 .s" tvg-logo="" group-title="Varie", MEDIASET 20 .s
+#EXTINF:-1 tvg-id="" tvg-name="MEDIASET 20 .s" tvg-logo="" group-title="Intrattenimento", MEDIASET 20 .s
 #EXTVLCOPT:http-user-agent=KOOL/1.0
 #EXTVLCOPT:http-referrer=https://kool.to
 #EXTHTTP:{"User-Agent":"KOOL/1.0","Referer":"https://kool.to"}
 https://kool.to/play/3134481201/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MEDIASET 20 |H" tvg-logo="" group-title="Varie", MEDIASET 20 |H
+#EXTINF:-1 tvg-id="" tvg-name="MEDIASET 20 |H" tvg-logo="" group-title="Intrattenimento", MEDIASET 20 |H
 #EXTVLCOPT:http-user-agent=HUHU/1.0
 #EXTVLCOPT:http-referrer=https://huhu.to
 #EXTHTTP:{"User-Agent":"HUHU/1.0","Referer":"https://huhu.to"}
 https://huhu.to/play/3134481201/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MEDIASET 20 |H" tvg-logo="" group-title="Varie", MEDIASET 20 |H
+#EXTINF:-1 tvg-id="" tvg-name="MEDIASET 20 |H" tvg-logo="" group-title="Intrattenimento", MEDIASET 20 |H
 #EXTVLCOPT:http-user-agent=OHA/1.0
 #EXTVLCOPT:http-referrer=https://oha.to
 #EXTHTTP:{"User-Agent":"OHA/1.0","Referer":"https://oha.to"}
 https://oha.to/play/3134481201/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MEDIASET EXTRA (6)" tvg-logo="" group-title="Varie", MEDIASET EXTRA (6)
+#EXTINF:-1 tvg-id="" tvg-name="MEDIASET EXTRA (6)" tvg-logo="" group-title="Intrattenimento", MEDIASET EXTRA (6)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to"}
 https://vavoo.to/play/477466531/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MEDIASET EXTRA .c" tvg-logo="" group-title="Varie", MEDIASET EXTRA .c
+#EXTINF:-1 tvg-id="" tvg-name="MEDIASET EXTRA .c" tvg-logo="" group-title="Intrattenimento", MEDIASET EXTRA .c
 #EXTVLCOPT:http-user-agent=KOOL/1.0
 #EXTVLCOPT:http-referrer=https://kool.to
 #EXTHTTP:{"User-Agent":"KOOL/1.0","Referer":"https://kool.to"}
 https://kool.to/play/477466531/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MEDIASET EXTRA |E" tvg-logo="" group-title="Varie", MEDIASET EXTRA |E
+#EXTINF:-1 tvg-id="" tvg-name="MEDIASET EXTRA |E" tvg-logo="" group-title="Intrattenimento", MEDIASET EXTRA |E
 #EXTVLCOPT:http-user-agent=HUHU/1.0
 #EXTVLCOPT:http-referrer=https://huhu.to
 #EXTHTTP:{"User-Agent":"HUHU/1.0","Referer":"https://huhu.to"}
 https://huhu.to/play/477466531/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MEDIASET EXTRA |E" tvg-logo="" group-title="Varie", MEDIASET EXTRA |E
+#EXTINF:-1 tvg-id="" tvg-name="MEDIASET EXTRA |E" tvg-logo="" group-title="Intrattenimento", MEDIASET EXTRA |E
 #EXTVLCOPT:http-user-agent=OHA/1.0
 #EXTVLCOPT:http-referrer=https://oha.to
 #EXTHTTP:{"User-Agent":"OHA/1.0","Referer":"https://oha.to"}
 https://oha.to/play/477466531/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MEDIASET INFINITY+ 1 (6)" tvg-logo="" group-title="Varie", MEDIASET INFINITY+ 1 (6)
+#EXTINF:-1 tvg-id="" tvg-name="MEDIASET INFINITY+ 1 (6)" tvg-logo="" group-title="Intrattenimento", MEDIASET INFINITY+ 1 (6)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to"}
 https://vavoo.to/play/3599959739/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MEDIASET INFINITY+ 1 .c" tvg-logo="" group-title="Varie", MEDIASET INFINITY+ 1 .c
+#EXTINF:-1 tvg-id="" tvg-name="MEDIASET INFINITY+ 1 .c" tvg-logo="" group-title="Intrattenimento", MEDIASET INFINITY+ 1 .c
 #EXTVLCOPT:http-user-agent=KOOL/1.0
 #EXTVLCOPT:http-referrer=https://kool.to
 #EXTHTTP:{"User-Agent":"KOOL/1.0","Referer":"https://kool.to"}
 https://kool.to/play/3599959739/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MEDIASET INFINITY+ 1 |E" tvg-logo="" group-title="Varie", MEDIASET INFINITY+ 1 |E
+#EXTINF:-1 tvg-id="" tvg-name="MEDIASET INFINITY+ 1 |E" tvg-logo="" group-title="Intrattenimento", MEDIASET INFINITY+ 1 |E
 #EXTVLCOPT:http-user-agent=HUHU/1.0
 #EXTVLCOPT:http-referrer=https://huhu.to
 #EXTHTTP:{"User-Agent":"HUHU/1.0","Referer":"https://huhu.to"}
 https://huhu.to/play/3599959739/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MEDIASET INFINITY+ 1 |E" tvg-logo="" group-title="Varie", MEDIASET INFINITY+ 1 |E
+#EXTINF:-1 tvg-id="" tvg-name="MEDIASET INFINITY+ 1 |E" tvg-logo="" group-title="Intrattenimento", MEDIASET INFINITY+ 1 |E
 #EXTVLCOPT:http-user-agent=OHA/1.0
 #EXTVLCOPT:http-referrer=https://oha.to
 #EXTHTTP:{"User-Agent":"OHA/1.0","Referer":"https://oha.to"}
 https://oha.to/play/3599959739/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MEDIASET INFINITY+ 2 (6)" tvg-logo="" group-title="Varie", MEDIASET INFINITY+ 2 (6)
+#EXTINF:-1 tvg-id="" tvg-name="MEDIASET INFINITY+ 2 (6)" tvg-logo="" group-title="Intrattenimento", MEDIASET INFINITY+ 2 (6)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to"}
 https://vavoo.to/play/2436070507/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MEDIASET INFINITY+ 2 .c" tvg-logo="" group-title="Varie", MEDIASET INFINITY+ 2 .c
+#EXTINF:-1 tvg-id="" tvg-name="MEDIASET INFINITY+ 2 .c" tvg-logo="" group-title="Intrattenimento", MEDIASET INFINITY+ 2 .c
 #EXTVLCOPT:http-user-agent=KOOL/1.0
 #EXTVLCOPT:http-referrer=https://kool.to
 #EXTHTTP:{"User-Agent":"KOOL/1.0","Referer":"https://kool.to"}
 https://kool.to/play/2436070507/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MEDIASET INFINITY+ 2 |E" tvg-logo="" group-title="Varie", MEDIASET INFINITY+ 2 |E
+#EXTINF:-1 tvg-id="" tvg-name="MEDIASET INFINITY+ 2 |E" tvg-logo="" group-title="Intrattenimento", MEDIASET INFINITY+ 2 |E
 #EXTVLCOPT:http-user-agent=HUHU/1.0
 #EXTVLCOPT:http-referrer=https://huhu.to
 #EXTHTTP:{"User-Agent":"HUHU/1.0","Referer":"https://huhu.to"}
 https://huhu.to/play/2436070507/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MEDIASET INFINITY+ 2 |E" tvg-logo="" group-title="Varie", MEDIASET INFINITY+ 2 |E
+#EXTINF:-1 tvg-id="" tvg-name="MEDIASET INFINITY+ 2 |E" tvg-logo="" group-title="Intrattenimento", MEDIASET INFINITY+ 2 |E
 #EXTVLCOPT:http-user-agent=OHA/1.0
 #EXTVLCOPT:http-referrer=https://oha.to
 #EXTHTTP:{"User-Agent":"OHA/1.0","Referer":"https://oha.to"}
 https://oha.to/play/2436070507/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MEDIASET INFINITY+ 5 (6)" tvg-logo="" group-title="Varie", MEDIASET INFINITY+ 5 (6)
+#EXTINF:-1 tvg-id="" tvg-name="MEDIASET INFINITY+ 5 (6)" tvg-logo="" group-title="Intrattenimento", MEDIASET INFINITY+ 5 (6)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to"}
 https://vavoo.to/play/588488827/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MEDIASET INFINITY+ 5 .c" tvg-logo="" group-title="Varie", MEDIASET INFINITY+ 5 .c
+#EXTINF:-1 tvg-id="" tvg-name="MEDIASET INFINITY+ 5 .c" tvg-logo="" group-title="Intrattenimento", MEDIASET INFINITY+ 5 .c
 #EXTVLCOPT:http-user-agent=KOOL/1.0
 #EXTVLCOPT:http-referrer=https://kool.to
 #EXTHTTP:{"User-Agent":"KOOL/1.0","Referer":"https://kool.to"}
 https://kool.to/play/588488827/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MEDIASET INFINITY+ 5 |E" tvg-logo="" group-title="Varie", MEDIASET INFINITY+ 5 |E
+#EXTINF:-1 tvg-id="" tvg-name="MEDIASET INFINITY+ 5 |E" tvg-logo="" group-title="Intrattenimento", MEDIASET INFINITY+ 5 |E
 #EXTVLCOPT:http-user-agent=HUHU/1.0
 #EXTVLCOPT:http-referrer=https://huhu.to
 #EXTHTTP:{"User-Agent":"HUHU/1.0","Referer":"https://huhu.to"}
 https://huhu.to/play/588488827/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MEDIASET INFINITY+ 5 |E" tvg-logo="" group-title="Varie", MEDIASET INFINITY+ 5 |E
+#EXTINF:-1 tvg-id="" tvg-name="MEDIASET INFINITY+ 5 |E" tvg-logo="" group-title="Intrattenimento", MEDIASET INFINITY+ 5 |E
 #EXTVLCOPT:http-user-agent=OHA/1.0
 #EXTVLCOPT:http-referrer=https://oha.to
 #EXTHTTP:{"User-Agent":"OHA/1.0","Referer":"https://oha.to"}
 https://oha.to/play/588488827/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MEDIASET IRIS (7)" tvg-logo="" group-title="Varie", MEDIASET IRIS (7)
+#EXTINF:-1 tvg-id="" tvg-name="MEDIASET IRIS (7)" tvg-logo="" group-title="Intrattenimento", MEDIASET IRIS (7)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to"}
 https://vavoo.to/play/23919988/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MEDIASET IRIS .s" tvg-logo="" group-title="Varie", MEDIASET IRIS .s
+#EXTINF:-1 tvg-id="" tvg-name="MEDIASET IRIS .s" tvg-logo="" group-title="Intrattenimento", MEDIASET IRIS .s
 #EXTVLCOPT:http-user-agent=KOOL/1.0
 #EXTVLCOPT:http-referrer=https://kool.to
 #EXTHTTP:{"User-Agent":"KOOL/1.0","Referer":"https://kool.to"}
 https://kool.to/play/23919988/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MEDIASET IRIS |H" tvg-logo="" group-title="Varie", MEDIASET IRIS |H
+#EXTINF:-1 tvg-id="" tvg-name="MEDIASET IRIS |H" tvg-logo="" group-title="Intrattenimento", MEDIASET IRIS |H
 #EXTVLCOPT:http-user-agent=HUHU/1.0
 #EXTVLCOPT:http-referrer=https://huhu.to
 #EXTHTTP:{"User-Agent":"HUHU/1.0","Referer":"https://huhu.to"}
 https://huhu.to/play/23919988/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MEDIASET IRIS |H" tvg-logo="" group-title="Varie", MEDIASET IRIS |H
+#EXTINF:-1 tvg-id="" tvg-name="MEDIASET IRIS |H" tvg-logo="" group-title="Intrattenimento", MEDIASET IRIS |H
 #EXTVLCOPT:http-user-agent=OHA/1.0
 #EXTVLCOPT:http-referrer=https://oha.to
 #EXTHTTP:{"User-Agent":"OHA/1.0","Referer":"https://oha.to"}
 https://oha.to/play/23919988/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MEDIASET ITALIA (6)" tvg-logo="" group-title="Varie", MEDIASET ITALIA (6)
+#EXTINF:-1 tvg-id="" tvg-name="MEDIASET ITALIA (6)" tvg-logo="" group-title="Intrattenimento", MEDIASET ITALIA (6)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to"}
 https://vavoo.to/play/1989562337/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MEDIASET ITALIA .c" tvg-logo="" group-title="Varie", MEDIASET ITALIA .c
+#EXTINF:-1 tvg-id="" tvg-name="MEDIASET ITALIA .c" tvg-logo="" group-title="Intrattenimento", MEDIASET ITALIA .c
 #EXTVLCOPT:http-user-agent=KOOL/1.0
 #EXTVLCOPT:http-referrer=https://kool.to
 #EXTHTTP:{"User-Agent":"KOOL/1.0","Referer":"https://kool.to"}
 https://kool.to/play/1989562337/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MEDIASET ITALIA 2 (7)" tvg-logo="" group-title="Varie", MEDIASET ITALIA 2 (7)
+#EXTINF:-1 tvg-id="" tvg-name="MEDIASET ITALIA 2 (7)" tvg-logo="" group-title="Intrattenimento", MEDIASET ITALIA 2 (7)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to"}
 https://vavoo.to/play/3538009430/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MEDIASET ITALIA 2 .s" tvg-logo="" group-title="Varie", MEDIASET ITALIA 2 .s
+#EXTINF:-1 tvg-id="" tvg-name="MEDIASET ITALIA 2 .s" tvg-logo="" group-title="Intrattenimento", MEDIASET ITALIA 2 .s
 #EXTVLCOPT:http-user-agent=KOOL/1.0
 #EXTVLCOPT:http-referrer=https://kool.to
 #EXTHTTP:{"User-Agent":"KOOL/1.0","Referer":"https://kool.to"}
 https://kool.to/play/3538009430/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MEDIASET ITALIA 2 |H" tvg-logo="" group-title="Varie", MEDIASET ITALIA 2 |H
+#EXTINF:-1 tvg-id="" tvg-name="MEDIASET ITALIA 2 |H" tvg-logo="" group-title="Intrattenimento", MEDIASET ITALIA 2 |H
 #EXTVLCOPT:http-user-agent=HUHU/1.0
 #EXTVLCOPT:http-referrer=https://huhu.to
 #EXTHTTP:{"User-Agent":"HUHU/1.0","Referer":"https://huhu.to"}
 https://huhu.to/play/3538009430/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MEDIASET ITALIA 2 |H" tvg-logo="" group-title="Varie", MEDIASET ITALIA 2 |H
+#EXTINF:-1 tvg-id="" tvg-name="MEDIASET ITALIA 2 |H" tvg-logo="" group-title="Intrattenimento", MEDIASET ITALIA 2 |H
 #EXTVLCOPT:http-user-agent=OHA/1.0
 #EXTVLCOPT:http-referrer=https://oha.to
 #EXTHTTP:{"User-Agent":"OHA/1.0","Referer":"https://oha.to"}
 https://oha.to/play/3538009430/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MEDIASET ITALIA |E" tvg-logo="" group-title="Varie", MEDIASET ITALIA |E
+#EXTINF:-1 tvg-id="" tvg-name="MEDIASET ITALIA |E" tvg-logo="" group-title="Intrattenimento", MEDIASET ITALIA |E
 #EXTVLCOPT:http-user-agent=HUHU/1.0
 #EXTVLCOPT:http-referrer=https://huhu.to
 #EXTHTTP:{"User-Agent":"HUHU/1.0","Referer":"https://huhu.to"}
 https://huhu.to/play/1989562337/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MEDIASET ITALIA |E" tvg-logo="" group-title="Varie", MEDIASET ITALIA |E
+#EXTINF:-1 tvg-id="" tvg-name="MEDIASET ITALIA |E" tvg-logo="" group-title="Intrattenimento", MEDIASET ITALIA |E
 #EXTVLCOPT:http-user-agent=OHA/1.0
 #EXTVLCOPT:http-referrer=https://oha.to
 #EXTHTTP:{"User-Agent":"OHA/1.0","Referer":"https://oha.to"}
@@ -3019,162 +3019,162 @@ https://huhu.to/play/3889279895/index.m3u8
 #EXTVLCOPT:http-referrer=https://oha.to
 #EXTHTTP:{"User-Agent":"OHA/1.0","Referer":"https://oha.to"}
 https://oha.to/play/3889279895/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MTV HITS (7)" tvg-logo="" group-title="Varie", MTV HITS (7)
+#EXTINF:-1 tvg-id="" tvg-name="MTV HITS (7)" tvg-logo="" group-title="Musica", MTV HITS (7)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to"}
 https://vavoo.to/play/3446813098/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MTV HITS .s" tvg-logo="" group-title="Varie", MTV HITS .s
+#EXTINF:-1 tvg-id="" tvg-name="MTV HITS .s" tvg-logo="" group-title="Musica", MTV HITS .s
 #EXTVLCOPT:http-user-agent=KOOL/1.0
 #EXTVLCOPT:http-referrer=https://kool.to
 #EXTHTTP:{"User-Agent":"KOOL/1.0","Referer":"https://kool.to"}
 https://kool.to/play/3446813098/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MTV HITS |H" tvg-logo="" group-title="Varie", MTV HITS |H
+#EXTINF:-1 tvg-id="" tvg-name="MTV HITS |H" tvg-logo="" group-title="Musica", MTV HITS |H
 #EXTVLCOPT:http-user-agent=HUHU/1.0
 #EXTVLCOPT:http-referrer=https://huhu.to
 #EXTHTTP:{"User-Agent":"HUHU/1.0","Referer":"https://huhu.to"}
 https://huhu.to/play/3446813098/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MTV HITS |H" tvg-logo="" group-title="Varie", MTV HITS |H
+#EXTINF:-1 tvg-id="" tvg-name="MTV HITS |H" tvg-logo="" group-title="Musica", MTV HITS |H
 #EXTVLCOPT:http-user-agent=OHA/1.0
 #EXTVLCOPT:http-referrer=https://oha.to
 #EXTHTTP:{"User-Agent":"OHA/1.0","Referer":"https://oha.to"}
 https://oha.to/play/3446813098/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NAT GEO (6)" tvg-logo="" group-title="Varie", NAT GEO (6)
+#EXTINF:-1 tvg-id="" tvg-name="NAT GEO (6)" tvg-logo="" group-title="Documentari", NAT GEO (6)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to"}
 https://vavoo.to/play/1735702308/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NAT GEO (7)" tvg-logo="" group-title="Varie", NAT GEO (7)
+#EXTINF:-1 tvg-id="" tvg-name="NAT GEO (7)" tvg-logo="" group-title="Documentari", NAT GEO (7)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to"}
 https://vavoo.to/play/179844839/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NAT GEO .c" tvg-logo="" group-title="Varie", NAT GEO .c
+#EXTINF:-1 tvg-id="" tvg-name="NAT GEO .c" tvg-logo="" group-title="Documentari", NAT GEO .c
 #EXTVLCOPT:http-user-agent=KOOL/1.0
 #EXTVLCOPT:http-referrer=https://kool.to
 #EXTHTTP:{"User-Agent":"KOOL/1.0","Referer":"https://kool.to"}
 https://kool.to/play/1735702308/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NAT GEO .s" tvg-logo="" group-title="Varie", NAT GEO .s
+#EXTINF:-1 tvg-id="" tvg-name="NAT GEO .s" tvg-logo="" group-title="Documentari", NAT GEO .s
 #EXTVLCOPT:http-user-agent=KOOL/1.0
 #EXTVLCOPT:http-referrer=https://kool.to
 #EXTHTTP:{"User-Agent":"KOOL/1.0","Referer":"https://kool.to"}
 https://kool.to/play/179844839/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NAT GEO WILD (6)" tvg-logo="" group-title="Varie", NAT GEO WILD (6)
+#EXTINF:-1 tvg-id="" tvg-name="NAT GEO WILD (6)" tvg-logo="" group-title="Documentari", NAT GEO WILD (6)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to"}
 https://vavoo.to/play/3428501495/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NAT GEO WILD (7)" tvg-logo="" group-title="Varie", NAT GEO WILD (7)
+#EXTINF:-1 tvg-id="" tvg-name="NAT GEO WILD (7)" tvg-logo="" group-title="Documentari", NAT GEO WILD (7)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to"}
 https://vavoo.to/play/3229664409/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NAT GEO WILD .c" tvg-logo="" group-title="Varie", NAT GEO WILD .c
+#EXTINF:-1 tvg-id="" tvg-name="NAT GEO WILD .c" tvg-logo="" group-title="Documentari", NAT GEO WILD .c
 #EXTVLCOPT:http-user-agent=KOOL/1.0
 #EXTVLCOPT:http-referrer=https://kool.to
 #EXTHTTP:{"User-Agent":"KOOL/1.0","Referer":"https://kool.to"}
 https://kool.to/play/3428501495/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NAT GEO WILD .s" tvg-logo="" group-title="Varie", NAT GEO WILD .s
+#EXTINF:-1 tvg-id="" tvg-name="NAT GEO WILD .s" tvg-logo="" group-title="Documentari", NAT GEO WILD .s
 #EXTVLCOPT:http-user-agent=KOOL/1.0
 #EXTVLCOPT:http-referrer=https://kool.to
 #EXTHTTP:{"User-Agent":"KOOL/1.0","Referer":"https://kool.to"}
 https://kool.to/play/3229664409/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NAT GEO WILD |E" tvg-logo="" group-title="Varie", NAT GEO WILD |E
+#EXTINF:-1 tvg-id="" tvg-name="NAT GEO WILD |E" tvg-logo="" group-title="Documentari", NAT GEO WILD |E
 #EXTVLCOPT:http-user-agent=HUHU/1.0
 #EXTVLCOPT:http-referrer=https://huhu.to
 #EXTHTTP:{"User-Agent":"HUHU/1.0","Referer":"https://huhu.to"}
 https://huhu.to/play/3428501495/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NAT GEO WILD |E" tvg-logo="" group-title="Varie", NAT GEO WILD |E
+#EXTINF:-1 tvg-id="" tvg-name="NAT GEO WILD |E" tvg-logo="" group-title="Documentari", NAT GEO WILD |E
 #EXTVLCOPT:http-user-agent=OHA/1.0
 #EXTVLCOPT:http-referrer=https://oha.to
 #EXTHTTP:{"User-Agent":"OHA/1.0","Referer":"https://oha.to"}
 https://oha.to/play/3428501495/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NAT GEO WILD |H" tvg-logo="" group-title="Varie", NAT GEO WILD |H
+#EXTINF:-1 tvg-id="" tvg-name="NAT GEO WILD |H" tvg-logo="" group-title="Documentari", NAT GEO WILD |H
 #EXTVLCOPT:http-user-agent=HUHU/1.0
 #EXTVLCOPT:http-referrer=https://huhu.to
 #EXTHTTP:{"User-Agent":"HUHU/1.0","Referer":"https://huhu.to"}
 https://huhu.to/play/3229664409/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NAT GEO WILD |H" tvg-logo="" group-title="Varie", NAT GEO WILD |H
+#EXTINF:-1 tvg-id="" tvg-name="NAT GEO WILD |H" tvg-logo="" group-title="Documentari", NAT GEO WILD |H
 #EXTVLCOPT:http-user-agent=OHA/1.0
 #EXTVLCOPT:http-referrer=https://oha.to
 #EXTHTTP:{"User-Agent":"OHA/1.0","Referer":"https://oha.to"}
 https://oha.to/play/3229664409/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NAT GEO |E" tvg-logo="" group-title="Varie", NAT GEO |E
+#EXTINF:-1 tvg-id="" tvg-name="NAT GEO |E" tvg-logo="" group-title="Documentari", NAT GEO |E
 #EXTVLCOPT:http-user-agent=HUHU/1.0
 #EXTVLCOPT:http-referrer=https://huhu.to
 #EXTHTTP:{"User-Agent":"HUHU/1.0","Referer":"https://huhu.to"}
 https://huhu.to/play/1735702308/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NAT GEO |E" tvg-logo="" group-title="Varie", NAT GEO |E
+#EXTINF:-1 tvg-id="" tvg-name="NAT GEO |E" tvg-logo="" group-title="Documentari", NAT GEO |E
 #EXTVLCOPT:http-user-agent=OHA/1.0
 #EXTVLCOPT:http-referrer=https://oha.to
 #EXTHTTP:{"User-Agent":"OHA/1.0","Referer":"https://oha.to"}
 https://oha.to/play/1735702308/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NAT GEO |H" tvg-logo="" group-title="Varie", NAT GEO |H
+#EXTINF:-1 tvg-id="" tvg-name="NAT GEO |H" tvg-logo="" group-title="Documentari", NAT GEO |H
 #EXTVLCOPT:http-user-agent=HUHU/1.0
 #EXTVLCOPT:http-referrer=https://huhu.to
 #EXTHTTP:{"User-Agent":"HUHU/1.0","Referer":"https://huhu.to"}
 https://huhu.to/play/179844839/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NAT GEO |H" tvg-logo="" group-title="Varie", NAT GEO |H
+#EXTINF:-1 tvg-id="" tvg-name="NAT GEO |H" tvg-logo="" group-title="Documentari", NAT GEO |H
 #EXTVLCOPT:http-user-agent=OHA/1.0
 #EXTVLCOPT:http-referrer=https://oha.to
 #EXTHTTP:{"User-Agent":"OHA/1.0","Referer":"https://oha.to"}
 https://oha.to/play/179844839/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NICK JR (6)" tvg-logo="" group-title="Varie", NICK JR (6)
+#EXTINF:-1 tvg-id="" tvg-name="NICK JR (6)" tvg-logo="" group-title="Bambini", NICK JR (6)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to"}
 https://vavoo.to/play/380958472/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NICK JR .c" tvg-logo="" group-title="Varie", NICK JR .c
+#EXTINF:-1 tvg-id="" tvg-name="NICK JR .c" tvg-logo="" group-title="Bambini", NICK JR .c
 #EXTVLCOPT:http-user-agent=KOOL/1.0
 #EXTVLCOPT:http-referrer=https://kool.to
 #EXTHTTP:{"User-Agent":"KOOL/1.0","Referer":"https://kool.to"}
 https://kool.to/play/380958472/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NICK JR |E" tvg-logo="" group-title="Varie", NICK JR |E
+#EXTINF:-1 tvg-id="" tvg-name="NICK JR |E" tvg-logo="" group-title="Bambini", NICK JR |E
 #EXTVLCOPT:http-user-agent=HUHU/1.0
 #EXTVLCOPT:http-referrer=https://huhu.to
 #EXTHTTP:{"User-Agent":"HUHU/1.0","Referer":"https://huhu.to"}
 https://huhu.to/play/380958472/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NICK JR |E" tvg-logo="" group-title="Varie", NICK JR |E
+#EXTINF:-1 tvg-id="" tvg-name="NICK JR |E" tvg-logo="" group-title="Bambini", NICK JR |E
 #EXTVLCOPT:http-user-agent=OHA/1.0
 #EXTVLCOPT:http-referrer=https://oha.to
 #EXTHTTP:{"User-Agent":"OHA/1.0","Referer":"https://oha.to"}
 https://oha.to/play/380958472/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NICKELODEON (6)" tvg-logo="" group-title="Varie", NICKELODEON (6)
+#EXTINF:-1 tvg-id="" tvg-name="NICKELODEON (6)" tvg-logo="" group-title="Bambini", NICKELODEON (6)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to"}
 https://vavoo.to/play/3039389215/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NICKELODEON .c" tvg-logo="" group-title="Varie", NICKELODEON .c
+#EXTINF:-1 tvg-id="" tvg-name="NICKELODEON .c" tvg-logo="" group-title="Bambini", NICKELODEON .c
 #EXTVLCOPT:http-user-agent=KOOL/1.0
 #EXTVLCOPT:http-referrer=https://kool.to
 #EXTHTTP:{"User-Agent":"KOOL/1.0","Referer":"https://kool.to"}
 https://kool.to/play/3039389215/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NICKELODEON |E" tvg-logo="" group-title="Varie", NICKELODEON |E
+#EXTINF:-1 tvg-id="" tvg-name="NICKELODEON |E" tvg-logo="" group-title="Bambini", NICKELODEON |E
 #EXTVLCOPT:http-user-agent=HUHU/1.0
 #EXTVLCOPT:http-referrer=https://huhu.to
 #EXTHTTP:{"User-Agent":"HUHU/1.0","Referer":"https://huhu.to"}
 https://huhu.to/play/3039389215/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NICKELODEON |E" tvg-logo="" group-title="Varie", NICKELODEON |E
+#EXTINF:-1 tvg-id="" tvg-name="NICKELODEON |E" tvg-logo="" group-title="Bambini", NICKELODEON |E
 #EXTVLCOPT:http-user-agent=OHA/1.0
 #EXTVLCOPT:http-referrer=https://oha.to
 #EXTHTTP:{"User-Agent":"OHA/1.0","Referer":"https://oha.to"}
 https://oha.to/play/3039389215/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="OL3 RADIO (6)" tvg-logo="" group-title="Varie", OL3 RADIO (6)
+#EXTINF:-1 tvg-id="" tvg-name="OL3 RADIO (6)" tvg-logo="" group-title="Musica", OL3 RADIO (6)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to"}
 https://vavoo.to/play/68102734/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="OL3 RADIO .c" tvg-logo="" group-title="Varie", OL3 RADIO .c
+#EXTINF:-1 tvg-id="" tvg-name="OL3 RADIO .c" tvg-logo="" group-title="Musica", OL3 RADIO .c
 #EXTVLCOPT:http-user-agent=KOOL/1.0
 #EXTVLCOPT:http-referrer=https://kool.to
 #EXTHTTP:{"User-Agent":"KOOL/1.0","Referer":"https://kool.to"}
 https://kool.to/play/68102734/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="OL3 RADIO |E" tvg-logo="" group-title="Varie", OL3 RADIO |E
+#EXTINF:-1 tvg-id="" tvg-name="OL3 RADIO |E" tvg-logo="" group-title="Musica", OL3 RADIO |E
 #EXTVLCOPT:http-user-agent=HUHU/1.0
 #EXTVLCOPT:http-referrer=https://huhu.to
 #EXTHTTP:{"User-Agent":"HUHU/1.0","Referer":"https://huhu.to"}
 https://huhu.to/play/68102734/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="OL3 RADIO |E" tvg-logo="" group-title="Varie", OL3 RADIO |E
+#EXTINF:-1 tvg-id="" tvg-name="OL3 RADIO |E" tvg-logo="" group-title="Musica", OL3 RADIO |E
 #EXTVLCOPT:http-user-agent=OHA/1.0
 #EXTVLCOPT:http-referrer=https://oha.to
 #EXTHTTP:{"User-Agent":"OHA/1.0","Referer":"https://oha.to"}
@@ -3489,22 +3489,22 @@ https://vavoo.to/play/2952884641/index.m3u8
 #EXTVLCOPT:http-referrer=https://kool.to
 #EXTHTTP:{"User-Agent":"KOOL/1.0","Referer":"https://kool.to"}
 https://kool.to/play/2952884641/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="QVC ITALIA (6)" tvg-logo="" group-title="Varie", QVC ITALIA (6)
+#EXTINF:-1 tvg-id="" tvg-name="QVC ITALIA (6)" tvg-logo="" group-title="Intrattenimento", QVC ITALIA (6)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to"}
 https://vavoo.to/play/1232565681/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="QVC ITALIA .c" tvg-logo="" group-title="Varie", QVC ITALIA .c
+#EXTINF:-1 tvg-id="" tvg-name="QVC ITALIA .c" tvg-logo="" group-title="Intrattenimento", QVC ITALIA .c
 #EXTVLCOPT:http-user-agent=KOOL/1.0
 #EXTVLCOPT:http-referrer=https://kool.to
 #EXTHTTP:{"User-Agent":"KOOL/1.0","Referer":"https://kool.to"}
 https://kool.to/play/1232565681/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="QVC ITALIA |E" tvg-logo="" group-title="Varie", QVC ITALIA |E
+#EXTINF:-1 tvg-id="" tvg-name="QVC ITALIA |E" tvg-logo="" group-title="Intrattenimento", QVC ITALIA |E
 #EXTVLCOPT:http-user-agent=HUHU/1.0
 #EXTVLCOPT:http-referrer=https://huhu.to
 #EXTHTTP:{"User-Agent":"HUHU/1.0","Referer":"https://huhu.to"}
 https://huhu.to/play/1232565681/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="QVC ITALIA |E" tvg-logo="" group-title="Varie", QVC ITALIA |E
+#EXTINF:-1 tvg-id="" tvg-name="QVC ITALIA |E" tvg-logo="" group-title="Intrattenimento", QVC ITALIA |E
 #EXTVLCOPT:http-user-agent=OHA/1.0
 #EXTVLCOPT:http-referrer=https://oha.to
 #EXTHTTP:{"User-Agent":"OHA/1.0","Referer":"https://oha.to"}
@@ -3519,382 +3519,382 @@ https://huhu.to/play/2952884641/index.m3u8
 #EXTVLCOPT:http-referrer=https://oha.to
 #EXTHTTP:{"User-Agent":"OHA/1.0","Referer":"https://oha.to"}
 https://oha.to/play/2952884641/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RADIO 51 (7)" tvg-logo="" group-title="Varie", RADIO 51 (7)
+#EXTINF:-1 tvg-id="" tvg-name="RADIO 51 (7)" tvg-logo="" group-title="Musica", RADIO 51 (7)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to"}
 https://vavoo.to/play/2339747193/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RADIO 51 .s" tvg-logo="" group-title="Varie", RADIO 51 .s
+#EXTINF:-1 tvg-id="" tvg-name="RADIO 51 .s" tvg-logo="" group-title="Musica", RADIO 51 .s
 #EXTVLCOPT:http-user-agent=KOOL/1.0
 #EXTVLCOPT:http-referrer=https://kool.to
 #EXTHTTP:{"User-Agent":"KOOL/1.0","Referer":"https://kool.to"}
 https://kool.to/play/2339747193/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RADIO 51 |H" tvg-logo="" group-title="Varie", RADIO 51 |H
+#EXTINF:-1 tvg-id="" tvg-name="RADIO 51 |H" tvg-logo="" group-title="Musica", RADIO 51 |H
 #EXTVLCOPT:http-user-agent=HUHU/1.0
 #EXTVLCOPT:http-referrer=https://huhu.to
 #EXTHTTP:{"User-Agent":"HUHU/1.0","Referer":"https://huhu.to"}
 https://huhu.to/play/2339747193/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RADIO 51 |H" tvg-logo="" group-title="Varie", RADIO 51 |H
+#EXTINF:-1 tvg-id="" tvg-name="RADIO 51 |H" tvg-logo="" group-title="Musica", RADIO 51 |H
 #EXTVLCOPT:http-user-agent=OHA/1.0
 #EXTVLCOPT:http-referrer=https://oha.to
 #EXTHTTP:{"User-Agent":"OHA/1.0","Referer":"https://oha.to"}
 https://oha.to/play/2339747193/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RADIO CAPITAL (7)" tvg-logo="" group-title="Varie", RADIO CAPITAL (7)
+#EXTINF:-1 tvg-id="" tvg-name="RADIO CAPITAL (7)" tvg-logo="" group-title="Musica", RADIO CAPITAL (7)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to"}
 https://vavoo.to/play/421441745/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RADIO CAPITAL .s" tvg-logo="" group-title="Varie", RADIO CAPITAL .s
+#EXTINF:-1 tvg-id="" tvg-name="RADIO CAPITAL .s" tvg-logo="" group-title="Musica", RADIO CAPITAL .s
 #EXTVLCOPT:http-user-agent=KOOL/1.0
 #EXTVLCOPT:http-referrer=https://kool.to
 #EXTHTTP:{"User-Agent":"KOOL/1.0","Referer":"https://kool.to"}
 https://kool.to/play/421441745/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RADIO CAPITAL |H" tvg-logo="" group-title="Varie", RADIO CAPITAL |H
+#EXTINF:-1 tvg-id="" tvg-name="RADIO CAPITAL |H" tvg-logo="" group-title="Musica", RADIO CAPITAL |H
 #EXTVLCOPT:http-user-agent=HUHU/1.0
 #EXTVLCOPT:http-referrer=https://huhu.to
 #EXTHTTP:{"User-Agent":"HUHU/1.0","Referer":"https://huhu.to"}
 https://huhu.to/play/421441745/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RADIO CAPITAL |H" tvg-logo="" group-title="Varie", RADIO CAPITAL |H
+#EXTINF:-1 tvg-id="" tvg-name="RADIO CAPITAL |H" tvg-logo="" group-title="Musica", RADIO CAPITAL |H
 #EXTVLCOPT:http-user-agent=OHA/1.0
 #EXTVLCOPT:http-referrer=https://oha.to
 #EXTHTTP:{"User-Agent":"OHA/1.0","Referer":"https://oha.to"}
 https://oha.to/play/421441745/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RADIO FRECCIA (7)" tvg-logo="" group-title="Varie", RADIO FRECCIA (7)
+#EXTINF:-1 tvg-id="" tvg-name="RADIO FRECCIA (7)" tvg-logo="" group-title="Musica", RADIO FRECCIA (7)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to"}
 https://vavoo.to/play/1711134994/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RADIO FRECCIA .s" tvg-logo="" group-title="Varie", RADIO FRECCIA .s
+#EXTINF:-1 tvg-id="" tvg-name="RADIO FRECCIA .s" tvg-logo="" group-title="Musica", RADIO FRECCIA .s
 #EXTVLCOPT:http-user-agent=KOOL/1.0
 #EXTVLCOPT:http-referrer=https://kool.to
 #EXTHTTP:{"User-Agent":"KOOL/1.0","Referer":"https://kool.to"}
 https://kool.to/play/1711134994/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RADIO FRECCIA |H" tvg-logo="" group-title="Varie", RADIO FRECCIA |H
+#EXTINF:-1 tvg-id="" tvg-name="RADIO FRECCIA |H" tvg-logo="" group-title="Musica", RADIO FRECCIA |H
 #EXTVLCOPT:http-user-agent=HUHU/1.0
 #EXTVLCOPT:http-referrer=https://huhu.to
 #EXTHTTP:{"User-Agent":"HUHU/1.0","Referer":"https://huhu.to"}
 https://huhu.to/play/1711134994/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RADIO FRECCIA |H" tvg-logo="" group-title="Varie", RADIO FRECCIA |H
+#EXTINF:-1 tvg-id="" tvg-name="RADIO FRECCIA |H" tvg-logo="" group-title="Musica", RADIO FRECCIA |H
 #EXTVLCOPT:http-user-agent=OHA/1.0
 #EXTVLCOPT:http-referrer=https://oha.to
 #EXTHTTP:{"User-Agent":"OHA/1.0","Referer":"https://oha.to"}
 https://oha.to/play/1711134994/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RADIONORBA TV (6)" tvg-logo="" group-title="Varie", RADIONORBA TV (6)
+#EXTINF:-1 tvg-id="" tvg-name="RADIONORBA TV (6)" tvg-logo="" group-title="Musica", RADIONORBA TV (6)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to"}
 https://vavoo.to/play/2627662768/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RADIONORBA TV .c" tvg-logo="" group-title="Varie", RADIONORBA TV .c
+#EXTINF:-1 tvg-id="" tvg-name="RADIONORBA TV .c" tvg-logo="" group-title="Musica", RADIONORBA TV .c
 #EXTVLCOPT:http-user-agent=KOOL/1.0
 #EXTVLCOPT:http-referrer=https://kool.to
 #EXTHTTP:{"User-Agent":"KOOL/1.0","Referer":"https://kool.to"}
 https://kool.to/play/2627662768/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RADIONORBA TV |E" tvg-logo="" group-title="Varie", RADIONORBA TV |E
+#EXTINF:-1 tvg-id="" tvg-name="RADIONORBA TV |E" tvg-logo="" group-title="Musica", RADIONORBA TV |E
 #EXTVLCOPT:http-user-agent=HUHU/1.0
 #EXTVLCOPT:http-referrer=https://huhu.to
 #EXTHTTP:{"User-Agent":"HUHU/1.0","Referer":"https://huhu.to"}
 https://huhu.to/play/2627662768/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RADIONORBA TV |E" tvg-logo="" group-title="Varie", RADIONORBA TV |E
+#EXTINF:-1 tvg-id="" tvg-name="RADIONORBA TV |E" tvg-logo="" group-title="Musica", RADIONORBA TV |E
 #EXTVLCOPT:http-user-agent=OHA/1.0
 #EXTVLCOPT:http-referrer=https://oha.to
 #EXTHTTP:{"User-Agent":"OHA/1.0","Referer":"https://oha.to"}
 https://oha.to/play/2627662768/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RAI 1 (6)" tvg-logo="" group-title="Varie", RAI 1 (6)
+#EXTINF:-1 tvg-id="" tvg-name="RAI 1 (6)" tvg-logo="" group-title="Intrattenimento", RAI 1 (6)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to"}
 https://vavoo.to/play/875922788/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RAI 1 (7)" tvg-logo="" group-title="Varie", RAI 1 (7)
+#EXTINF:-1 tvg-id="" tvg-name="RAI 1 (7)" tvg-logo="" group-title="Intrattenimento", RAI 1 (7)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to"}
 https://vavoo.to/play/1225653759/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RAI 1 .c" tvg-logo="" group-title="Varie", RAI 1 .c
+#EXTINF:-1 tvg-id="" tvg-name="RAI 1 .c" tvg-logo="" group-title="Intrattenimento", RAI 1 .c
 #EXTVLCOPT:http-user-agent=KOOL/1.0
 #EXTVLCOPT:http-referrer=https://kool.to
 #EXTHTTP:{"User-Agent":"KOOL/1.0","Referer":"https://kool.to"}
 https://kool.to/play/875922788/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RAI 1 .s" tvg-logo="" group-title="Varie", RAI 1 .s
+#EXTINF:-1 tvg-id="" tvg-name="RAI 1 .s" tvg-logo="" group-title="Intrattenimento", RAI 1 .s
 #EXTVLCOPT:http-user-agent=KOOL/1.0
 #EXTVLCOPT:http-referrer=https://kool.to
 #EXTHTTP:{"User-Agent":"KOOL/1.0","Referer":"https://kool.to"}
 https://kool.to/play/1225653759/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RAI 1 |E" tvg-logo="" group-title="Varie", RAI 1 |E
+#EXTINF:-1 tvg-id="" tvg-name="RAI 1 |E" tvg-logo="" group-title="Intrattenimento", RAI 1 |E
 #EXTVLCOPT:http-user-agent=HUHU/1.0
 #EXTVLCOPT:http-referrer=https://huhu.to
 #EXTHTTP:{"User-Agent":"HUHU/1.0","Referer":"https://huhu.to"}
 https://huhu.to/play/875922788/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RAI 1 |E" tvg-logo="" group-title="Varie", RAI 1 |E
+#EXTINF:-1 tvg-id="" tvg-name="RAI 1 |E" tvg-logo="" group-title="Intrattenimento", RAI 1 |E
 #EXTVLCOPT:http-user-agent=OHA/1.0
 #EXTVLCOPT:http-referrer=https://oha.to
 #EXTHTTP:{"User-Agent":"OHA/1.0","Referer":"https://oha.to"}
 https://oha.to/play/875922788/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RAI 1 |H" tvg-logo="" group-title="Varie", RAI 1 |H
+#EXTINF:-1 tvg-id="" tvg-name="RAI 1 |H" tvg-logo="" group-title="Intrattenimento", RAI 1 |H
 #EXTVLCOPT:http-user-agent=HUHU/1.0
 #EXTVLCOPT:http-referrer=https://huhu.to
 #EXTHTTP:{"User-Agent":"HUHU/1.0","Referer":"https://huhu.to"}
 https://huhu.to/play/1225653759/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RAI 1 |H" tvg-logo="" group-title="Varie", RAI 1 |H
+#EXTINF:-1 tvg-id="" tvg-name="RAI 1 |H" tvg-logo="" group-title="Intrattenimento", RAI 1 |H
 #EXTVLCOPT:http-user-agent=OHA/1.0
 #EXTVLCOPT:http-referrer=https://oha.to
 #EXTHTTP:{"User-Agent":"OHA/1.0","Referer":"https://oha.to"}
 https://oha.to/play/1225653759/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RAI 2 (6)" tvg-logo="" group-title="Varie", RAI 2 (6)
+#EXTINF:-1 tvg-id="" tvg-name="RAI 2 (6)" tvg-logo="" group-title="Intrattenimento", RAI 2 (6)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to"}
 https://vavoo.to/play/1939210164/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RAI 2 (7)" tvg-logo="" group-title="Varie", RAI 2 (7)
+#EXTINF:-1 tvg-id="" tvg-name="RAI 2 (7)" tvg-logo="" group-title="Intrattenimento", RAI 2 (7)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to"}
 https://vavoo.to/play/246253359/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RAI 2 .c" tvg-logo="" group-title="Varie", RAI 2 .c
+#EXTINF:-1 tvg-id="" tvg-name="RAI 2 .c" tvg-logo="" group-title="Intrattenimento", RAI 2 .c
 #EXTVLCOPT:http-user-agent=KOOL/1.0
 #EXTVLCOPT:http-referrer=https://kool.to
 #EXTHTTP:{"User-Agent":"KOOL/1.0","Referer":"https://kool.to"}
 https://kool.to/play/1939210164/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RAI 2 .s" tvg-logo="" group-title="Varie", RAI 2 .s
+#EXTINF:-1 tvg-id="" tvg-name="RAI 2 .s" tvg-logo="" group-title="Intrattenimento", RAI 2 .s
 #EXTVLCOPT:http-user-agent=KOOL/1.0
 #EXTVLCOPT:http-referrer=https://kool.to
 #EXTHTTP:{"User-Agent":"KOOL/1.0","Referer":"https://kool.to"}
 https://kool.to/play/246253359/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RAI 2 |E" tvg-logo="" group-title="Varie", RAI 2 |E
+#EXTINF:-1 tvg-id="" tvg-name="RAI 2 |E" tvg-logo="" group-title="Intrattenimento", RAI 2 |E
 #EXTVLCOPT:http-user-agent=HUHU/1.0
 #EXTVLCOPT:http-referrer=https://huhu.to
 #EXTHTTP:{"User-Agent":"HUHU/1.0","Referer":"https://huhu.to"}
 https://huhu.to/play/1939210164/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RAI 2 |E" tvg-logo="" group-title="Varie", RAI 2 |E
+#EXTINF:-1 tvg-id="" tvg-name="RAI 2 |E" tvg-logo="" group-title="Intrattenimento", RAI 2 |E
 #EXTVLCOPT:http-user-agent=OHA/1.0
 #EXTVLCOPT:http-referrer=https://oha.to
 #EXTHTTP:{"User-Agent":"OHA/1.0","Referer":"https://oha.to"}
 https://oha.to/play/1939210164/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RAI 2 |H" tvg-logo="" group-title="Varie", RAI 2 |H
+#EXTINF:-1 tvg-id="" tvg-name="RAI 2 |H" tvg-logo="" group-title="Intrattenimento", RAI 2 |H
 #EXTVLCOPT:http-user-agent=HUHU/1.0
 #EXTVLCOPT:http-referrer=https://huhu.to
 #EXTHTTP:{"User-Agent":"HUHU/1.0","Referer":"https://huhu.to"}
 https://huhu.to/play/246253359/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RAI 2 |H" tvg-logo="" group-title="Varie", RAI 2 |H
+#EXTINF:-1 tvg-id="" tvg-name="RAI 2 |H" tvg-logo="" group-title="Intrattenimento", RAI 2 |H
 #EXTVLCOPT:http-user-agent=OHA/1.0
 #EXTVLCOPT:http-referrer=https://oha.to
 #EXTHTTP:{"User-Agent":"OHA/1.0","Referer":"https://oha.to"}
 https://oha.to/play/246253359/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RAI 3 (6)" tvg-logo="" group-title="Varie", RAI 3 (6)
+#EXTINF:-1 tvg-id="" tvg-name="RAI 3 (6)" tvg-logo="" group-title="Intrattenimento", RAI 3 (6)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to"}
 https://vavoo.to/play/1324733956/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RAI 3 (7)" tvg-logo="" group-title="Varie", RAI 3 (7)
+#EXTINF:-1 tvg-id="" tvg-name="RAI 3 (7)" tvg-logo="" group-title="Intrattenimento", RAI 3 (7)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to"}
 https://vavoo.to/play/869117599/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RAI 3 .c" tvg-logo="" group-title="Varie", RAI 3 .c
+#EXTINF:-1 tvg-id="" tvg-name="RAI 3 .c" tvg-logo="" group-title="Intrattenimento", RAI 3 .c
 #EXTVLCOPT:http-user-agent=KOOL/1.0
 #EXTVLCOPT:http-referrer=https://kool.to
 #EXTHTTP:{"User-Agent":"KOOL/1.0","Referer":"https://kool.to"}
 https://kool.to/play/1324733956/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RAI 3 .s" tvg-logo="" group-title="Varie", RAI 3 .s
+#EXTINF:-1 tvg-id="" tvg-name="RAI 3 .s" tvg-logo="" group-title="Intrattenimento", RAI 3 .s
 #EXTVLCOPT:http-user-agent=KOOL/1.0
 #EXTVLCOPT:http-referrer=https://kool.to
 #EXTHTTP:{"User-Agent":"KOOL/1.0","Referer":"https://kool.to"}
 https://kool.to/play/869117599/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RAI 3 |E" tvg-logo="" group-title="Varie", RAI 3 |E
+#EXTINF:-1 tvg-id="" tvg-name="RAI 3 |E" tvg-logo="" group-title="Intrattenimento", RAI 3 |E
 #EXTVLCOPT:http-user-agent=HUHU/1.0
 #EXTVLCOPT:http-referrer=https://huhu.to
 #EXTHTTP:{"User-Agent":"HUHU/1.0","Referer":"https://huhu.to"}
 https://huhu.to/play/1324733956/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RAI 3 |E" tvg-logo="" group-title="Varie", RAI 3 |E
+#EXTINF:-1 tvg-id="" tvg-name="RAI 3 |E" tvg-logo="" group-title="Intrattenimento", RAI 3 |E
 #EXTVLCOPT:http-user-agent=OHA/1.0
 #EXTVLCOPT:http-referrer=https://oha.to
 #EXTHTTP:{"User-Agent":"OHA/1.0","Referer":"https://oha.to"}
 https://oha.to/play/1324733956/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RAI 3 |H" tvg-logo="" group-title="Varie", RAI 3 |H
+#EXTINF:-1 tvg-id="" tvg-name="RAI 3 |H" tvg-logo="" group-title="Intrattenimento", RAI 3 |H
 #EXTVLCOPT:http-user-agent=HUHU/1.0
 #EXTVLCOPT:http-referrer=https://huhu.to
 #EXTHTTP:{"User-Agent":"HUHU/1.0","Referer":"https://huhu.to"}
 https://huhu.to/play/869117599/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RAI 3 |H" tvg-logo="" group-title="Varie", RAI 3 |H
+#EXTINF:-1 tvg-id="" tvg-name="RAI 3 |H" tvg-logo="" group-title="Intrattenimento", RAI 3 |H
 #EXTVLCOPT:http-user-agent=OHA/1.0
 #EXTVLCOPT:http-referrer=https://oha.to
 #EXTHTTP:{"User-Agent":"OHA/1.0","Referer":"https://oha.to"}
 https://oha.to/play/869117599/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RAI 4 (6)" tvg-logo="" group-title="Varie", RAI 4 (6)
+#EXTINF:-1 tvg-id="" tvg-name="RAI 4 (6)" tvg-logo="" group-title="Intrattenimento", RAI 4 (6)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to"}
 https://vavoo.to/play/4241820180/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RAI 4 (7)" tvg-logo="" group-title="Varie", RAI 4 (7)
+#EXTINF:-1 tvg-id="" tvg-name="RAI 4 (7)" tvg-logo="" group-title="Intrattenimento", RAI 4 (7)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to"}
 https://vavoo.to/play/2179822223/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RAI 4 .c" tvg-logo="" group-title="Varie", RAI 4 .c
+#EXTINF:-1 tvg-id="" tvg-name="RAI 4 .c" tvg-logo="" group-title="Intrattenimento", RAI 4 .c
 #EXTVLCOPT:http-user-agent=KOOL/1.0
 #EXTVLCOPT:http-referrer=https://kool.to
 #EXTHTTP:{"User-Agent":"KOOL/1.0","Referer":"https://kool.to"}
 https://kool.to/play/4241820180/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RAI 4 .s" tvg-logo="" group-title="Varie", RAI 4 .s
+#EXTINF:-1 tvg-id="" tvg-name="RAI 4 .s" tvg-logo="" group-title="Intrattenimento", RAI 4 .s
 #EXTVLCOPT:http-user-agent=KOOL/1.0
 #EXTVLCOPT:http-referrer=https://kool.to
 #EXTHTTP:{"User-Agent":"KOOL/1.0","Referer":"https://kool.to"}
 https://kool.to/play/2179822223/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RAI 4 |E" tvg-logo="" group-title="Varie", RAI 4 |E
+#EXTINF:-1 tvg-id="" tvg-name="RAI 4 |E" tvg-logo="" group-title="Intrattenimento", RAI 4 |E
 #EXTVLCOPT:http-user-agent=HUHU/1.0
 #EXTVLCOPT:http-referrer=https://huhu.to
 #EXTHTTP:{"User-Agent":"HUHU/1.0","Referer":"https://huhu.to"}
 https://huhu.to/play/4241820180/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RAI 4 |E" tvg-logo="" group-title="Varie", RAI 4 |E
+#EXTINF:-1 tvg-id="" tvg-name="RAI 4 |E" tvg-logo="" group-title="Intrattenimento", RAI 4 |E
 #EXTVLCOPT:http-user-agent=OHA/1.0
 #EXTVLCOPT:http-referrer=https://oha.to
 #EXTHTTP:{"User-Agent":"OHA/1.0","Referer":"https://oha.to"}
 https://oha.to/play/4241820180/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RAI 4 |H" tvg-logo="" group-title="Varie", RAI 4 |H
+#EXTINF:-1 tvg-id="" tvg-name="RAI 4 |H" tvg-logo="" group-title="Intrattenimento", RAI 4 |H
 #EXTVLCOPT:http-user-agent=HUHU/1.0
 #EXTVLCOPT:http-referrer=https://huhu.to
 #EXTHTTP:{"User-Agent":"HUHU/1.0","Referer":"https://huhu.to"}
 https://huhu.to/play/2179822223/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RAI 4 |H" tvg-logo="" group-title="Varie", RAI 4 |H
+#EXTINF:-1 tvg-id="" tvg-name="RAI 4 |H" tvg-logo="" group-title="Intrattenimento", RAI 4 |H
 #EXTVLCOPT:http-user-agent=OHA/1.0
 #EXTVLCOPT:http-referrer=https://oha.to
 #EXTHTTP:{"User-Agent":"OHA/1.0","Referer":"https://oha.to"}
 https://oha.to/play/2179822223/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RAI 4K (6)" tvg-logo="" group-title="Varie", RAI 4K (6)
+#EXTINF:-1 tvg-id="" tvg-name="RAI 4K (6)" tvg-logo="" group-title="Intrattenimento", RAI 4K (6)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to"}
 https://vavoo.to/play/2049087681/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RAI 4K .c" tvg-logo="" group-title="Varie", RAI 4K .c
+#EXTINF:-1 tvg-id="" tvg-name="RAI 4K .c" tvg-logo="" group-title="Intrattenimento", RAI 4K .c
 #EXTVLCOPT:http-user-agent=KOOL/1.0
 #EXTVLCOPT:http-referrer=https://kool.to
 #EXTHTTP:{"User-Agent":"KOOL/1.0","Referer":"https://kool.to"}
 https://kool.to/play/2049087681/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RAI 4K |E" tvg-logo="" group-title="Varie", RAI 4K |E
+#EXTINF:-1 tvg-id="" tvg-name="RAI 4K |E" tvg-logo="" group-title="Intrattenimento", RAI 4K |E
 #EXTVLCOPT:http-user-agent=HUHU/1.0
 #EXTVLCOPT:http-referrer=https://huhu.to
 #EXTHTTP:{"User-Agent":"HUHU/1.0","Referer":"https://huhu.to"}
 https://huhu.to/play/2049087681/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RAI 4K |E" tvg-logo="" group-title="Varie", RAI 4K |E
+#EXTINF:-1 tvg-id="" tvg-name="RAI 4K |E" tvg-logo="" group-title="Intrattenimento", RAI 4K |E
 #EXTVLCOPT:http-user-agent=OHA/1.0
 #EXTVLCOPT:http-referrer=https://oha.to
 #EXTHTTP:{"User-Agent":"OHA/1.0","Referer":"https://oha.to"}
 https://oha.to/play/2049087681/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RAI 5 (6)" tvg-logo="" group-title="Varie", RAI 5 (6)
+#EXTINF:-1 tvg-id="" tvg-name="RAI 5 (6)" tvg-logo="" group-title="Intrattenimento", RAI 5 (6)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to"}
 https://vavoo.to/play/3249873828/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RAI 5 (7)" tvg-logo="" group-title="Varie", RAI 5 (7)
+#EXTINF:-1 tvg-id="" tvg-name="RAI 5 (7)" tvg-logo="" group-title="Intrattenimento", RAI 5 (7)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to"}
 https://vavoo.to/play/3163380543/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RAI 5 .c" tvg-logo="" group-title="Varie", RAI 5 .c
+#EXTINF:-1 tvg-id="" tvg-name="RAI 5 .c" tvg-logo="" group-title="Intrattenimento", RAI 5 .c
 #EXTVLCOPT:http-user-agent=KOOL/1.0
 #EXTVLCOPT:http-referrer=https://kool.to
 #EXTHTTP:{"User-Agent":"KOOL/1.0","Referer":"https://kool.to"}
 https://kool.to/play/3249873828/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RAI 5 .s" tvg-logo="" group-title="Varie", RAI 5 .s
+#EXTINF:-1 tvg-id="" tvg-name="RAI 5 .s" tvg-logo="" group-title="Intrattenimento", RAI 5 .s
 #EXTVLCOPT:http-user-agent=KOOL/1.0
 #EXTVLCOPT:http-referrer=https://kool.to
 #EXTHTTP:{"User-Agent":"KOOL/1.0","Referer":"https://kool.to"}
 https://kool.to/play/3163380543/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RAI 5 |E" tvg-logo="" group-title="Varie", RAI 5 |E
+#EXTINF:-1 tvg-id="" tvg-name="RAI 5 |E" tvg-logo="" group-title="Intrattenimento", RAI 5 |E
 #EXTVLCOPT:http-user-agent=HUHU/1.0
 #EXTVLCOPT:http-referrer=https://huhu.to
 #EXTHTTP:{"User-Agent":"HUHU/1.0","Referer":"https://huhu.to"}
 https://huhu.to/play/3249873828/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RAI 5 |E" tvg-logo="" group-title="Varie", RAI 5 |E
+#EXTINF:-1 tvg-id="" tvg-name="RAI 5 |E" tvg-logo="" group-title="Intrattenimento", RAI 5 |E
 #EXTVLCOPT:http-user-agent=OHA/1.0
 #EXTVLCOPT:http-referrer=https://oha.to
 #EXTHTTP:{"User-Agent":"OHA/1.0","Referer":"https://oha.to"}
 https://oha.to/play/3249873828/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RAI 5 |H" tvg-logo="" group-title="Varie", RAI 5 |H
+#EXTINF:-1 tvg-id="" tvg-name="RAI 5 |H" tvg-logo="" group-title="Intrattenimento", RAI 5 |H
 #EXTVLCOPT:http-user-agent=HUHU/1.0
 #EXTVLCOPT:http-referrer=https://huhu.to
 #EXTHTTP:{"User-Agent":"HUHU/1.0","Referer":"https://huhu.to"}
 https://huhu.to/play/3163380543/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RAI 5 |H" tvg-logo="" group-title="Varie", RAI 5 |H
+#EXTINF:-1 tvg-id="" tvg-name="RAI 5 |H" tvg-logo="" group-title="Intrattenimento", RAI 5 |H
 #EXTVLCOPT:http-user-agent=OHA/1.0
 #EXTVLCOPT:http-referrer=https://oha.to
 #EXTHTTP:{"User-Agent":"OHA/1.0","Referer":"https://oha.to"}
 https://oha.to/play/3163380543/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RAI GULP (6)" tvg-logo="" group-title="Varie", RAI GULP (6)
+#EXTINF:-1 tvg-id="" tvg-name="RAI GULP (6)" tvg-logo="" group-title="Intrattenimento", RAI GULP (6)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to"}
 https://vavoo.to/play/1901652742/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RAI GULP (7)" tvg-logo="" group-title="Varie", RAI GULP (7)
+#EXTINF:-1 tvg-id="" tvg-name="RAI GULP (7)" tvg-logo="" group-title="Intrattenimento", RAI GULP (7)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to"}
 https://vavoo.to/play/1803677691/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RAI GULP .c" tvg-logo="" group-title="Varie", RAI GULP .c
+#EXTINF:-1 tvg-id="" tvg-name="RAI GULP .c" tvg-logo="" group-title="Intrattenimento", RAI GULP .c
 #EXTVLCOPT:http-user-agent=KOOL/1.0
 #EXTVLCOPT:http-referrer=https://kool.to
 #EXTHTTP:{"User-Agent":"KOOL/1.0","Referer":"https://kool.to"}
 https://kool.to/play/1901652742/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RAI GULP .s" tvg-logo="" group-title="Varie", RAI GULP .s
+#EXTINF:-1 tvg-id="" tvg-name="RAI GULP .s" tvg-logo="" group-title="Intrattenimento", RAI GULP .s
 #EXTVLCOPT:http-user-agent=KOOL/1.0
 #EXTVLCOPT:http-referrer=https://kool.to
 #EXTHTTP:{"User-Agent":"KOOL/1.0","Referer":"https://kool.to"}
 https://kool.to/play/1803677691/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RAI GULP |E" tvg-logo="" group-title="Varie", RAI GULP |E
+#EXTINF:-1 tvg-id="" tvg-name="RAI GULP |E" tvg-logo="" group-title="Intrattenimento", RAI GULP |E
 #EXTVLCOPT:http-user-agent=HUHU/1.0
 #EXTVLCOPT:http-referrer=https://huhu.to
 #EXTHTTP:{"User-Agent":"HUHU/1.0","Referer":"https://huhu.to"}
 https://huhu.to/play/1901652742/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RAI GULP |E" tvg-logo="" group-title="Varie", RAI GULP |E
+#EXTINF:-1 tvg-id="" tvg-name="RAI GULP |E" tvg-logo="" group-title="Intrattenimento", RAI GULP |E
 #EXTVLCOPT:http-user-agent=OHA/1.0
 #EXTVLCOPT:http-referrer=https://oha.to
 #EXTHTTP:{"User-Agent":"OHA/1.0","Referer":"https://oha.to"}
 https://oha.to/play/1901652742/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RAI GULP |H" tvg-logo="" group-title="Varie", RAI GULP |H
+#EXTINF:-1 tvg-id="" tvg-name="RAI GULP |H" tvg-logo="" group-title="Intrattenimento", RAI GULP |H
 #EXTVLCOPT:http-user-agent=HUHU/1.0
 #EXTVLCOPT:http-referrer=https://huhu.to
 #EXTHTTP:{"User-Agent":"HUHU/1.0","Referer":"https://huhu.to"}
 https://huhu.to/play/1803677691/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RAI GULP |H" tvg-logo="" group-title="Varie", RAI GULP |H
+#EXTINF:-1 tvg-id="" tvg-name="RAI GULP |H" tvg-logo="" group-title="Intrattenimento", RAI GULP |H
 #EXTVLCOPT:http-user-agent=OHA/1.0
 #EXTVLCOPT:http-referrer=https://oha.to
 #EXTHTTP:{"User-Agent":"OHA/1.0","Referer":"https://oha.to"}
 https://oha.to/play/1803677691/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RAI ITALIA (6)" tvg-logo="" group-title="Varie", RAI ITALIA (6)
+#EXTINF:-1 tvg-id="" tvg-name="RAI ITALIA (6)" tvg-logo="" group-title="Intrattenimento", RAI ITALIA (6)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to"}
 https://vavoo.to/play/374675593/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RAI ITALIA (7)" tvg-logo="" group-title="Varie", RAI ITALIA (7)
+#EXTINF:-1 tvg-id="" tvg-name="RAI ITALIA (7)" tvg-logo="" group-title="Intrattenimento", RAI ITALIA (7)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to"}
 https://vavoo.to/play/294457245/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RAI ITALIA .c" tvg-logo="" group-title="Varie", RAI ITALIA .c
+#EXTINF:-1 tvg-id="" tvg-name="RAI ITALIA .c" tvg-logo="" group-title="Intrattenimento", RAI ITALIA .c
 #EXTVLCOPT:http-user-agent=KOOL/1.0
 #EXTVLCOPT:http-referrer=https://kool.to
 #EXTHTTP:{"User-Agent":"KOOL/1.0","Referer":"https://kool.to"}
 https://kool.to/play/374675593/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RAI ITALIA .s" tvg-logo="" group-title="Varie", RAI ITALIA .s
+#EXTINF:-1 tvg-id="" tvg-name="RAI ITALIA .s" tvg-logo="" group-title="Intrattenimento", RAI ITALIA .s
 #EXTVLCOPT:http-user-agent=KOOL/1.0
 #EXTVLCOPT:http-referrer=https://kool.to
 #EXTHTTP:{"User-Agent":"KOOL/1.0","Referer":"https://kool.to"}
 https://kool.to/play/294457245/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RAI ITALIA |E" tvg-logo="" group-title="Varie", RAI ITALIA |E
+#EXTINF:-1 tvg-id="" tvg-name="RAI ITALIA |E" tvg-logo="" group-title="Intrattenimento", RAI ITALIA |E
 #EXTVLCOPT:http-user-agent=HUHU/1.0
 #EXTVLCOPT:http-referrer=https://huhu.to
 #EXTHTTP:{"User-Agent":"HUHU/1.0","Referer":"https://huhu.to"}
 https://huhu.to/play/374675593/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RAI ITALIA |E" tvg-logo="" group-title="Varie", RAI ITALIA |E
+#EXTINF:-1 tvg-id="" tvg-name="RAI ITALIA |E" tvg-logo="" group-title="Intrattenimento", RAI ITALIA |E
 #EXTVLCOPT:http-user-agent=OHA/1.0
 #EXTVLCOPT:http-referrer=https://oha.to
 #EXTHTTP:{"User-Agent":"OHA/1.0","Referer":"https://oha.to"}
 https://oha.to/play/374675593/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RAI ITALIA |H" tvg-logo="" group-title="Varie", RAI ITALIA |H
+#EXTINF:-1 tvg-id="" tvg-name="RAI ITALIA |H" tvg-logo="" group-title="Intrattenimento", RAI ITALIA |H
 #EXTVLCOPT:http-user-agent=HUHU/1.0
 #EXTVLCOPT:http-referrer=https://huhu.to
 #EXTHTTP:{"User-Agent":"HUHU/1.0","Referer":"https://huhu.to"}
 https://huhu.to/play/294457245/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RAI ITALIA |H" tvg-logo="" group-title="Varie", RAI ITALIA |H
+#EXTINF:-1 tvg-id="" tvg-name="RAI ITALIA |H" tvg-logo="" group-title="Intrattenimento", RAI ITALIA |H
 #EXTVLCOPT:http-user-agent=OHA/1.0
 #EXTVLCOPT:http-referrer=https://oha.to
 #EXTHTTP:{"User-Agent":"OHA/1.0","Referer":"https://oha.to"}
@@ -3939,262 +3939,262 @@ https://huhu.to/play/1925964148/index.m3u8
 #EXTVLCOPT:http-referrer=https://oha.to
 #EXTHTTP:{"User-Agent":"OHA/1.0","Referer":"https://oha.to"}
 https://oha.to/play/1925964148/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RAI NEWS 24 (6)" tvg-logo="" group-title="Informazione", RAI NEWS 24 (6)
+#EXTINF:-1 tvg-id="" tvg-name="RAI NEWS 24 (6)" tvg-logo="" group-title="Intrattenimento", RAI NEWS 24 (6)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to"}
 https://vavoo.to/play/2272923972/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RAI NEWS 24 (7)" tvg-logo="" group-title="Informazione", RAI NEWS 24 (7)
+#EXTINF:-1 tvg-id="" tvg-name="RAI NEWS 24 (7)" tvg-logo="" group-title="Intrattenimento", RAI NEWS 24 (7)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to"}
 https://vavoo.to/play/2239645272/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RAI NEWS 24 .c" tvg-logo="" group-title="Informazione", RAI NEWS 24 .c
+#EXTINF:-1 tvg-id="" tvg-name="RAI NEWS 24 .c" tvg-logo="" group-title="Intrattenimento", RAI NEWS 24 .c
 #EXTVLCOPT:http-user-agent=KOOL/1.0
 #EXTVLCOPT:http-referrer=https://kool.to
 #EXTHTTP:{"User-Agent":"KOOL/1.0","Referer":"https://kool.to"}
 https://kool.to/play/2272923972/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RAI NEWS 24 .s" tvg-logo="" group-title="Informazione", RAI NEWS 24 .s
+#EXTINF:-1 tvg-id="" tvg-name="RAI NEWS 24 .s" tvg-logo="" group-title="Intrattenimento", RAI NEWS 24 .s
 #EXTVLCOPT:http-user-agent=KOOL/1.0
 #EXTVLCOPT:http-referrer=https://kool.to
 #EXTHTTP:{"User-Agent":"KOOL/1.0","Referer":"https://kool.to"}
 https://kool.to/play/2239645272/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RAI NEWS 24 |E" tvg-logo="" group-title="Informazione", RAI NEWS 24 |E
+#EXTINF:-1 tvg-id="" tvg-name="RAI NEWS 24 |E" tvg-logo="" group-title="Intrattenimento", RAI NEWS 24 |E
 #EXTVLCOPT:http-user-agent=HUHU/1.0
 #EXTVLCOPT:http-referrer=https://huhu.to
 #EXTHTTP:{"User-Agent":"HUHU/1.0","Referer":"https://huhu.to"}
 https://huhu.to/play/2272923972/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RAI NEWS 24 |E" tvg-logo="" group-title="Informazione", RAI NEWS 24 |E
+#EXTINF:-1 tvg-id="" tvg-name="RAI NEWS 24 |E" tvg-logo="" group-title="Intrattenimento", RAI NEWS 24 |E
 #EXTVLCOPT:http-user-agent=OHA/1.0
 #EXTVLCOPT:http-referrer=https://oha.to
 #EXTHTTP:{"User-Agent":"OHA/1.0","Referer":"https://oha.to"}
 https://oha.to/play/2272923972/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RAI NEWS 24 |H" tvg-logo="" group-title="Informazione", RAI NEWS 24 |H
+#EXTINF:-1 tvg-id="" tvg-name="RAI NEWS 24 |H" tvg-logo="" group-title="Intrattenimento", RAI NEWS 24 |H
 #EXTVLCOPT:http-user-agent=HUHU/1.0
 #EXTVLCOPT:http-referrer=https://huhu.to
 #EXTHTTP:{"User-Agent":"HUHU/1.0","Referer":"https://huhu.to"}
 https://huhu.to/play/2239645272/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RAI NEWS 24 |H" tvg-logo="" group-title="Informazione", RAI NEWS 24 |H
+#EXTINF:-1 tvg-id="" tvg-name="RAI NEWS 24 |H" tvg-logo="" group-title="Intrattenimento", RAI NEWS 24 |H
 #EXTVLCOPT:http-user-agent=OHA/1.0
 #EXTVLCOPT:http-referrer=https://oha.to
 #EXTHTTP:{"User-Agent":"OHA/1.0","Referer":"https://oha.to"}
 https://oha.to/play/2239645272/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RAI PREMIUM (6)" tvg-logo="" group-title="Varie", RAI PREMIUM (6)
+#EXTINF:-1 tvg-id="" tvg-name="RAI PREMIUM (6)" tvg-logo="" group-title="Intrattenimento", RAI PREMIUM (6)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to"}
 https://vavoo.to/play/2861734300/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RAI PREMIUM (7)" tvg-logo="" group-title="Varie", RAI PREMIUM (7)
+#EXTINF:-1 tvg-id="" tvg-name="RAI PREMIUM (7)" tvg-logo="" group-title="Intrattenimento", RAI PREMIUM (7)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to"}
 https://vavoo.to/play/2828455552/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RAI PREMIUM .c" tvg-logo="" group-title="Varie", RAI PREMIUM .c
+#EXTINF:-1 tvg-id="" tvg-name="RAI PREMIUM .c" tvg-logo="" group-title="Intrattenimento", RAI PREMIUM .c
 #EXTVLCOPT:http-user-agent=KOOL/1.0
 #EXTVLCOPT:http-referrer=https://kool.to
 #EXTHTTP:{"User-Agent":"KOOL/1.0","Referer":"https://kool.to"}
 https://kool.to/play/2861734300/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RAI PREMIUM .s" tvg-logo="" group-title="Varie", RAI PREMIUM .s
+#EXTINF:-1 tvg-id="" tvg-name="RAI PREMIUM .s" tvg-logo="" group-title="Intrattenimento", RAI PREMIUM .s
 #EXTVLCOPT:http-user-agent=KOOL/1.0
 #EXTVLCOPT:http-referrer=https://kool.to
 #EXTHTTP:{"User-Agent":"KOOL/1.0","Referer":"https://kool.to"}
 https://kool.to/play/2828455552/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RAI PREMIUM |E" tvg-logo="" group-title="Varie", RAI PREMIUM |E
+#EXTINF:-1 tvg-id="" tvg-name="RAI PREMIUM |E" tvg-logo="" group-title="Intrattenimento", RAI PREMIUM |E
 #EXTVLCOPT:http-user-agent=HUHU/1.0
 #EXTVLCOPT:http-referrer=https://huhu.to
 #EXTHTTP:{"User-Agent":"HUHU/1.0","Referer":"https://huhu.to"}
 https://huhu.to/play/2861734300/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RAI PREMIUM |E" tvg-logo="" group-title="Varie", RAI PREMIUM |E
+#EXTINF:-1 tvg-id="" tvg-name="RAI PREMIUM |E" tvg-logo="" group-title="Intrattenimento", RAI PREMIUM |E
 #EXTVLCOPT:http-user-agent=OHA/1.0
 #EXTVLCOPT:http-referrer=https://oha.to
 #EXTHTTP:{"User-Agent":"OHA/1.0","Referer":"https://oha.to"}
 https://oha.to/play/2861734300/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RAI PREMIUM |H" tvg-logo="" group-title="Varie", RAI PREMIUM |H
+#EXTINF:-1 tvg-id="" tvg-name="RAI PREMIUM |H" tvg-logo="" group-title="Intrattenimento", RAI PREMIUM |H
 #EXTVLCOPT:http-user-agent=HUHU/1.0
 #EXTVLCOPT:http-referrer=https://huhu.to
 #EXTHTTP:{"User-Agent":"HUHU/1.0","Referer":"https://huhu.to"}
 https://huhu.to/play/2828455552/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RAI PREMIUM |H" tvg-logo="" group-title="Varie", RAI PREMIUM |H
+#EXTINF:-1 tvg-id="" tvg-name="RAI PREMIUM |H" tvg-logo="" group-title="Intrattenimento", RAI PREMIUM |H
 #EXTVLCOPT:http-user-agent=OHA/1.0
 #EXTVLCOPT:http-referrer=https://oha.to
 #EXTHTTP:{"User-Agent":"OHA/1.0","Referer":"https://oha.to"}
 https://oha.to/play/2828455552/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RAI SCUOLA (6)" tvg-logo="" group-title="Varie", RAI SCUOLA (6)
+#EXTINF:-1 tvg-id="" tvg-name="RAI SCUOLA (6)" tvg-logo="" group-title="Intrattenimento", RAI SCUOLA (6)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to"}
 https://vavoo.to/play/2007798511/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RAI SCUOLA (7)" tvg-logo="" group-title="Varie", RAI SCUOLA (7)
+#EXTINF:-1 tvg-id="" tvg-name="RAI SCUOLA (7)" tvg-logo="" group-title="Intrattenimento", RAI SCUOLA (7)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to"}
 https://vavoo.to/play/1886684667/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RAI SCUOLA .c" tvg-logo="" group-title="Varie", RAI SCUOLA .c
+#EXTINF:-1 tvg-id="" tvg-name="RAI SCUOLA .c" tvg-logo="" group-title="Intrattenimento", RAI SCUOLA .c
 #EXTVLCOPT:http-user-agent=KOOL/1.0
 #EXTVLCOPT:http-referrer=https://kool.to
 #EXTHTTP:{"User-Agent":"KOOL/1.0","Referer":"https://kool.to"}
 https://kool.to/play/2007798511/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RAI SCUOLA .s" tvg-logo="" group-title="Varie", RAI SCUOLA .s
+#EXTINF:-1 tvg-id="" tvg-name="RAI SCUOLA .s" tvg-logo="" group-title="Intrattenimento", RAI SCUOLA .s
 #EXTVLCOPT:http-user-agent=KOOL/1.0
 #EXTVLCOPT:http-referrer=https://kool.to
 #EXTHTTP:{"User-Agent":"KOOL/1.0","Referer":"https://kool.to"}
 https://kool.to/play/1886684667/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RAI SCUOLA |E" tvg-logo="" group-title="Varie", RAI SCUOLA |E
+#EXTINF:-1 tvg-id="" tvg-name="RAI SCUOLA |E" tvg-logo="" group-title="Intrattenimento", RAI SCUOLA |E
 #EXTVLCOPT:http-user-agent=HUHU/1.0
 #EXTVLCOPT:http-referrer=https://huhu.to
 #EXTHTTP:{"User-Agent":"HUHU/1.0","Referer":"https://huhu.to"}
 https://huhu.to/play/2007798511/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RAI SCUOLA |E" tvg-logo="" group-title="Varie", RAI SCUOLA |E
+#EXTINF:-1 tvg-id="" tvg-name="RAI SCUOLA |E" tvg-logo="" group-title="Intrattenimento", RAI SCUOLA |E
 #EXTVLCOPT:http-user-agent=OHA/1.0
 #EXTVLCOPT:http-referrer=https://oha.to
 #EXTHTTP:{"User-Agent":"OHA/1.0","Referer":"https://oha.to"}
 https://oha.to/play/2007798511/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RAI SCUOLA |H" tvg-logo="" group-title="Varie", RAI SCUOLA |H
+#EXTINF:-1 tvg-id="" tvg-name="RAI SCUOLA |H" tvg-logo="" group-title="Intrattenimento", RAI SCUOLA |H
 #EXTVLCOPT:http-user-agent=HUHU/1.0
 #EXTVLCOPT:http-referrer=https://huhu.to
 #EXTHTTP:{"User-Agent":"HUHU/1.0","Referer":"https://huhu.to"}
 https://huhu.to/play/1886684667/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RAI SCUOLA |H" tvg-logo="" group-title="Varie", RAI SCUOLA |H
+#EXTINF:-1 tvg-id="" tvg-name="RAI SCUOLA |H" tvg-logo="" group-title="Intrattenimento", RAI SCUOLA |H
 #EXTVLCOPT:http-user-agent=OHA/1.0
 #EXTVLCOPT:http-referrer=https://oha.to
 #EXTHTTP:{"User-Agent":"OHA/1.0","Referer":"https://oha.to"}
 https://oha.to/play/1886684667/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RAI SPORT (6)" tvg-logo="" group-title="Sport", RAI SPORT (6)
+#EXTINF:-1 tvg-id="" tvg-name="RAI SPORT (6)" tvg-logo="" group-title="Intrattenimento", RAI SPORT (6)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to"}
 https://vavoo.to/play/2924135092/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RAI SPORT .c" tvg-logo="" group-title="Sport", RAI SPORT .c
+#EXTINF:-1 tvg-id="" tvg-name="RAI SPORT .c" tvg-logo="" group-title="Intrattenimento", RAI SPORT .c
 #EXTVLCOPT:http-user-agent=KOOL/1.0
 #EXTVLCOPT:http-referrer=https://kool.to
 #EXTHTTP:{"User-Agent":"KOOL/1.0","Referer":"https://kool.to"}
 https://kool.to/play/2924135092/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RAI SPORT [LIVE DURING EVENTS ONLY] (7)" tvg-logo="" group-title="Sport", RAI SPORT [LIVE DURING EVENTS ONLY] (7)
+#EXTINF:-1 tvg-id="" tvg-name="RAI SPORT [LIVE DURING EVENTS ONLY] (7)" tvg-logo="" group-title="Intrattenimento", RAI SPORT [LIVE DURING EVENTS ONLY] (7)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to"}
 https://vavoo.to/play/551730224/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RAI SPORT [LIVE DURING EVENTS ONLY] .s" tvg-logo="" group-title="Sport", RAI SPORT [LIVE DURING EVENTS ONLY] .s
+#EXTINF:-1 tvg-id="" tvg-name="RAI SPORT [LIVE DURING EVENTS ONLY] .s" tvg-logo="" group-title="Intrattenimento", RAI SPORT [LIVE DURING EVENTS ONLY] .s
 #EXTVLCOPT:http-user-agent=KOOL/1.0
 #EXTVLCOPT:http-referrer=https://kool.to
 #EXTHTTP:{"User-Agent":"KOOL/1.0","Referer":"https://kool.to"}
 https://kool.to/play/551730224/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RAI SPORT [LIVE DURING EVENTS ONLY] |H" tvg-logo="" group-title="Sport", RAI SPORT [LIVE DURING EVENTS ONLY] |H
+#EXTINF:-1 tvg-id="" tvg-name="RAI SPORT [LIVE DURING EVENTS ONLY] |H" tvg-logo="" group-title="Intrattenimento", RAI SPORT [LIVE DURING EVENTS ONLY] |H
 #EXTVLCOPT:http-user-agent=HUHU/1.0
 #EXTVLCOPT:http-referrer=https://huhu.to
 #EXTHTTP:{"User-Agent":"HUHU/1.0","Referer":"https://huhu.to"}
 https://huhu.to/play/551730224/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RAI SPORT [LIVE DURING EVENTS ONLY] |H" tvg-logo="" group-title="Sport", RAI SPORT [LIVE DURING EVENTS ONLY] |H
+#EXTINF:-1 tvg-id="" tvg-name="RAI SPORT [LIVE DURING EVENTS ONLY] |H" tvg-logo="" group-title="Intrattenimento", RAI SPORT [LIVE DURING EVENTS ONLY] |H
 #EXTVLCOPT:http-user-agent=OHA/1.0
 #EXTVLCOPT:http-referrer=https://oha.to
 #EXTHTTP:{"User-Agent":"OHA/1.0","Referer":"https://oha.to"}
 https://oha.to/play/551730224/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RAI SPORT |E" tvg-logo="" group-title="Sport", RAI SPORT |E
+#EXTINF:-1 tvg-id="" tvg-name="RAI SPORT |E" tvg-logo="" group-title="Intrattenimento", RAI SPORT |E
 #EXTVLCOPT:http-user-agent=HUHU/1.0
 #EXTVLCOPT:http-referrer=https://huhu.to
 #EXTHTTP:{"User-Agent":"HUHU/1.0","Referer":"https://huhu.to"}
 https://huhu.to/play/2924135092/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RAI SPORT |E" tvg-logo="" group-title="Sport", RAI SPORT |E
+#EXTINF:-1 tvg-id="" tvg-name="RAI SPORT |E" tvg-logo="" group-title="Intrattenimento", RAI SPORT |E
 #EXTVLCOPT:http-user-agent=OHA/1.0
 #EXTVLCOPT:http-referrer=https://oha.to
 #EXTHTTP:{"User-Agent":"OHA/1.0","Referer":"https://oha.to"}
 https://oha.to/play/2924135092/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RAI SPORT+ (7)" tvg-logo="" group-title="Sport", RAI SPORT+ (7)
+#EXTINF:-1 tvg-id="" tvg-name="RAI SPORT+ (7)" tvg-logo="" group-title="Intrattenimento", RAI SPORT+ (7)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to"}
 https://vavoo.to/play/843891896/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RAI SPORT+ .s" tvg-logo="" group-title="Sport", RAI SPORT+ .s
+#EXTINF:-1 tvg-id="" tvg-name="RAI SPORT+ .s" tvg-logo="" group-title="Intrattenimento", RAI SPORT+ .s
 #EXTVLCOPT:http-user-agent=KOOL/1.0
 #EXTVLCOPT:http-referrer=https://kool.to
 #EXTHTTP:{"User-Agent":"KOOL/1.0","Referer":"https://kool.to"}
 https://kool.to/play/843891896/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RAI SPORT+ |H" tvg-logo="" group-title="Sport", RAI SPORT+ |H
+#EXTINF:-1 tvg-id="" tvg-name="RAI SPORT+ |H" tvg-logo="" group-title="Intrattenimento", RAI SPORT+ |H
 #EXTVLCOPT:http-user-agent=HUHU/1.0
 #EXTVLCOPT:http-referrer=https://huhu.to
 #EXTHTTP:{"User-Agent":"HUHU/1.0","Referer":"https://huhu.to"}
 https://huhu.to/play/843891896/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RAI SPORT+ |H" tvg-logo="" group-title="Sport", RAI SPORT+ |H
+#EXTINF:-1 tvg-id="" tvg-name="RAI SPORT+ |H" tvg-logo="" group-title="Intrattenimento", RAI SPORT+ |H
 #EXTVLCOPT:http-user-agent=OHA/1.0
 #EXTVLCOPT:http-referrer=https://oha.to
 #EXTHTTP:{"User-Agent":"OHA/1.0","Referer":"https://oha.to"}
 https://oha.to/play/843891896/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RAI STORIA (6)" tvg-logo="" group-title="Varie", RAI STORIA (6)
+#EXTINF:-1 tvg-id="" tvg-name="RAI STORIA (6)" tvg-logo="" group-title="Intrattenimento", RAI STORIA (6)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to"}
 https://vavoo.to/play/78838793/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RAI STORIA (7)" tvg-logo="" group-title="Varie", RAI STORIA (7)
+#EXTINF:-1 tvg-id="" tvg-name="RAI STORIA (7)" tvg-logo="" group-title="Intrattenimento", RAI STORIA (7)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to"}
 https://vavoo.to/play/57338653/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RAI STORIA .c" tvg-logo="" group-title="Varie", RAI STORIA .c
+#EXTINF:-1 tvg-id="" tvg-name="RAI STORIA .c" tvg-logo="" group-title="Intrattenimento", RAI STORIA .c
 #EXTVLCOPT:http-user-agent=KOOL/1.0
 #EXTVLCOPT:http-referrer=https://kool.to
 #EXTHTTP:{"User-Agent":"KOOL/1.0","Referer":"https://kool.to"}
 https://kool.to/play/78838793/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RAI STORIA .s" tvg-logo="" group-title="Varie", RAI STORIA .s
+#EXTINF:-1 tvg-id="" tvg-name="RAI STORIA .s" tvg-logo="" group-title="Intrattenimento", RAI STORIA .s
 #EXTVLCOPT:http-user-agent=KOOL/1.0
 #EXTVLCOPT:http-referrer=https://kool.to
 #EXTHTTP:{"User-Agent":"KOOL/1.0","Referer":"https://kool.to"}
 https://kool.to/play/57338653/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RAI STORIA |E" tvg-logo="" group-title="Varie", RAI STORIA |E
+#EXTINF:-1 tvg-id="" tvg-name="RAI STORIA |E" tvg-logo="" group-title="Intrattenimento", RAI STORIA |E
 #EXTVLCOPT:http-user-agent=HUHU/1.0
 #EXTVLCOPT:http-referrer=https://huhu.to
 #EXTHTTP:{"User-Agent":"HUHU/1.0","Referer":"https://huhu.to"}
 https://huhu.to/play/78838793/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RAI STORIA |E" tvg-logo="" group-title="Varie", RAI STORIA |E
+#EXTINF:-1 tvg-id="" tvg-name="RAI STORIA |E" tvg-logo="" group-title="Intrattenimento", RAI STORIA |E
 #EXTVLCOPT:http-user-agent=OHA/1.0
 #EXTVLCOPT:http-referrer=https://oha.to
 #EXTHTTP:{"User-Agent":"OHA/1.0","Referer":"https://oha.to"}
 https://oha.to/play/78838793/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RAI STORIA |H" tvg-logo="" group-title="Varie", RAI STORIA |H
+#EXTINF:-1 tvg-id="" tvg-name="RAI STORIA |H" tvg-logo="" group-title="Intrattenimento", RAI STORIA |H
 #EXTVLCOPT:http-user-agent=HUHU/1.0
 #EXTVLCOPT:http-referrer=https://huhu.to
 #EXTHTTP:{"User-Agent":"HUHU/1.0","Referer":"https://huhu.to"}
 https://huhu.to/play/57338653/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RAI STORIA |H" tvg-logo="" group-title="Varie", RAI STORIA |H
+#EXTINF:-1 tvg-id="" tvg-name="RAI STORIA |H" tvg-logo="" group-title="Intrattenimento", RAI STORIA |H
 #EXTVLCOPT:http-user-agent=OHA/1.0
 #EXTVLCOPT:http-referrer=https://oha.to
 #EXTHTTP:{"User-Agent":"OHA/1.0","Referer":"https://oha.to"}
 https://oha.to/play/57338653/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RAI YOYO (6)" tvg-logo="" group-title="Varie", RAI YOYO (6)
+#EXTINF:-1 tvg-id="" tvg-name="RAI YOYO (6)" tvg-logo="" group-title="Intrattenimento", RAI YOYO (6)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to"}
 https://vavoo.to/play/1785501924/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RAI YOYO (7)" tvg-logo="" group-title="Varie", RAI YOYO (7)
+#EXTINF:-1 tvg-id="" tvg-name="RAI YOYO (7)" tvg-logo="" group-title="Intrattenimento", RAI YOYO (7)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to"}
 https://vavoo.to/play/1890950169/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RAI YOYO .c" tvg-logo="" group-title="Varie", RAI YOYO .c
+#EXTINF:-1 tvg-id="" tvg-name="RAI YOYO .c" tvg-logo="" group-title="Intrattenimento", RAI YOYO .c
 #EXTVLCOPT:http-user-agent=KOOL/1.0
 #EXTVLCOPT:http-referrer=https://kool.to
 #EXTHTTP:{"User-Agent":"KOOL/1.0","Referer":"https://kool.to"}
 https://kool.to/play/1785501924/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RAI YOYO .s" tvg-logo="" group-title="Varie", RAI YOYO .s
+#EXTINF:-1 tvg-id="" tvg-name="RAI YOYO .s" tvg-logo="" group-title="Intrattenimento", RAI YOYO .s
 #EXTVLCOPT:http-user-agent=KOOL/1.0
 #EXTVLCOPT:http-referrer=https://kool.to
 #EXTHTTP:{"User-Agent":"KOOL/1.0","Referer":"https://kool.to"}
 https://kool.to/play/1890950169/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RAI YOYO |E" tvg-logo="" group-title="Varie", RAI YOYO |E
+#EXTINF:-1 tvg-id="" tvg-name="RAI YOYO |E" tvg-logo="" group-title="Intrattenimento", RAI YOYO |E
 #EXTVLCOPT:http-user-agent=HUHU/1.0
 #EXTVLCOPT:http-referrer=https://huhu.to
 #EXTHTTP:{"User-Agent":"HUHU/1.0","Referer":"https://huhu.to"}
 https://huhu.to/play/1785501924/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RAI YOYO |E" tvg-logo="" group-title="Varie", RAI YOYO |E
+#EXTINF:-1 tvg-id="" tvg-name="RAI YOYO |E" tvg-logo="" group-title="Intrattenimento", RAI YOYO |E
 #EXTVLCOPT:http-user-agent=OHA/1.0
 #EXTVLCOPT:http-referrer=https://oha.to
 #EXTHTTP:{"User-Agent":"OHA/1.0","Referer":"https://oha.to"}
 https://oha.to/play/1785501924/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RAI YOYO |H" tvg-logo="" group-title="Varie", RAI YOYO |H
+#EXTINF:-1 tvg-id="" tvg-name="RAI YOYO |H" tvg-logo="" group-title="Intrattenimento", RAI YOYO |H
 #EXTVLCOPT:http-user-agent=HUHU/1.0
 #EXTVLCOPT:http-referrer=https://huhu.to
 #EXTHTTP:{"User-Agent":"HUHU/1.0","Referer":"https://huhu.to"}
 https://huhu.to/play/1890950169/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RAI YOYO |H" tvg-logo="" group-title="Varie", RAI YOYO |H
+#EXTINF:-1 tvg-id="" tvg-name="RAI YOYO |H" tvg-logo="" group-title="Intrattenimento", RAI YOYO |H
 #EXTVLCOPT:http-user-agent=OHA/1.0
 #EXTVLCOPT:http-referrer=https://oha.to
 #EXTHTTP:{"User-Agent":"OHA/1.0","Referer":"https://oha.to"}
@@ -4359,42 +4359,42 @@ https://huhu.to/play/4031388312/index.m3u8
 #EXTVLCOPT:http-referrer=https://oha.to
 #EXTHTTP:{"User-Agent":"OHA/1.0","Referer":"https://oha.to"}
 https://oha.to/play/4031388312/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="REAL TIME (6)" tvg-logo="" group-title="Varie", REAL TIME (6)
+#EXTINF:-1 tvg-id="" tvg-name="REAL TIME (6)" tvg-logo="" group-title="Intrattenimento", REAL TIME (6)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to"}
 https://vavoo.to/play/1574975196/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="REAL TIME (7)" tvg-logo="" group-title="Varie", REAL TIME (7)
+#EXTINF:-1 tvg-id="" tvg-name="REAL TIME (7)" tvg-logo="" group-title="Intrattenimento", REAL TIME (7)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to"}
 https://vavoo.to/play/2251241999/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="REAL TIME .c" tvg-logo="" group-title="Varie", REAL TIME .c
+#EXTINF:-1 tvg-id="" tvg-name="REAL TIME .c" tvg-logo="" group-title="Intrattenimento", REAL TIME .c
 #EXTVLCOPT:http-user-agent=KOOL/1.0
 #EXTVLCOPT:http-referrer=https://kool.to
 #EXTHTTP:{"User-Agent":"KOOL/1.0","Referer":"https://kool.to"}
 https://kool.to/play/1574975196/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="REAL TIME .s" tvg-logo="" group-title="Varie", REAL TIME .s
+#EXTINF:-1 tvg-id="" tvg-name="REAL TIME .s" tvg-logo="" group-title="Intrattenimento", REAL TIME .s
 #EXTVLCOPT:http-user-agent=KOOL/1.0
 #EXTVLCOPT:http-referrer=https://kool.to
 #EXTHTTP:{"User-Agent":"KOOL/1.0","Referer":"https://kool.to"}
 https://kool.to/play/2251241999/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="REAL TIME |E" tvg-logo="" group-title="Varie", REAL TIME |E
+#EXTINF:-1 tvg-id="" tvg-name="REAL TIME |E" tvg-logo="" group-title="Intrattenimento", REAL TIME |E
 #EXTVLCOPT:http-user-agent=HUHU/1.0
 #EXTVLCOPT:http-referrer=https://huhu.to
 #EXTHTTP:{"User-Agent":"HUHU/1.0","Referer":"https://huhu.to"}
 https://huhu.to/play/1574975196/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="REAL TIME |E" tvg-logo="" group-title="Varie", REAL TIME |E
+#EXTINF:-1 tvg-id="" tvg-name="REAL TIME |E" tvg-logo="" group-title="Intrattenimento", REAL TIME |E
 #EXTVLCOPT:http-user-agent=OHA/1.0
 #EXTVLCOPT:http-referrer=https://oha.to
 #EXTHTTP:{"User-Agent":"OHA/1.0","Referer":"https://oha.to"}
 https://oha.to/play/1574975196/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="REAL TIME |H" tvg-logo="" group-title="Varie", REAL TIME |H
+#EXTINF:-1 tvg-id="" tvg-name="REAL TIME |H" tvg-logo="" group-title="Intrattenimento", REAL TIME |H
 #EXTVLCOPT:http-user-agent=HUHU/1.0
 #EXTVLCOPT:http-referrer=https://huhu.to
 #EXTHTTP:{"User-Agent":"HUHU/1.0","Referer":"https://huhu.to"}
 https://huhu.to/play/2251241999/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="REAL TIME |H" tvg-logo="" group-title="Varie", REAL TIME |H
+#EXTINF:-1 tvg-id="" tvg-name="REAL TIME |H" tvg-logo="" group-title="Intrattenimento", REAL TIME |H
 #EXTVLCOPT:http-user-agent=OHA/1.0
 #EXTVLCOPT:http-referrer=https://oha.to
 #EXTHTTP:{"User-Agent":"OHA/1.0","Referer":"https://oha.to"}
@@ -4499,22 +4499,22 @@ https://huhu.to/play/3351863213/index.m3u8
 #EXTVLCOPT:http-referrer=https://oha.to
 #EXTHTTP:{"User-Agent":"OHA/1.0","Referer":"https://oha.to"}
 https://oha.to/play/3351863213/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RETE TV ITALIA (6)" tvg-logo="" group-title="Varie", RETE TV ITALIA (6)
+#EXTINF:-1 tvg-id="" tvg-name="RETE TV ITALIA (6)" tvg-logo="" group-title="Intrattenimento", RETE TV ITALIA (6)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to"}
 https://vavoo.to/play/4131055018/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RETE TV ITALIA .c" tvg-logo="" group-title="Varie", RETE TV ITALIA .c
+#EXTINF:-1 tvg-id="" tvg-name="RETE TV ITALIA .c" tvg-logo="" group-title="Intrattenimento", RETE TV ITALIA .c
 #EXTVLCOPT:http-user-agent=KOOL/1.0
 #EXTVLCOPT:http-referrer=https://kool.to
 #EXTHTTP:{"User-Agent":"KOOL/1.0","Referer":"https://kool.to"}
 https://kool.to/play/4131055018/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RETE TV ITALIA |E" tvg-logo="" group-title="Varie", RETE TV ITALIA |E
+#EXTINF:-1 tvg-id="" tvg-name="RETE TV ITALIA |E" tvg-logo="" group-title="Intrattenimento", RETE TV ITALIA |E
 #EXTVLCOPT:http-user-agent=HUHU/1.0
 #EXTVLCOPT:http-referrer=https://huhu.to
 #EXTHTTP:{"User-Agent":"HUHU/1.0","Referer":"https://huhu.to"}
 https://huhu.to/play/4131055018/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RETE TV ITALIA |E" tvg-logo="" group-title="Varie", RETE TV ITALIA |E
+#EXTINF:-1 tvg-id="" tvg-name="RETE TV ITALIA |E" tvg-logo="" group-title="Intrattenimento", RETE TV ITALIA |E
 #EXTVLCOPT:http-user-agent=OHA/1.0
 #EXTVLCOPT:http-referrer=https://oha.to
 #EXTHTTP:{"User-Agent":"OHA/1.0","Referer":"https://oha.to"}
@@ -5379,22 +5379,22 @@ https://huhu.to/play/464281981/index.m3u8
 #EXTVLCOPT:http-referrer=https://oha.to
 #EXTHTTP:{"User-Agent":"OHA/1.0","Referer":"https://oha.to"}
 https://oha.to/play/464281981/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SKY NATURE (6)" tvg-logo="" group-title="Informazione", SKY NATURE (6)
+#EXTINF:-1 tvg-id="" tvg-name="SKY NATURE (6)" tvg-logo="" group-title="Documentari", SKY NATURE (6)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to"}
 https://vavoo.to/play/3810188456/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SKY NATURE .c" tvg-logo="" group-title="Informazione", SKY NATURE .c
+#EXTINF:-1 tvg-id="" tvg-name="SKY NATURE .c" tvg-logo="" group-title="Documentari", SKY NATURE .c
 #EXTVLCOPT:http-user-agent=KOOL/1.0
 #EXTVLCOPT:http-referrer=https://kool.to
 #EXTHTTP:{"User-Agent":"KOOL/1.0","Referer":"https://kool.to"}
 https://kool.to/play/3810188456/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SKY NATURE |E" tvg-logo="" group-title="Informazione", SKY NATURE |E
+#EXTINF:-1 tvg-id="" tvg-name="SKY NATURE |E" tvg-logo="" group-title="Documentari", SKY NATURE |E
 #EXTVLCOPT:http-user-agent=HUHU/1.0
 #EXTVLCOPT:http-referrer=https://huhu.to
 #EXTHTTP:{"User-Agent":"HUHU/1.0","Referer":"https://huhu.to"}
 https://huhu.to/play/3810188456/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SKY NATURE |E" tvg-logo="" group-title="Informazione", SKY NATURE |E
+#EXTINF:-1 tvg-id="" tvg-name="SKY NATURE |E" tvg-logo="" group-title="Documentari", SKY NATURE |E
 #EXTVLCOPT:http-user-agent=OHA/1.0
 #EXTVLCOPT:http-referrer=https://oha.to
 #EXTHTTP:{"User-Agent":"OHA/1.0","Referer":"https://oha.to"}
@@ -6419,42 +6419,42 @@ https://huhu.to/play/558282118/index.m3u8
 #EXTVLCOPT:http-referrer=https://oha.to
 #EXTHTTP:{"User-Agent":"OHA/1.0","Referer":"https://oha.to"}
 https://oha.to/play/558282118/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SKY TG 24 (6)" tvg-logo="" group-title="Informazione", SKY TG 24 (6)
+#EXTINF:-1 tvg-id="" tvg-name="SKY TG 24 (6)" tvg-logo="" group-title="News", SKY TG 24 (6)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to"}
 https://vavoo.to/play/3376031355/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SKY TG 24 (7)" tvg-logo="" group-title="Informazione", SKY TG 24 (7)
+#EXTINF:-1 tvg-id="" tvg-name="SKY TG 24 (7)" tvg-logo="" group-title="News", SKY TG 24 (7)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to"}
 https://vavoo.to/play/318057128/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SKY TG 24 .c" tvg-logo="" group-title="Informazione", SKY TG 24 .c
+#EXTINF:-1 tvg-id="" tvg-name="SKY TG 24 .c" tvg-logo="" group-title="News", SKY TG 24 .c
 #EXTVLCOPT:http-user-agent=KOOL/1.0
 #EXTVLCOPT:http-referrer=https://kool.to
 #EXTHTTP:{"User-Agent":"KOOL/1.0","Referer":"https://kool.to"}
 https://kool.to/play/3376031355/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SKY TG 24 .s" tvg-logo="" group-title="Informazione", SKY TG 24 .s
+#EXTINF:-1 tvg-id="" tvg-name="SKY TG 24 .s" tvg-logo="" group-title="News", SKY TG 24 .s
 #EXTVLCOPT:http-user-agent=KOOL/1.0
 #EXTVLCOPT:http-referrer=https://kool.to
 #EXTHTTP:{"User-Agent":"KOOL/1.0","Referer":"https://kool.to"}
 https://kool.to/play/318057128/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SKY TG 24 |E" tvg-logo="" group-title="Informazione", SKY TG 24 |E
+#EXTINF:-1 tvg-id="" tvg-name="SKY TG 24 |E" tvg-logo="" group-title="News", SKY TG 24 |E
 #EXTVLCOPT:http-user-agent=HUHU/1.0
 #EXTVLCOPT:http-referrer=https://huhu.to
 #EXTHTTP:{"User-Agent":"HUHU/1.0","Referer":"https://huhu.to"}
 https://huhu.to/play/3376031355/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SKY TG 24 |E" tvg-logo="" group-title="Informazione", SKY TG 24 |E
+#EXTINF:-1 tvg-id="" tvg-name="SKY TG 24 |E" tvg-logo="" group-title="News", SKY TG 24 |E
 #EXTVLCOPT:http-user-agent=OHA/1.0
 #EXTVLCOPT:http-referrer=https://oha.to
 #EXTHTTP:{"User-Agent":"OHA/1.0","Referer":"https://oha.to"}
 https://oha.to/play/3376031355/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SKY TG 24 |H" tvg-logo="" group-title="Informazione", SKY TG 24 |H
+#EXTINF:-1 tvg-id="" tvg-name="SKY TG 24 |H" tvg-logo="" group-title="News", SKY TG 24 |H
 #EXTVLCOPT:http-user-agent=HUHU/1.0
 #EXTVLCOPT:http-referrer=https://huhu.to
 #EXTHTTP:{"User-Agent":"HUHU/1.0","Referer":"https://huhu.to"}
 https://huhu.to/play/318057128/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SKY TG 24 |H" tvg-logo="" group-title="Informazione", SKY TG 24 |H
+#EXTINF:-1 tvg-id="" tvg-name="SKY TG 24 |H" tvg-logo="" group-title="News", SKY TG 24 |H
 #EXTVLCOPT:http-user-agent=OHA/1.0
 #EXTVLCOPT:http-referrer=https://oha.to
 #EXTHTTP:{"User-Agent":"OHA/1.0","Referer":"https://oha.to"}
@@ -6499,102 +6499,102 @@ https://huhu.to/play/322024849/index.m3u8
 #EXTVLCOPT:http-referrer=https://oha.to
 #EXTHTTP:{"User-Agent":"OHA/1.0","Referer":"https://oha.to"}
 https://oha.to/play/322024849/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SPORT ITALIA (7)" tvg-logo="" group-title="Sport", SPORT ITALIA (7)
+#EXTINF:-1 tvg-id="" tvg-name="SPORT ITALIA (7)" tvg-logo="" group-title="Intrattenimento", SPORT ITALIA (7)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to"}
 https://vavoo.to/play/2881739927/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SPORT ITALIA (BACKUP) (7)" tvg-logo="" group-title="Sport", SPORT ITALIA (BACKUP) (7)
+#EXTINF:-1 tvg-id="" tvg-name="SPORT ITALIA (BACKUP) (7)" tvg-logo="" group-title="Intrattenimento", SPORT ITALIA (BACKUP) (7)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to"}
 https://vavoo.to/play/3165086929/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SPORT ITALIA (BACKUP) .s" tvg-logo="" group-title="Sport", SPORT ITALIA (BACKUP) .s
+#EXTINF:-1 tvg-id="" tvg-name="SPORT ITALIA (BACKUP) .s" tvg-logo="" group-title="Intrattenimento", SPORT ITALIA (BACKUP) .s
 #EXTVLCOPT:http-user-agent=KOOL/1.0
 #EXTVLCOPT:http-referrer=https://kool.to
 #EXTHTTP:{"User-Agent":"KOOL/1.0","Referer":"https://kool.to"}
 https://kool.to/play/3165086929/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SPORT ITALIA (BACKUP) |H" tvg-logo="" group-title="Sport", SPORT ITALIA (BACKUP) |H
+#EXTINF:-1 tvg-id="" tvg-name="SPORT ITALIA (BACKUP) |H" tvg-logo="" group-title="Intrattenimento", SPORT ITALIA (BACKUP) |H
 #EXTVLCOPT:http-user-agent=HUHU/1.0
 #EXTVLCOPT:http-referrer=https://huhu.to
 #EXTHTTP:{"User-Agent":"HUHU/1.0","Referer":"https://huhu.to"}
 https://huhu.to/play/3165086929/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SPORT ITALIA (BACKUP) |H" tvg-logo="" group-title="Sport", SPORT ITALIA (BACKUP) |H
+#EXTINF:-1 tvg-id="" tvg-name="SPORT ITALIA (BACKUP) |H" tvg-logo="" group-title="Intrattenimento", SPORT ITALIA (BACKUP) |H
 #EXTVLCOPT:http-user-agent=OHA/1.0
 #EXTVLCOPT:http-referrer=https://oha.to
 #EXTHTTP:{"User-Agent":"OHA/1.0","Referer":"https://oha.to"}
 https://oha.to/play/3165086929/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SPORT ITALIA .s" tvg-logo="" group-title="Sport", SPORT ITALIA .s
+#EXTINF:-1 tvg-id="" tvg-name="SPORT ITALIA .s" tvg-logo="" group-title="Intrattenimento", SPORT ITALIA .s
 #EXTVLCOPT:http-user-agent=KOOL/1.0
 #EXTVLCOPT:http-referrer=https://kool.to
 #EXTHTTP:{"User-Agent":"KOOL/1.0","Referer":"https://kool.to"}
 https://kool.to/play/2881739927/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SPORT ITALIA SOLO CALCIO [LIVE DURING EVENTS ONLY] (7)" tvg-logo="" group-title="Sport", SPORT ITALIA SOLO CALCIO [LIVE DURING EVENTS ONLY] (7)
+#EXTINF:-1 tvg-id="" tvg-name="SPORT ITALIA SOLO CALCIO [LIVE DURING EVENTS ONLY] (7)" tvg-logo="" group-title="Intrattenimento", SPORT ITALIA SOLO CALCIO [LIVE DURING EVENTS ONLY] (7)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to"}
 https://vavoo.to/play/830949486/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SPORT ITALIA SOLO CALCIO [LIVE DURING EVENTS ONLY] .s" tvg-logo="" group-title="Sport", SPORT ITALIA SOLO CALCIO [LIVE DURING EVENTS ONLY] .s
+#EXTINF:-1 tvg-id="" tvg-name="SPORT ITALIA SOLO CALCIO [LIVE DURING EVENTS ONLY] .s" tvg-logo="" group-title="Intrattenimento", SPORT ITALIA SOLO CALCIO [LIVE DURING EVENTS ONLY] .s
 #EXTVLCOPT:http-user-agent=KOOL/1.0
 #EXTVLCOPT:http-referrer=https://kool.to
 #EXTHTTP:{"User-Agent":"KOOL/1.0","Referer":"https://kool.to"}
 https://kool.to/play/830949486/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SPORT ITALIA SOLO CALCIO [LIVE DURING EVENTS ONLY] |H" tvg-logo="" group-title="Sport", SPORT ITALIA SOLO CALCIO [LIVE DURING EVENTS ONLY] |H
+#EXTINF:-1 tvg-id="" tvg-name="SPORT ITALIA SOLO CALCIO [LIVE DURING EVENTS ONLY] |H" tvg-logo="" group-title="Intrattenimento", SPORT ITALIA SOLO CALCIO [LIVE DURING EVENTS ONLY] |H
 #EXTVLCOPT:http-user-agent=HUHU/1.0
 #EXTVLCOPT:http-referrer=https://huhu.to
 #EXTHTTP:{"User-Agent":"HUHU/1.0","Referer":"https://huhu.to"}
 https://huhu.to/play/830949486/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SPORT ITALIA SOLO CALCIO [LIVE DURING EVENTS ONLY] |H" tvg-logo="" group-title="Sport", SPORT ITALIA SOLO CALCIO [LIVE DURING EVENTS ONLY] |H
+#EXTINF:-1 tvg-id="" tvg-name="SPORT ITALIA SOLO CALCIO [LIVE DURING EVENTS ONLY] |H" tvg-logo="" group-title="Intrattenimento", SPORT ITALIA SOLO CALCIO [LIVE DURING EVENTS ONLY] |H
 #EXTVLCOPT:http-user-agent=OHA/1.0
 #EXTVLCOPT:http-referrer=https://oha.to
 #EXTHTTP:{"User-Agent":"OHA/1.0","Referer":"https://oha.to"}
 https://oha.to/play/830949486/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SPORT ITALIA |H" tvg-logo="" group-title="Sport", SPORT ITALIA |H
+#EXTINF:-1 tvg-id="" tvg-name="SPORT ITALIA |H" tvg-logo="" group-title="Intrattenimento", SPORT ITALIA |H
 #EXTVLCOPT:http-user-agent=HUHU/1.0
 #EXTVLCOPT:http-referrer=https://huhu.to
 #EXTHTTP:{"User-Agent":"HUHU/1.0","Referer":"https://huhu.to"}
 https://huhu.to/play/2881739927/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SPORT ITALIA |H" tvg-logo="" group-title="Sport", SPORT ITALIA |H
+#EXTINF:-1 tvg-id="" tvg-name="SPORT ITALIA |H" tvg-logo="" group-title="Intrattenimento", SPORT ITALIA |H
 #EXTVLCOPT:http-user-agent=OHA/1.0
 #EXTVLCOPT:http-referrer=https://oha.to
 #EXTHTTP:{"User-Agent":"OHA/1.0","Referer":"https://oha.to"}
 https://oha.to/play/2881739927/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SPORTITALIA PLUS (6)" tvg-logo="" group-title="Sport", SPORTITALIA PLUS (6)
+#EXTINF:-1 tvg-id="" tvg-name="SPORTITALIA PLUS (6)" tvg-logo="" group-title="Intrattenimento", SPORTITALIA PLUS (6)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to"}
 https://vavoo.to/play/3342849313/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SPORTITALIA PLUS .c" tvg-logo="" group-title="Sport", SPORTITALIA PLUS .c
+#EXTINF:-1 tvg-id="" tvg-name="SPORTITALIA PLUS .c" tvg-logo="" group-title="Intrattenimento", SPORTITALIA PLUS .c
 #EXTVLCOPT:http-user-agent=KOOL/1.0
 #EXTVLCOPT:http-referrer=https://kool.to
 #EXTHTTP:{"User-Agent":"KOOL/1.0","Referer":"https://kool.to"}
 https://kool.to/play/3342849313/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SPORTITALIA PLUS |E" tvg-logo="" group-title="Sport", SPORTITALIA PLUS |E
+#EXTINF:-1 tvg-id="" tvg-name="SPORTITALIA PLUS |E" tvg-logo="" group-title="Intrattenimento", SPORTITALIA PLUS |E
 #EXTVLCOPT:http-user-agent=HUHU/1.0
 #EXTVLCOPT:http-referrer=https://huhu.to
 #EXTHTTP:{"User-Agent":"HUHU/1.0","Referer":"https://huhu.to"}
 https://huhu.to/play/3342849313/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SPORTITALIA PLUS |E" tvg-logo="" group-title="Sport", SPORTITALIA PLUS |E
+#EXTINF:-1 tvg-id="" tvg-name="SPORTITALIA PLUS |E" tvg-logo="" group-title="Intrattenimento", SPORTITALIA PLUS |E
 #EXTVLCOPT:http-user-agent=OHA/1.0
 #EXTVLCOPT:http-referrer=https://oha.to
 #EXTHTTP:{"User-Agent":"OHA/1.0","Referer":"https://oha.to"}
 https://oha.to/play/3342849313/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SPORTITALIA SOLOCALCIO (6)" tvg-logo="" group-title="Sport", SPORTITALIA SOLOCALCIO (6)
+#EXTINF:-1 tvg-id="" tvg-name="SPORTITALIA SOLOCALCIO (6)" tvg-logo="" group-title="Intrattenimento", SPORTITALIA SOLOCALCIO (6)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to"}
 https://vavoo.to/play/2198410339/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SPORTITALIA SOLOCALCIO .c" tvg-logo="" group-title="Sport", SPORTITALIA SOLOCALCIO .c
+#EXTINF:-1 tvg-id="" tvg-name="SPORTITALIA SOLOCALCIO .c" tvg-logo="" group-title="Intrattenimento", SPORTITALIA SOLOCALCIO .c
 #EXTVLCOPT:http-user-agent=KOOL/1.0
 #EXTVLCOPT:http-referrer=https://kool.to
 #EXTHTTP:{"User-Agent":"KOOL/1.0","Referer":"https://kool.to"}
 https://kool.to/play/2198410339/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SPORTITALIA SOLOCALCIO |E" tvg-logo="" group-title="Sport", SPORTITALIA SOLOCALCIO |E
+#EXTINF:-1 tvg-id="" tvg-name="SPORTITALIA SOLOCALCIO |E" tvg-logo="" group-title="Intrattenimento", SPORTITALIA SOLOCALCIO |E
 #EXTVLCOPT:http-user-agent=HUHU/1.0
 #EXTVLCOPT:http-referrer=https://huhu.to
 #EXTHTTP:{"User-Agent":"HUHU/1.0","Referer":"https://huhu.to"}
 https://huhu.to/play/2198410339/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SPORTITALIA SOLOCALCIO |E" tvg-logo="" group-title="Sport", SPORTITALIA SOLOCALCIO |E
+#EXTINF:-1 tvg-id="" tvg-name="SPORTITALIA SOLOCALCIO |E" tvg-logo="" group-title="Intrattenimento", SPORTITALIA SOLOCALCIO |E
 #EXTVLCOPT:http-user-agent=OHA/1.0
 #EXTVLCOPT:http-referrer=https://oha.to
 #EXTHTTP:{"User-Agent":"OHA/1.0","Referer":"https://oha.to"}
@@ -6959,22 +6959,22 @@ https://huhu.to/play/616483317/index.m3u8
 #EXTVLCOPT:http-referrer=https://oha.to
 #EXTHTTP:{"User-Agent":"OHA/1.0","Referer":"https://oha.to"}
 https://oha.to/play/616483317/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TELE RADIO SCIACCA (6)" tvg-logo="" group-title="Varie", TELE RADIO SCIACCA (6)
+#EXTINF:-1 tvg-id="" tvg-name="TELE RADIO SCIACCA (6)" tvg-logo="" group-title="Musica", TELE RADIO SCIACCA (6)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to"}
 https://vavoo.to/play/3990509931/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TELE RADIO SCIACCA .c" tvg-logo="" group-title="Varie", TELE RADIO SCIACCA .c
+#EXTINF:-1 tvg-id="" tvg-name="TELE RADIO SCIACCA .c" tvg-logo="" group-title="Musica", TELE RADIO SCIACCA .c
 #EXTVLCOPT:http-user-agent=KOOL/1.0
 #EXTVLCOPT:http-referrer=https://kool.to
 #EXTHTTP:{"User-Agent":"KOOL/1.0","Referer":"https://kool.to"}
 https://kool.to/play/3990509931/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TELE RADIO SCIACCA |E" tvg-logo="" group-title="Varie", TELE RADIO SCIACCA |E
+#EXTINF:-1 tvg-id="" tvg-name="TELE RADIO SCIACCA |E" tvg-logo="" group-title="Musica", TELE RADIO SCIACCA |E
 #EXTVLCOPT:http-user-agent=HUHU/1.0
 #EXTVLCOPT:http-referrer=https://huhu.to
 #EXTHTTP:{"User-Agent":"HUHU/1.0","Referer":"https://huhu.to"}
 https://huhu.to/play/3990509931/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TELE RADIO SCIACCA |E" tvg-logo="" group-title="Varie", TELE RADIO SCIACCA |E
+#EXTINF:-1 tvg-id="" tvg-name="TELE RADIO SCIACCA |E" tvg-logo="" group-title="Musica", TELE RADIO SCIACCA |E
 #EXTVLCOPT:http-user-agent=OHA/1.0
 #EXTVLCOPT:http-referrer=https://oha.to
 #EXTHTTP:{"User-Agent":"OHA/1.0","Referer":"https://oha.to"}
@@ -7309,22 +7309,22 @@ https://vavoo.to/play/1658329091/index.m3u8
 #EXTVLCOPT:http-referrer=https://kool.to
 #EXTHTTP:{"User-Agent":"KOOL/1.0","Referer":"https://kool.to"}
 https://kool.to/play/1658329091/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TELEPACE TRENTO (HISTORY LAB) (6)" tvg-logo="" group-title="Informazione", TELEPACE TRENTO (HISTORY LAB) (6)
+#EXTINF:-1 tvg-id="" tvg-name="TELEPACE TRENTO (HISTORY LAB) (6)" tvg-logo="" group-title="Documentari", TELEPACE TRENTO (HISTORY LAB) (6)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to"}
 https://vavoo.to/play/1794299695/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TELEPACE TRENTO (HISTORY LAB) .c" tvg-logo="" group-title="Informazione", TELEPACE TRENTO (HISTORY LAB) .c
+#EXTINF:-1 tvg-id="" tvg-name="TELEPACE TRENTO (HISTORY LAB) .c" tvg-logo="" group-title="Documentari", TELEPACE TRENTO (HISTORY LAB) .c
 #EXTVLCOPT:http-user-agent=KOOL/1.0
 #EXTVLCOPT:http-referrer=https://kool.to
 #EXTHTTP:{"User-Agent":"KOOL/1.0","Referer":"https://kool.to"}
 https://kool.to/play/1794299695/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TELEPACE TRENTO (HISTORY LAB) |E" tvg-logo="" group-title="Informazione", TELEPACE TRENTO (HISTORY LAB) |E
+#EXTINF:-1 tvg-id="" tvg-name="TELEPACE TRENTO (HISTORY LAB) |E" tvg-logo="" group-title="Documentari", TELEPACE TRENTO (HISTORY LAB) |E
 #EXTVLCOPT:http-user-agent=HUHU/1.0
 #EXTVLCOPT:http-referrer=https://huhu.to
 #EXTHTTP:{"User-Agent":"HUHU/1.0","Referer":"https://huhu.to"}
 https://huhu.to/play/1794299695/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TELEPACE TRENTO (HISTORY LAB) |E" tvg-logo="" group-title="Informazione", TELEPACE TRENTO (HISTORY LAB) |E
+#EXTINF:-1 tvg-id="" tvg-name="TELEPACE TRENTO (HISTORY LAB) |E" tvg-logo="" group-title="Documentari", TELEPACE TRENTO (HISTORY LAB) |E
 #EXTVLCOPT:http-user-agent=OHA/1.0
 #EXTVLCOPT:http-referrer=https://oha.to
 #EXTHTTP:{"User-Agent":"OHA/1.0","Referer":"https://oha.to"}
@@ -7499,82 +7499,82 @@ https://huhu.to/play/2716316208/index.m3u8
 #EXTVLCOPT:http-referrer=https://oha.to
 #EXTHTTP:{"User-Agent":"OHA/1.0","Referer":"https://oha.to"}
 https://oha.to/play/2716316208/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TG COM 24 (7)" tvg-logo="" group-title="Informazione", TG COM 24 (7)
+#EXTINF:-1 tvg-id="" tvg-name="TG COM 24 (7)" tvg-logo="" group-title="News", TG COM 24 (7)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to"}
 https://vavoo.to/play/1785098768/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TG COM 24 .s" tvg-logo="" group-title="Informazione", TG COM 24 .s
+#EXTINF:-1 tvg-id="" tvg-name="TG COM 24 .s" tvg-logo="" group-title="News", TG COM 24 .s
 #EXTVLCOPT:http-user-agent=KOOL/1.0
 #EXTVLCOPT:http-referrer=https://kool.to
 #EXTHTTP:{"User-Agent":"KOOL/1.0","Referer":"https://kool.to"}
 https://kool.to/play/1785098768/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TG COM 24 |H" tvg-logo="" group-title="Informazione", TG COM 24 |H
+#EXTINF:-1 tvg-id="" tvg-name="TG COM 24 |H" tvg-logo="" group-title="News", TG COM 24 |H
 #EXTVLCOPT:http-user-agent=HUHU/1.0
 #EXTVLCOPT:http-referrer=https://huhu.to
 #EXTHTTP:{"User-Agent":"HUHU/1.0","Referer":"https://huhu.to"}
 https://huhu.to/play/1785098768/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TG COM 24 |H" tvg-logo="" group-title="Informazione", TG COM 24 |H
+#EXTINF:-1 tvg-id="" tvg-name="TG COM 24 |H" tvg-logo="" group-title="News", TG COM 24 |H
 #EXTVLCOPT:http-user-agent=OHA/1.0
 #EXTVLCOPT:http-referrer=https://oha.to
 #EXTHTTP:{"User-Agent":"OHA/1.0","Referer":"https://oha.to"}
 https://oha.to/play/1785098768/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TG NORBA 24 (6)" tvg-logo="" group-title="Informazione", TG NORBA 24 (6)
+#EXTINF:-1 tvg-id="" tvg-name="TG NORBA 24 (6)" tvg-logo="" group-title="News", TG NORBA 24 (6)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to"}
 https://vavoo.to/play/3379729817/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TG NORBA 24 (7)" tvg-logo="" group-title="Informazione", TG NORBA 24 (7)
+#EXTINF:-1 tvg-id="" tvg-name="TG NORBA 24 (7)" tvg-logo="" group-title="News", TG NORBA 24 (7)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to"}
 https://vavoo.to/play/3413557893/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TG NORBA 24 .c" tvg-logo="" group-title="Informazione", TG NORBA 24 .c
+#EXTINF:-1 tvg-id="" tvg-name="TG NORBA 24 .c" tvg-logo="" group-title="News", TG NORBA 24 .c
 #EXTVLCOPT:http-user-agent=KOOL/1.0
 #EXTVLCOPT:http-referrer=https://kool.to
 #EXTHTTP:{"User-Agent":"KOOL/1.0","Referer":"https://kool.to"}
 https://kool.to/play/3379729817/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TG NORBA 24 .s" tvg-logo="" group-title="Informazione", TG NORBA 24 .s
+#EXTINF:-1 tvg-id="" tvg-name="TG NORBA 24 .s" tvg-logo="" group-title="News", TG NORBA 24 .s
 #EXTVLCOPT:http-user-agent=KOOL/1.0
 #EXTVLCOPT:http-referrer=https://kool.to
 #EXTHTTP:{"User-Agent":"KOOL/1.0","Referer":"https://kool.to"}
 https://kool.to/play/3413557893/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TG NORBA 24 |E" tvg-logo="" group-title="Informazione", TG NORBA 24 |E
+#EXTINF:-1 tvg-id="" tvg-name="TG NORBA 24 |E" tvg-logo="" group-title="News", TG NORBA 24 |E
 #EXTVLCOPT:http-user-agent=HUHU/1.0
 #EXTVLCOPT:http-referrer=https://huhu.to
 #EXTHTTP:{"User-Agent":"HUHU/1.0","Referer":"https://huhu.to"}
 https://huhu.to/play/3379729817/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TG NORBA 24 |E" tvg-logo="" group-title="Informazione", TG NORBA 24 |E
+#EXTINF:-1 tvg-id="" tvg-name="TG NORBA 24 |E" tvg-logo="" group-title="News", TG NORBA 24 |E
 #EXTVLCOPT:http-user-agent=OHA/1.0
 #EXTVLCOPT:http-referrer=https://oha.to
 #EXTHTTP:{"User-Agent":"OHA/1.0","Referer":"https://oha.to"}
 https://oha.to/play/3379729817/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TG NORBA 24 |H" tvg-logo="" group-title="Informazione", TG NORBA 24 |H
+#EXTINF:-1 tvg-id="" tvg-name="TG NORBA 24 |H" tvg-logo="" group-title="News", TG NORBA 24 |H
 #EXTVLCOPT:http-user-agent=HUHU/1.0
 #EXTVLCOPT:http-referrer=https://huhu.to
 #EXTHTTP:{"User-Agent":"HUHU/1.0","Referer":"https://huhu.to"}
 https://huhu.to/play/3413557893/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TG NORBA 24 |H" tvg-logo="" group-title="Informazione", TG NORBA 24 |H
+#EXTINF:-1 tvg-id="" tvg-name="TG NORBA 24 |H" tvg-logo="" group-title="News", TG NORBA 24 |H
 #EXTVLCOPT:http-user-agent=OHA/1.0
 #EXTVLCOPT:http-referrer=https://oha.to
 #EXTHTTP:{"User-Agent":"OHA/1.0","Referer":"https://oha.to"}
 https://oha.to/play/3413557893/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TGCOM 24 (6)" tvg-logo="" group-title="Informazione", TGCOM 24 (6)
+#EXTINF:-1 tvg-id="" tvg-name="TGCOM 24 (6)" tvg-logo="" group-title="News", TGCOM 24 (6)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to"}
 https://vavoo.to/play/2418148449/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TGCOM 24 .c" tvg-logo="" group-title="Informazione", TGCOM 24 .c
+#EXTINF:-1 tvg-id="" tvg-name="TGCOM 24 .c" tvg-logo="" group-title="News", TGCOM 24 .c
 #EXTVLCOPT:http-user-agent=KOOL/1.0
 #EXTVLCOPT:http-referrer=https://kool.to
 #EXTHTTP:{"User-Agent":"KOOL/1.0","Referer":"https://kool.to"}
 https://kool.to/play/2418148449/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TGCOM 24 |E" tvg-logo="" group-title="Informazione", TGCOM 24 |E
+#EXTINF:-1 tvg-id="" tvg-name="TGCOM 24 |E" tvg-logo="" group-title="News", TGCOM 24 |E
 #EXTVLCOPT:http-user-agent=HUHU/1.0
 #EXTVLCOPT:http-referrer=https://huhu.to
 #EXTHTTP:{"User-Agent":"HUHU/1.0","Referer":"https://huhu.to"}
 https://huhu.to/play/2418148449/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TGCOM 24 |E" tvg-logo="" group-title="Informazione", TGCOM 24 |E
+#EXTINF:-1 tvg-id="" tvg-name="TGCOM 24 |E" tvg-logo="" group-title="News", TGCOM 24 |E
 #EXTVLCOPT:http-user-agent=OHA/1.0
 #EXTVLCOPT:http-referrer=https://oha.to
 #EXTHTTP:{"User-Agent":"OHA/1.0","Referer":"https://oha.to"}
@@ -7899,22 +7899,22 @@ https://huhu.to/play/1133734972/index.m3u8
 #EXTVLCOPT:http-referrer=https://oha.to
 #EXTHTTP:{"User-Agent":"OHA/1.0","Referer":"https://oha.to"}
 https://oha.to/play/1133734972/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV7 NEWS (6)" tvg-logo="" group-title="Informazione", TV7 NEWS (6)
+#EXTINF:-1 tvg-id="" tvg-name="TV7 NEWS (6)" tvg-logo="" group-title="News", TV7 NEWS (6)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to
 #EXTHTTP:{"User-Agent":"VAVOO/1.0","Referer":"https://vavoo.to"}
 https://vavoo.to/play/2802329064/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV7 NEWS .c" tvg-logo="" group-title="Informazione", TV7 NEWS .c
+#EXTINF:-1 tvg-id="" tvg-name="TV7 NEWS .c" tvg-logo="" group-title="News", TV7 NEWS .c
 #EXTVLCOPT:http-user-agent=KOOL/1.0
 #EXTVLCOPT:http-referrer=https://kool.to
 #EXTHTTP:{"User-Agent":"KOOL/1.0","Referer":"https://kool.to"}
 https://kool.to/play/2802329064/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV7 NEWS |E" tvg-logo="" group-title="Informazione", TV7 NEWS |E
+#EXTINF:-1 tvg-id="" tvg-name="TV7 NEWS |E" tvg-logo="" group-title="News", TV7 NEWS |E
 #EXTVLCOPT:http-user-agent=HUHU/1.0
 #EXTVLCOPT:http-referrer=https://huhu.to
 #EXTHTTP:{"User-Agent":"HUHU/1.0","Referer":"https://huhu.to"}
 https://huhu.to/play/2802329064/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV7 NEWS |E" tvg-logo="" group-title="Informazione", TV7 NEWS |E
+#EXTINF:-1 tvg-id="" tvg-name="TV7 NEWS |E" tvg-logo="" group-title="News", TV7 NEWS |E
 #EXTVLCOPT:http-user-agent=OHA/1.0
 #EXTVLCOPT:http-referrer=https://oha.to
 #EXTHTTP:{"User-Agent":"OHA/1.0","Referer":"https://oha.to"}
