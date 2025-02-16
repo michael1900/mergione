@@ -63,9 +63,7 @@ def filter_italian_channels(channels, base_url):
             count = seen.get(clean_name, 0) + 1
             seen[clean_name] = count
             if count > 1:
-                clean_name = f"{clean_name} ({source_tag}{count})"
-            else:
-                clean_name = f"{clean_name} ({source_tag})"
+                clean_name = f"{clean_name} ({count})"
             results.append((clean_name, f"{base_url}/play/{ch['id']}/index.m3u8", base_url))
     
     return results
