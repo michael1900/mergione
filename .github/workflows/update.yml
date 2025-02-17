@@ -2,7 +2,7 @@ name: Update ogni 6 ore
 
 on:
   schedule:
-    - cron: '0 */6 * * *'  # Esegue ogni 6 ore
+    - cron: '0 */3 * * *'  # Esegue ogni 6 ore
   workflow_dispatch:  # Permette di eseguire manualmente
 
 permissions:
