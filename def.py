@@ -214,7 +214,8 @@ def assign_category(name):
     name_lower = name.lower()
     category1 = next((category for category, keywords in CATEGORY_KEYWORDS.items() if any(keyword in name_lower for keyword in keywords)), "")
     category2 = next((category for category, keywords in CATEGORY_KEYWORDS2.items() if any(keyword in name_lower for keyword in keywords)), "")
-    return f"{category1};{category2}" if category1 or category2 else "Altro"
+    categories = ";".join(filter(None, [category1, category2]))
+    return categories if categories else "Altro"
 
 def extract_user_agent():
     return "VAVOO/2.6"
@@ -259,7 +260,7 @@ def save_m3u8(channels):
         os.remove(OUTPUT_FILE)
 
     with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
-        f.write("#EXTM3U\n\n")
+        f.write('#EXTM3U url-tvg="http://epg-guide.com/it.xz"\n\n')
         user_agent = extract_user_agent()
         for name, url, category in channels:
             tvg_id = normalize_tvg_id(name)
