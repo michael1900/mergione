@@ -8,8 +8,8 @@ OUTPUT_FILE = "channels_italy.m3u8"
 
 CATEGORY_KEYWORDS = {
     "Sport": ["sport", "dazn", "eurosport", "sky sport", "rai sport", "sport", "dazn", "tennis", "moto", "f1", "golf", "sportitalia", "sport italia", "solo calcio", "solocalcio"],
-    "Film & Serie TV": ["primafila", "cinema", "movie", "film", "serie", "hbo", "fox"],
-    "News": ["news", "tg", "rai news", "sky tg", "tgcom"],
+    "Film": ["primafila", "cinema", "movie", "film", "serie", "hbo", "fox"],
+    "Notizie": ["news", "tg", "rai news", "sky tg", "tgcom"],
     "Intrattenimento": ["rai", "mediaset", "italia", "focus", "real time"],
     "Bambini": ["cartoon", "boing", "nick", "disney", "baby", "boing", "cartoon", "k2", "discovery k2", "nick", "super", "frisbee"],
     "Documentari": ["discovery", "geo", "history", "nat geo", "nature", "arte", "documentary"],
@@ -17,11 +17,11 @@ CATEGORY_KEYWORDS = {
 }
 
 CATEGORY_KEYWORDS2 = {
-    "SKY": ["sky cin", "tv 8", "fox", "comedy central", "animal planet", "nat geo", "tv8", "sky atl", "sky uno", "sky prima", "sky serie", "sky arte", "sky docum", "sky natu", "cielo", "history", "sky tg"],
-    "RAI": ["rai"],
-    "MEDIASET": ["mediaset", "canale 5", "rete 4", "italia", "focus", "tg com 24", "tgcom 24", "premium crime", "iris", "mediaset iris", "cine 34", "27 twenty seven", "27 twentyseven"],
-    "DISCOVERY": ["discovery", "real time", "investigation", "top crime", "wwe", "hgtv", "nove", "dmax", "food network", "warner tv"],
-    "RAKUTEN": ["rakuten"]
+    "Sky": ["sky cin", "tv 8", "fox", "comedy central", "animal planet", "nat geo", "tv8", "sky atl", "sky uno", "sky prima", "sky serie", "sky arte", "sky docum", "sky natu", "cielo", "history", "sky tg"],
+    "Rai Tv": ["rai"],
+    "Mediaset": ["mediaset", "canale 5", "rete 4", "italia", "focus", "tg com 24", "tgcom 24", "premium crime", "iris", "mediaset iris", "cine 34", "27 twenty seven", "27 twentyseven"],
+    "Discovery": ["discovery", "real time", "investigation", "top crime", "wwe", "hgtv", "nove", "dmax", "food network", "warner tv"],
+    "Rakuten": ["rakuten"]
 }
 
 CHANNEL_FILTERS = [
