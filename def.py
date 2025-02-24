@@ -264,8 +264,11 @@ def save_m3u8(channels):
         user_agent = extract_user_agent()
         for name, url, category in channels:
             tvg_id = normalize_tvg_id(name)
-            base_tvg_id = re.sub(r"\s*\(\d+\)$", "", tvg_id).lower()  # Rimuove numeri tra parentesi alla fine
+            tvg_id_clean = re.sub(r"\s*\(\d+\)$", "", tvg_id)  # Rimuove numeri tra parentesi solo per tvg-id
+            base_tvg_id = tvg_id.lower()  # Questo serve per cercare il logo nel dizionario
+
             logo = CHANNEL_LOGOS.get(base_tvg_id, "")
+
             f.write(f'#EXTINF:-1 tvg-id="{tvg_id_clean}" tvg-name="{tvg_id}" tvg-logo="{logo}" group-title="{category}",{name}\n')
             f.write(f'#EXTVLCOPT:http-user-agent={user_agent}\n')
             f.write(f'#EXTVLCOPT:http-referrer={BASE_URL}/\n')
