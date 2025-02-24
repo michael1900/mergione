@@ -266,7 +266,7 @@ def save_m3u8(channels):
             tvg_id = normalize_tvg_id(name)
             base_tvg_id = re.sub(r"\s*\(\d+\)$", "", tvg_id).lower()  # Rimuove numeri tra parentesi alla fine
             logo = CHANNEL_LOGOS.get(base_tvg_id, "")
-            f.write(f'#EXTINF:-1 tvg-id="{tvg_id}" tvg-name="{tvg_id}" tvg-logo="{logo}" group-title="{category}",{name}\n')
+            f.write(f'#EXTINF:-1 tvg-id="{tvg_id_clean}" tvg-name="{tvg_id}" tvg-logo="{logo}" group-title="{category}",{name}\n')
             f.write(f'#EXTVLCOPT:http-user-agent={user_agent}\n')
             f.write(f'#EXTVLCOPT:http-referrer={BASE_URL}/\n')
             f.write(f"{url}\n\n")
