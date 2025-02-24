@@ -260,7 +260,7 @@ def save_m3u8(channels):
         os.remove(OUTPUT_FILE)
 
     with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
-        f.write('#EXTM3U url-tvg="http://epg-guide.com/it.xz"\n\n')
+        f.write('#EXTM3U url-tvg="http://epg-guide.com/it.gz"\n\n')
         user_agent = extract_user_agent()
         for name, url, category in channels:
             tvg_id = normalize_tvg_id(name)
