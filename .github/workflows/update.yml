@@ -25,6 +25,7 @@ jobs:
 
       - name: Esegui lo script
         run: python def.py
+             python vavooworld.py
 
       - name: Aggiungi il file generato al commit
         run: |
