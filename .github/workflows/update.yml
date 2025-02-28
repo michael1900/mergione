@@ -23,10 +23,12 @@ jobs:
       - name: Installa le dipendenze
         run: pip install requests
 
-      - name: Esegui lo script
+      - name: Esegui lo script def.py
         run: python def.py
-             python vavooworld.py
-
+        
+      - name: Esegui lo script vavooworld.py
+        run: python vavooworld.py
+        
       - name: Aggiungi il file generato al commit
         run: |
           git config --global user.name "GitHub Actions"
