@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="http://epg-guide.com/it.gz"
 
-#EXTINF:-1 tvg-id="sky uno daddy" tvg-name="sky uno daddy" tvg-logo="tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-uno-it.png" group-title="Daddy",SKY UNO D
-https://small-0wok.onrender.com/proxy/m3u?url=https%3A%2F%2Fwindnew.iosplayer.ru%2Fwind%2Fpremium862%2Fmono.m3u8&header_Referer=https%3A%2F%2Filovetoplay.xyz%2F&header_User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F133.0.0.0+Safari%2F537.36&header_Origin=https%3A%2F%2Filovetoplay.xyz
+#EXTINF:-1 tvg-id="sky serie daddy" tvg-name="sky serie daddy" tvg-logo="tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-uno-it.png" group-title="Daddy",SKY UNO D
+https://small-0wok.onrender.com/proxy/m3u?url=https%3A%2F%2Fwindnew.iosplayer.ru%2Fwind%2Fpremium880%2Fmono.m3u8&header_Referer=https%3A%2F%2Filovetoplay.xyz%2F&header_User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F133.0.0.0+Safari%2F537.36&header_Origin=https%3A%2F%2Filovetoplay.xyz
 
 #EXTINF:-1 tvg-id="Canale 5" tvg-name="Canale 5" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/canale5-it.png" group-title="Mediaset",CANALE 5 (V)
 https://small-0wok.onrender.com/proxy/m3u?url=1101559666/index.m3u8
